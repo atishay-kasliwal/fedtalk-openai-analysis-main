@@ -1,0 +1,633 @@
+The technology-heavy Nasdaq rose on Wednesday on strong earnings from Google-parent Alphabet, as investors turned to the Federal Reserve to gauge the impact of rising inflation and the Delta variant on its monetary stimulus.
+(Reuters) - The technology-heavy Nasdaq rose on Wednesday on strong earnings from Google-parent Alphabet, as investors turned to the Federal Reserve to gauge the impact of rising inflation and the Delta variant on its monetary stimulus.
+FILE PHOTO: A Wall Street sign is pictured outside the New York Stock Exchange in New York, October 28, 2013. REUTERS/Carlo Allegri/File Photo
+Alphabet Inc shares rose 3.8% to an all-time high as a surge in advertising spending helped it post record quarterly results, although the Nasdaq’s gains were capped by a forecast of slowing revenue growth from Apple Inc.
+Wall Street’s main indexes have scaled record highs this month on hopes of stellar corporate results amid a broader economic recovery, but the pace of gains has slowed recently due to a deepening regulatory crackdown in China and fears of a quicker-than-expected tapering of monetary policy.
+All eyes on Wednesday will be on the outcome of the Fed’s two-day meeting, with investors looking for comments on how the double whammy of rising inflation and a spike in COVID-19 cases would impact the central bank’s plan to potentially start withdrawing its stimulus.
+“The case for delaying any exit from stimulus has been enhanced by recent market moves,” said Art Hogan, chief market strategist at National Securities in New York.
+“The yield on the 10-year Treasury note has fallen since the Fed last met in mid-June, along with market measures of inflation expectations as the perceived threat of the Delta variant to worldwide growth has become the new investor narrative.”
+The June reading of the personal consumption expenditures price index - the Fed’s main inflation measure - is due on Friday.
+The Nasdaq Composite was up 0.64% by 12:05 p.m. ET, after posting its worst session in more than two months on Tuesday.
+The Dow Jones Industrial Average was down 0.16%, shrugging off a 5.3% jump in Boeing Co following the company’s first quarterly profit in almost two years.
+The benchmark S&P 500 was up 0.07%.
+(Graphics: Alphabet, Facebook lead tech behemoths in 2021: )
+Microsoft Corp edged 0.3% higher as a boom in cloud services helped it beat Wall Street expectations for revenue and earnings.
+Facebook Inc, which competes with Google in web ad sales and is slated to report results late on Wednesday, rose 1.1%.
+Focus will also be on after-market results from chipmaker Qualcomm Inc after Apple said on Tuesday chip shortages would start to bite into its mainstay iPhone business in the current quarter.
+“We need to get more visibility into chip shortages,” said Kim Forrest, chief investment officer at Bokeh Capital Partners in Pittsburgh.
+“So many of the top companies have a component of technology, and even Google, while it did not talk about chip shortages, they’re always rebuilding their data centers.”
+In other sectors, Starbucks Corp fell 2.8% after it lowered its fiscal 2021 forecast for China sales growth, while Pfizer Inc added 3.1% as it raised its outlook for full-year sales of its COVID-19 vaccine.
+Advancing issues outnumbered decliners 1.53-to-1 on the NYSE and 2.07-to-1 on the Nasdaq.
+The S&P index recorded 40 new 52-week highs and no new low, while the Nasdaq recorded 34 new highs and 53 new lows.
+
+
+The Dow Jones Industrial Average dropped 95 points Wednesday ahead of the Federal Reserve's policy decision. Apple stock sold off on earnings.
+Reuters
+The technology-heavy Nasdaq rose on Wednesday on strong earnings from Google-parent Alphabet, as investors turned to the Federal Reserve to gauge the impact of rising inflation and the Delta variant on its monetary stimulus. Alphabet Inc shares rose 3.8% to an all-time high as a surge in advertising spending helped it post record quarterly results, although the Nasdaq's gains were capped by a forecast of slowing revenue growth from Apple Inc. All eyes on Wednesday will be on the outcome of the Federal Reserve's two-day meeting, with investors looking for comments on how the double whammy of rising inflation and a spike in COVID-19 cases would impact the central bank's plan to potentially start withdrawing its stimulus.
+
+
+Some experts think central bank digital money is inevitable—and the US is falling behind.
+Digital money is nothing new—debit and credit cards have been with us for years. What’s changed is its pervasiveness. With fewer people carrying paper money, and with some places no longer accepting it, we’ve become ever more reliant on electronic cash provided by commercial institutions, from PayPal to Visa.
+As physical cash goes away, so do the properties that make it special. Cash allows people to transact without a bank account, without fees, and without a middle man in the way of their access to currency issued directly by the central bank, the lender of last resort and the bedrock of the financial system.
+Is it time for America’s central bank to create a digital dollar?
+Congress is asking. And in hearings on July 27, a group of experts laid out their reasons why the Federal Reserve needs to go digital. Here are a few of their arguments.
+Payments are expensive
+Andrew Levin, an economics professor at Dartmouth College and a 20-year veteran of the Federal Reserve, highlighted examples of businesses in New England that pay 3% or even more to the likes of Square, PayPal, and Visa whenever a customer makes a digital transaction. He points out that small businesses typically get by on tight margins, and high payment costs could make the difference between between surviving and going under.
+He notes that physical money isn’t free either, as businesses have to pay for security and cash management, which can cost as much as the electronic services. Levin suggests that a central bank digital currency, by contrast, could be designed to be costless or at least lower cost, which could promote job creation.
+A digital dollar could be a new tool for monetary policy
+The Fed has already pushed interest rates about as low as they can go, meaning policy makers have less scope to rev up the economy than they used to. A digital currency would let the central bank deposit money directly into accounts held by general public (so-called “helicopter money”), as Julia Coronado, president and founder of MacroPolicy Perspectives, said in her testimony. This could be faster, cheaper, and better targeted than the paper stimulus checks issued by the US government during the pandemic. (Digital money also could also come with an expiration date to encourage spending.)
+China is already far along in developing a digital currency
+China is among the furthest along in piloting a digital currency, giving the world’s second-largest economy the opportunity to be the leader and standard-setter for this critical digital infrastructure.
+Yaya Fanusie, adjunct senior fellow at the Center for a New American Security, noted that China plays an influential role at the Bank for International Settlements, which is set to lead deliberations over central bank digital currency standards. Those standards could end up benefitting China’s goals and interests instead of the US’s. “The United States will need to increase its CBDC expertise and assert greater influence in the BIS and other international forums that guide CBDC development,” Fanusie testified.
+It’s the Federal Reserve or Facebook
+If central banks don’t upgrade their payment systems, multinational companies like Facebook (whose initial digital coin effort was greeted by governments with a barrage of concerns) and Amazon could pull ahead and disintermediate the government authorities.
+“In a scenario where one or two Big Tech firms succeeded in dominating the entire US payments system, policymakers would face a regulatory nightmare in seeking to preserve consumer privacy and equitable treatment of small businesses,” Dartmouth’s Levin wrote.
+A digital currency would support the dollar’s role globally
+The US dollar is the main currency for international transactions, giving the American government outsize influence in global affairs through the use of sanctions. If central bank digital currencies prove to be more efficient than the existing, dollar-heavy correspondent banking system, that could gradually undermine the dollar’s role in international payments, noted Julia Friedlander, senior fellow and deputy director at the Atlantic Council’s GeoEconomics Center. “The use of CBDCs as a payments technology could begin to cause cracks in the dollar’s ubiquity in international transactions,” Friedlander testified.
+Central bank digital currencies still have risks
+Despite the advantages, a central bank digital currency also has some serious risks for the economy and the financial system. If regular people can create accounts directly with the central bank, that could undermine the existing commercial banking system. Depending on how the electronic money is designed, it could be exploited by money launderers and hackers. If the government fails to protect the system from outages and cyber attacks, people could lose confidence in the lender of last resort.
+Even so, a number of experts think central bank digital money has promise, and is likely inevitable. “The US strength in the international payments and financial services space is an American treasure that has tremendously benefited the country,” wrote Robert Baldwin, head of policy at the Association for Digital Asset Markets, in his testimony to the House Financial Services Committee. “The US must continue to innovate in this space so that it does not fall behind to pressure from international competition and digitization.”
+
+
+​Share prices inch up Thursday along with the rest of Asian markets as the Federal Reserve acknowledged the US recovery was well on track but it would not taper monetary policy just yet.
+Share prices inch up Thursday along with the rest of Asian markets as the Federal Reserve acknowledged the US recovery was well on track but it would not taper monetary policy just yet. The Philippine Stock Exchange Index added 23.50 points, or 0.4 percent, to 6,496.53 on a value turnover of P4.8 billion. Gainers beat losers, 109 to 70, with 54 issues unchanged. AC Energy Corp., a unit of conglomerate Ayala Corp. of the Ayala Group, advanced 4.7 percent to P8.17, while Nickel Asia Corp., the biggest nickel miner, climbed 4.5 percent to P6.09. Jollibee Foods Corp., the largest fast-food chain, rose 3.4 percent to P197, while major property developer Ayala Land Inc. increased 3.2 percent to P35.15. The rest of Asian markets rose Thursday while Hong Kong was lifted after China sought to reassure investors over its latest regulatory crackdown. Traders were also cheered by progress in Washington on President Joe Biden’s trillion-dollar infrastructure bill, which he has said could “transform America” and add to the monumental amounts of stimulus already pumped into the world’s top economy. The developments overshadowed concerns about the spread of the Delta coronavirus variant that is sending infection rates spiking in several countries—including those with high vaccination rates—and forcing some governments to impose lockdowns or other containment measures. While the Fed news was met with a shrug on Wall Street, Asia enjoyed gains, having endured a volatile week. Tokyo, Sydney, Seoul, Singapore, Mumbai, Wellington, Taipei, Bangkok and Jakarta all rose. But Hong Kong was the standout, piling on more than three percent, extending Wednesday’s 1.5 percent rally. However, it was still way off clawing back recent losses as it had dropped more than nine percent from Thursday’s close to Tuesday’s finish.Shanghai climbed more than one percent. After a closely watched meeting, the Fed said the pandemic recovery was progressing well but it was still too early to take away the ultra-loose policies that have helped nurse the economy back to health. The central bank has said it will maintain its massive bond-buying and record low interest rate scheme for as long as it takes to tame unemployment and keep inflation running hot for an extended period. It said the worst-hit sectors “have shown improvement but have not fully recovered” and cautioned that “risks to the economic outlook remain.” Referring to a time when the Fed can begin tapering, boss Jerome Powell told reporters: “We’re not there. And we see ourselves as having some ground to cover to get there.” However, he said policymakers had taken a “first deep dive” on how to begin winding the bond-buying down but no decision had been made. Observers said that with no meeting set for August, the bank was unlikely to move until the back end of the year.“The lack of substantial policy change by the Federal Reserve in its latest... meeting was largely expected,” said JP Morgan Asset Management strategist Tai Hui. “What is noteworthy is that the Fed considers that the US economy ‘has made progress’ towards its goals—a strong hint it could start to taper its asset purchases as soon as December.”
+
+
+The White House and the Federal Reserve broadly agree: Inflation isn't here to stay. Red-hot prices will cool off as the US economy reopens.
+(CNN) — The White House and the Federal Reserve broadly agree: Inflation isn't here to stay. Red-hot prices will cool off as the US economy reopens.
+Most economists seem to concur that inflation is "transitory," as the Fed puts it. Investors aren't freaking out either about the biggest price hikes since 2008.
+But the stakes couldn't be much higher here. If the consensus is wrong (as it sometimes is) and inflation remains uncomfortably high, it could threaten the economic recovery, the stock market boom and even the Biden agenda.
+"It still screams transitory to us," said Stephanie Roth, senior markets economist at JPMorgan Private Bank. "If we're wrong, it could shorten the economic cycle that we're in."
+In other words, the Fed would need to cool inflation off by swiftly raising interest rates. Higher borrowing costs would slow or even derail the economic recovery.
+At the same time, high inflation and higher rates would make it harder for President Joe Biden to enact sweeping infrastructure and social safety net programs costing more than $4 trillion.
+"The Fed is playing a game of chicken that they're going to lose," said Peter Boockvar, chief investment officer at Bleakley Advisory Group. "I think the Fed will be wrong on inflation being temporary."
+Boockvar said the Fed should move soon to exit its emergency stance because waiting too long will make it that much harder to ease inflation without slowing the economy.
+"They don't want to be playing catch-up," he said.
+Some leaders on Wall Street, including BlackRock CEO Larry Fink and JPMorgan Chase boss Jamie Dimon, have similarly warned in recent weeks that inflation may not be temporary.
+Delta variant and used car prices
+The good news is that inflation fears have eased a bit in recent weeks, although not necessarily for positive reasons.
+The summer spike in Covid-19 cases, driven by the Delta variant, threatens to slow the booming economy. That in turn would cool off surging demand, suggesting inflationary pressures could ease, at least in the short run.
+In fact, Covid variants have surpassed inflation as the top risk facing markets, according to a July 21-23 survey of market professionals released by Deutsche Bank on Monday.
+"The risks have shifted toward growth being more disappointing than expected. That gives me confidence that inflation shouldn't be a problem," said JPMorgan's Roth.
+She pointed to how the recent spike in consumer prices is being driven mostly by several factors like used cars that are already showing signs of cooling off.
+"When you strip those components out, inflation looks far less scary," Roth said.
+The International Monetary Fund is urging central bankers not to overreact to a few months of hot prices.
+"Central banks should generally look through transitory inflation pressures and avoid tightening until there is more clarity on underlying price dynamics," the IMF said in a new report Tuesday.
+However, the IMF acknowledged there is a "risk that transitory pressures could become more persistent and central banks may need to take preemptive action."
+'We are raising prices everywhere'
+Some leading companies signaled Tuesday that they are passing rising costs along to consumers, suggesting at least some inflation will stick around.
+"Industry raw material inflation is more significant and sustained than originally anticipated," Sherwin-Williams CEO John Morikis said in the paint company's earnings release.
+Sherwin-Williams said it is confident it can offset higher costs through its previously-announced price hikes. "We are prepared to implement additional increases should they become necessary," Morikis said.
+To mitigate the impact of rising costs, General Electric said it is raising prices "across the board" and taking other steps.
+Executives at Post-It maker 3M simply said, "We are raising prices everywhere."
+None of those comments help the transitory inflation case.
+Liz Young, head of investment strategy at SoFi, thinks inflation will cool off, yet settle into a level high enough that they force the Fed to act sooner than people expect.
+"The assumption that the Fed won't raise rates until 2023 is way too far off," Young said.
+Indeed, traders now see a 51% chance of at least one interest rate hike by the end of next year, according to the CME's FedWatch Tool.
+'There's a lot to be humble about'
+Another risk is that high inflation slows the economy down.
+"I'm concerned about stagflation," said Danielle DiMartino Booth, CEO and chief strategist at Quill Intelligence. "That toxic combination of slowing growth and rising prices is a real risk here."
+There was a whiff of stagflation in the latest housing numbers. With sticker shock pricing some Americans out of the market, new home sales unexpectedly fell in June for the third month in a row, slipping to the weakest pace since April 2020. Existing home sales declined four months in a row before ticking up in June.
+A similar story is playing out in the auto market, where sales have slowed after months of blistering price gains.
+Stagflation, defined as a period of slow growth and rising prices, is a nightmare for central bankers because both rate hikes and rate cuts can make one part of the problem worse.
+Hopefully stagflation concerns are overdone and inflation eases in the coming months, as the Fed expects. That would allow the recovery to continue and the United States to move closer to full employment.
+But it's also important to remember that economic forecasts, including ones from the Fed, can turn out to be very wrong.
+"There's a lot to be humble about," Fed Chairman Jerome Powell said last month. "It's a highly uncertain business."
+This story was first published on CNN.com, "All bets are off if the Fed and White House are wrong about inflation."
+
+
+The White House and the Federal Reserve broadly agree: Inflation isn't here to stay. Red-hot prices will cool off as the US economy reopens.
+(CNN) — The White House and the Federal Reserve broadly agree: Inflation isn't here to stay. Red-hot prices will cool off as the US economy reopens.
+Most economists seem to concur that inflation is "transitory," as the Fed puts it. Investors aren't freaking out either about the biggest price hikes since 2008.
+But the stakes couldn't be much higher here. If the consensus is wrong (as it sometimes is) and inflation remains uncomfortably high, it could threaten the economic recovery, the stock market boom and even the Biden agenda.
+"It still screams transitory to us," said Stephanie Roth, senior markets economist at JPMorgan Private Bank. "If we're wrong, it could shorten the economic cycle that we're in."
+In other words, the Fed would need to cool inflation off by swiftly raising interest rates. Higher borrowing costs would slow or even derail the economic recovery.
+At the same time, high inflation and higher rates would make it harder for President Joe Biden to enact sweeping infrastructure and social safety net programs costing more than $4 trillion.
+"The Fed is playing a game of chicken that they're going to lose," said Peter Boockvar, chief investment officer at Bleakley Advisory Group. "I think the Fed will be wrong on inflation being temporary."
+Boockvar said the Fed should move soon to exit its emergency stance because waiting too long will make it that much harder to ease inflation without slowing the economy.
+"They don't want to be playing catch-up," he said.
+Some leaders on Wall Street, including BlackRock CEO Larry Fink and JPMorgan Chase boss Jamie Dimon, have similarly warned in recent weeks that inflation may not be temporary.
+Delta variant and used car prices
+The good news is that inflation fears have eased a bit in recent weeks, although not necessarily for positive reasons.
+The summer spike in Covid-19 cases, driven by the Delta variant, threatens to slow the booming economy. That in turn would cool off surging demand, suggesting inflationary pressures could ease, at least in the short run.
+In fact, Covid variants have surpassed inflation as the top risk facing markets, according to a July 21-23 survey of market professionals released by Deutsche Bank on Monday.
+"The risks have shifted toward growth being more disappointing than expected. That gives me confidence that inflation shouldn't be a problem," said JPMorgan's Roth.
+She pointed to how the recent spike in consumer prices is being driven mostly by several factors like used cars that are already showing signs of cooling off.
+"When you strip those components out, inflation looks far less scary," Roth said.
+The International Monetary Fund is urging central bankers not to overreact to a few months of hot prices.
+"Central banks should generally look through transitory inflation pressures and avoid tightening until there is more clarity on underlying price dynamics," the IMF said in a new report Tuesday.
+However, the IMF acknowledged there is a "risk that transitory pressures could become more persistent and central banks may need to take preemptive action."
+'We are raising prices everywhere'
+Some leading companies signaled Tuesday that they are passing rising costs along to consumers, suggesting at least some inflation will stick around.
+"Industry raw material inflation is more significant and sustained than originally anticipated," Sherwin-Williams CEO John Morikis said in the paint company's earnings release.
+Sherwin-Williams said it is confident it can offset higher costs through its previously-announced price hikes. "We are prepared to implement additional increases should they become necessary," Morikis said.
+To mitigate the impact of rising costs, General Electric said it is raising prices "across the board" and taking other steps.
+Executives at Post-It maker 3M simply said, "We are raising prices everywhere."
+None of those comments help the transitory inflation case.
+Liz Young, head of investment strategy at SoFi, thinks inflation will cool off, yet settle into a level high enough that they force the Fed to act sooner than people expect.
+"The assumption that the Fed won't raise rates until 2023 is way too far off," Young said.
+Indeed, traders now see a 51% chance of at least one interest rate hike by the end of next year, according to the CME's FedWatch Tool.
+'There's a lot to be humble about'
+Another risk is that high inflation slows the economy down.
+"I'm concerned about stagflation," said Danielle DiMartino Booth, CEO and chief strategist at Quill Intelligence. "That toxic combination of slowing growth and rising prices is a real risk here."
+There was a whiff of stagflation in the latest housing numbers. With sticker shock pricing some Americans out of the market, new home sales unexpectedly fell in June for the third month in a row, slipping to the weakest pace since April 2020. Existing home sales declined four months in a row before ticking up in June.
+A similar story is playing out in the auto market, where sales have slowed after months of blistering price gains.
+Stagflation, defined as a period of slow growth and rising prices, is a nightmare for central bankers because both rate hikes and rate cuts can make one part of the problem worse.
+Hopefully stagflation concerns are overdone and inflation eases in the coming months, as the Fed expects. That would allow the recovery to continue and the United States to move closer to full employment.
+But it's also important to remember that economic forecasts, including ones from the Fed, can turn out to be very wrong.
+"There's a lot to be humble about," Fed Chairman Jerome Powell said last month. "It's a highly uncertain business."
+This story was first published on CNN.com, "All bets are off if the Fed and White House are wrong about inflation."
+
+
+The Federal Reserve is making an announcement on interest rates this afternoon after two days of meetings. Collin Martin, Director and Fixed Income Strategist for the Schwab Center for Financial Research, joins Yahoo Finance Live to discuss what he expects to hear from Fed Chair Jerome Powell.
+Reuters
+U.S. stocks touched record highs in choppy trade on Monday and the dollar weakened, as investors avoided making new, bold bets before this week's Federal Reserve policy meeting, which might offer clues on the outlook for monetary policy. The performance in U.S. shares contrasted with sharp losses in Asia overnight, when MSCI's broadest index of Asia-Pacific shares outside Japan fell 2.1% to its lowest since December, hurt by concerns over tighter regulations in China. In the United States, investors will closely parse comments by Federal Reserve Chair Jerome Powell on Wednesday after a two-day policy meeting for clues on how the central bank will start tapering its asset purchases, its assessment of inflation risks, and the future of interest rates.
+
+
+The technology-heavy Nasdaq rose on Wednesday on strong earnings from Google-parent Alphabet, as investors turned to the Federal Reserve to gauge the impact of rising inflation and the Delta variant on its monetary stimulus.
+(Reuters) - The technology-heavy Nasdaq rose on Wednesday on strong earnings from Google-parent Alphabet, as investors turned to the Federal Reserve to gauge the impact of rising inflation and the Delta variant on its monetary stimulus.
+FILE PHOTO: A Wall Street sign is pictured outside the New York Stock Exchange in New York, October 28, 2013. REUTERS/Carlo Allegri/File Photo
+Alphabet Inc shares rose 3.8% to an all-time high as a surge in advertising spending helped it post record quarterly results, although the Nasdaq’s gains were capped by a forecast of slowing revenue growth from Apple Inc.
+Wall Street’s main indexes have scaled record highs this month on hopes of stellar corporate results amid a broader economic recovery, but the pace of gains has slowed recently due to a deepening regulatory crackdown in China and fears of a quicker-than-expected tapering of monetary policy.
+All eyes on Wednesday will be on the outcome of the Federal Reserve’s two-day meeting, with investors looking for comments on how the double whammy of rising inflation and a spike in COVID-19 cases would impact the central bank’s plan to potentially start withdrawing its stimulus.
+“The Fed might taper towards the end of this year, but we expect it to not hike rates at least until the end of 2022,” said Sam Stovall, chief investment strategist at CFRA Research in New York.
+“We think inflation will gradually come down towards the end of this year, but still would remain above the Federal Reserve’s target.”
+The June reading of the personal consumption expenditures price index - the Fed’s main inflation measure - is due on Friday.
+The Nasdaq Composite was up 0.31% by 9:55 a.m. ET, after posting its worst session in more than two months on Tuesday.
+The Dow Jones Industrial Average was down 0.08%, shrugging off a 4.8% jump in Boeing Co following the company’s first quarterly profit in almost two years.
+The benchmark S&P 500 was down 0.07%.
+Graphic: Alphabet, Facebook lead tech behemoths in 2021:
+Microsoft Corp edged 0.1% higher as a boom in cloud services helped it beat Wall Street expectations for revenue and earnings.
+Facebook Inc, which competes with Google in web ad sales and is slated to report results late on Wednesday, rose 0.7%.
+In other sectors, Starbucks Corp fell 3.1% after it lowered its fiscal 2021 forecast for China sales growth, while Pfizer Inc rose 1.7% as it raised its outlook for full-year sales of the COVID-19 vaccine.
+Payment company Visa Inc slipped 0.6% despite beating estimates for quarterly profit.
+As of July 23, analysts expected earnings at S&P 500 firms to have jumped 78.1% in the second quarter, compared with their estimate of 65.4% growth on July 1.
+Advancing issues outnumbered decliners 1.58-to-1 on the NYSE and 2.63-to-1 on the Nasdaq.
+The S&P index recorded 24 new 52-week highs and no new lows, while the Nasdaq recorded 18 new highs and 27 new lows.
+
+
+Federal Reserve decision due at 2 p.m. ET
+The nation's steward of economic policy will provide an update this afternoon, with all expectations that the Federal Reserve will hold steady by keeping its short-term interest rate policies at near-zero.
+The focus will instead shift to the Fed's balance sheet policy, where the central bank has been snatching up about $120 billion in U.S. Treasuries and agency mortgage-backed securities each month.
+Fed Chairman Jerome Powell may address questions over any plans to eventually slow the pace of those purchases.
+The Fed's approach to any "tapering" in its asset purchases may hinge on inflation. Greater-than-expected prints on inflation have tested the resolve of the policy-setting Federal Open Market Committee, where some officials are starting to warm up to the idea of pulling its monetary accommodation earlier.
+The Fed statement is due at 2 p.m. ET with Powell's press conference set to kick off at 2:30 p.m. ET.
+Whereas the Fed's last meeting came with projections for the possible future path of interest rates, no new forecasts are expected alongside today's decision.
+Brian Cheung is a reporter covering the Fed, economics, and banking for Yahoo Finance. You can follow him on Twitter @bcheungz.
+Follow Yahoo Finance on Twitter, Facebook, Instagram, Flipboard, LinkedIn, YouTube, and reddit
+
+
+Federal Reserve decision due at 2 p.m. ET
+The nation's steward of economic policy will provide an update this afternoon, with all expectations that the Federal Reserve will hold steady by keeping its short-term interest rate policies at near-zero.
+The focus will instead shift to the Fed's balance sheet policy, where the central bank has been snatching up about $120 billion in U.S. Treasuries and agency mortgage-backed securities each month.
+Fed Chairman Jerome Powell may address questions over any plans to eventually slow the pace of those purchases.
+The Fed's approach to any "tapering" in its asset purchases may hinge on inflation. Greater-than-expected prints on inflation have tested the resolve of the policy-setting Federal Open Market Committee, where some officials are starting to warm up to the idea of pulling its monetary accommodation earlier.
+The Fed statement is due at 2 p.m. ET with Powell's press conference set to kick off at 2:30 p.m. ET.
+Whereas the Fed's last meeting came with projections for the possible future path of interest rates, no new forecasts are expected alongside today's decision.
+Brian Cheung is a reporter covering the Fed, economics, and banking for Yahoo Finance. You can follow him on Twitter @bcheungz.
+Follow Yahoo Finance on Twitter, Facebook, Instagram, Flipboard, LinkedIn, YouTube, and reddit
+
+
+Stocks were set for muted gains as investors wait for an update from the Federal Reserve later Wednesday.
+Text size
+Stocks were set for muted gains as investors wait for an update from the Federal Reserve later Wednesday.
+Dow Jones Industrial Average and S&P 500 futures were less than 0.1% higher around 8:45 a.m. eastern. Nasdaq Composite futures gained 0.4%.
+The Federal Open Market Committee began its two-day policy meeting on Tuesday and will give an update this afternoon. Most watchers don’t expect the Fed to increase interest rates soon, though many anticipate the central bank will indicate the timing around reducing the size of its current bond purchasing program. Less money moving into the bond market would bring bond prices down and yields up, which could weigh on stock prices. That’s especially true if the Fed moves quickly on tapering.
+“If tapering is about to start, that will be a new ball game for all asset classes,” writes Peter Boockvar, chief investment officer at Bleakley Advisory Group.
+Here are five stocks making moves in Wednesday’s premarket action:
+Apple (ticker: AAPL) stock fell 0.8% in Wednesday trading after reporting a profit of $1.30 a share on sales of $81.4 billion Tuesday. That was enough to beat estimates of $1.01 a share on sales of $73.3 billion.
+Alphabet (GOOGL) stock rose 3.8% after reporting a profit of $27.26 a share Tuesday, beating estimates of $19.34 a share, on sales of $61.8 billion, above expectations for $56.1 billion.
+Microsoft (MSFT) stock rose 1.6% after reporting a profit of $2.17 a share Tuesday, beating estimates of $1.92 a share, on sales of $46.1 billion, above expectations for $44.2 billion.
+Boeing (BA) stock rose 5.1% after reporting a profit of 40 cents a share Wednesday, beating estimates for a loss of 83 cents a share, on sales of $17 billion, above expectations for $16.5 billion.
+Starbucks (SBUX) stock dropped 3.3% after reporting a profit of $1.01 a share Tuesday, beating estimates of 78 cents a share, on sales of $7.5 billion, above expectations for $7.3 billion.
+Write to Jacob Sonenshine at jacob.sonenshine@barrons.com
+
+
+Gold prices held steady near the key $1,800 per ounce level on Wednesday as investors held back from making large bets ahead of a U.S. Federal Reserve policy decision due later in the day.
+* Fed policy statement due at 1800 GMT
+* Dollar rises 0.1% against its rivals
+* Gold prices fell 7% in June (Updates prices)
+July 28 (Reuters) - Gold prices held steady near the key $1,800 per ounce level on Wednesday as investors held back from making large bets ahead of a U.S. Federal Reserve policy decision due later in the day.
+The Fed’s policy statement is due at 1800 GMT on Wednesday, followed by a news conference by Chairman Jerome Powell.
+Spot gold was little changed at $1,796.56 per ounce, as of 1203 GMT. U.S. gold futures eased 0.3% to $1,794.40.
+“Gold prices continue their slow dance around $1,800 mark. It seems the market is unable to find a clear direction either way, and investors are awaiting the Federal Open Market Committee meeting ... there is very little volatility,” Carlo Alberto De Casa, market analyst at Kinesis, said.
+Gold prices fell 7% last month to register their biggest monthly decline since November 2016, following a hawkish tilt from the U.S. central bank.
+Investors now will be looking out for cues on when the central bank will begin to taper its monetary support amid fast-rising prices and any view on the looming threat from the Delta coronavirus variant.
+“The majority of Fed representatives, including Fed Chair Powell, still regard this (inflation) as a transitory development,” Commerzbank analysts said in a note.
+“This means that hawkish surprises are not particularly likely today, especially as there will be no new projections for growth, inflation or the dot plot envisaged by the FOMC members this time.”
+The dollar, meanwhile, edged 0.1% higher, making gold more expensive for holders of other currencies.
+Elsewhere, silver rose 0.2% to $24.72 per ounce, after having hit its lowest level in nearly four months at $24.46 on Tuesday.
+Palladium fell 0.2% to $2,602.14 per ounce, and platinum dipped 0.1% to $1,049.62. (Reporting by Brijesh Patel in Bengaluru; Editing by Ramakrishnan M., David Evans and Joe Bavier)
+
+
+Global equities regained some poise on Wednesday as a storm in Chinese stocks showed signs of easing, while the dollar made modest gains as investors awaited a Federal Reserve meeting.
+LONDON (Reuters) - Global equities regained some poise on Wednesday as a storm in Chinese stocks showed signs of easing, while the dollar made modest gains as investors awaited a Federal Reserve meeting.
+FILE PHOTO: The London Stock Exchange Group offices are seen in the City of London, Britain, December 29, 2017. REUTERS/Toby Melville
+After two sessions of falls, Europe’s pan-continent STOXX 600 index added 0.3%, helped by encouraging earnings reports from Barclays, Deutsche Bank and French luxury group Kering.
+That gave investors some relief from worrying about China after a wave of heavy selling in recent days on the back of broadening regulatory crackdowns.
+The rout appeared to slow on Wednesday as Chinese blue chips closed up 0.2%, but the Shanghai Composite Index ended 0.6% down, its lowest close since March 10.
+After Asian markets closed, focus quickly turned to the Fed.
+Investors are primed for any hints on when the central bank will start reducing its purchases of government bonds and any new insight into its views on inflation and economic growth.
+“In the background, you have the ripple effect of the Chinese crackdown and a lot of companies reporting today, but the Fed is the major event,” said Francois Savary, chief investment officer at Swiss wealth manager Prime Partners.
+“Are we going to get a timetable on tapering? Is it going to be clearly announced?”
+The statement from the Fed policy meeting is due at 2 p.m. EDT (1800 GMT), with a news conference by Chairman Jerome Powell expected half an hour later.
+In U.S. stock futures, the S&P 500 e-minis, were 0.1% higher, signalling a recovery on Wall Street after stocks on Tuesday retreated a little from the record highs set earlier in the week as ripples from China spread.
+In U.S. trading, the Nasdaq Golden Dragon China benchmark of Chinese tech stocks listed in New York fell another 6%, taking its losses since Friday past 20% and wiping $500 billion off its value.
+Chinese state-run financial media urged calm on Wednesday after a roiling of stocks in the technology, property and education sectors in recent days.
+Hong Kong’s benchmark added 1.5%, but remained near nine-month lows.
+MSCI’s broadest index of Asia-Pacific shares outside Japan was 0.3% firmer after three straight sessions of losses.
+“The moves are being driven by general risk appetite. On Monday and Tuesday Chinese stocks led everything lower but today there is a bit of pause for assessment,” said Colin Asher, senior economist at Mizuho in London.
+“There were question marks over the global implications of the recent moves by Chinese authorities but the macro impact on most countries is limited.”
+Graphic: Chinese stocks in U.S. take a beating:
+With investors holding off on major bets before the Fed meeting, the dollar made marginal gains after earlier being pinned down by demand for safe-haven currencies.
+The U.S. dollar index moved into positive territory after trading lower in Asian hours, with the greenback last up 0.1% at 92.575.
+The currency has had a month-long rally after a hawkish shift from the Fed in June.
+The Chinese yuan edged back from three-month lows. It had its worst day since October on Tuesday.
+The yield on benchmark 10-year Treasury notes strengthened to 1.2644%, up from the U.S. close of 1.234%.
+Greek government bond yields hit new lows on Wednesday as the promise of more central bank largesse to counter the Delta coronavirus variant pushed up demand for even the lowest rated euro zone countries.
+Greece’s benchmark 10-year government bond yield dropped a basis point to a seven-month low of 0.61%.
+Oil prices rose as industry data showed U.S. crude and product inventories fell more sharply than expected last week, outweighing worries that surging COVID-19 cases would curb fuel demand. U.S. crude rose 0.52% to $72.02 a barrel and Brent crude rose 0.31% to $74.71 per barrel.
+Gold held steady, with spot prices flat at $1,797.97 near the key psychological level of $1,800, while Bitcoin rose around 3.2%, trading just above $40,000.
+
+
+Sterling held firm near a 13-day high against the dollar on Wednesday as a fall in UK COVID-19 infections raised investor hopes that the Bank of England could be less dovish than expected when it meets next week. Elsewhere currency markets were generally cautious ahead of the U.S. Federal Reserve meeting later in the session.
+Sterling held firm near a 13-day high against the dollar on Wednesday as a fall in UK COVID-19 infections raised investor hopes that the Bank of England could be less dovish than expected when it meets next week.
+Elsewhere currency markets were generally cautious ahead of the U.S. Federal Reserve meeting later in the session. Markets are waiting to see if the Fed will provide any clues on the timing of any slowdown in its bond-buying program, amid surging U.S. inflation. Sterling held on to recent gains. The sterling-dollar pair saw a sudden surge on Tuesday around the time at which daily foreign exchange benchmarks are calculated.
+Advertisement
+At 1100 GMT, the pound was flat on the day versus the dollar, at $1.38825, close to a 13-day high. Versus the euro, it was up around 0.1% at 0.8503, having briefly crossed the key 0.85 level for the first time since April earlier in the session.
+Analysts attributed the pound's gains to COVID-19 cases in Britain declining over the last seven days, although British Prime Minister Boris Johnson advised against concluding the data, saying it was too early to assess whether there was a definite trend. "It's been a good week for sterling, reflecting the fact that virus cases have gone down rather than up," said Colin Asher, senior economist at Mizuho in London. "If we roll into next week's BOE meeting with (daily) cases below 10,000 then the BOE may be less cautious than was expected.
+"We will probably see upgrades to BOE forecasts on inflation and growth. I think UK data is strong enough to expect that QE could be terminated early," Asher added, referring to the quantitative easing or bond-buying scheme. SHIFT IN RHETORIC
+The Bank of England looks set to keep its stimulus running at full speed next week despite two policymakers breaking ranks to suggest that its nearly 900 billion pounds ($1.2 trillion) QE program might have to end early as inflation speeds up. Stuart Cole, a head macroeconomist at Equiti Capital, said fall COVID-19 cases and more optimism for growth in the second half of the year were raising expectations for a shift in the monetary policy committee's rhetoric.
+Bank of England interest-rate setter Michael Saunders could vote to curtail the bond-buying program, Cole said. The sentiment was also lifted by an expected lessening of travel restrictions for visitors to England from abroad.
+Speculators went net short on the pound for the first time since December 2020 in the week up to last Tuesday, CFTC data showed on Friday. "GBP is heading into next week's Bank of England meeting with a balanced positioning, which may be allowing some hawkish speculation to emerge," wrote ING strategists in a note to clients.
+(This story has not been edited by Devdiscourse staff and is auto-generated from a syndicated feed.)
+
+
+Stock futures struggled for direction Wednesday morning, with investors digesting a slew of Big Tech earnings results and looking ahead to another set of reports. A monetary policy statement from the Federal Reserve is also slated for release.
+Stock futures struggled for direction Wednesday morning, with investors digesting a slew of Big Tech earnings results and looking ahead to another set of reports. A monetary policy statement from the Federal Reserve is also slated for release.
+Contracts on the S&P 500 were little changed to slightly higher, with about two hours to go until the opening bell. The index, as well as the Dow and Nasdaq, had pulled back from record levels by the end of Tuesday's regular trading day, and the S&P 500 remains less than 0.5% from its all-time high. Dow futures were slightly lower Wednesday morning, while Nasdaq futures gained. t
+Shares of Apple (AAPL) fell in pre-market trading even after the tech titan handily exceeded Wall Street's estimates in its latest earnings reports. Apple executives, however, said they expected a deceleration in top-line growth in the current quarter after a blowout April through June period, and that supply challenges would weigh on hardware like the iPhone. Meanwhile, investors appeared to shake off a slightly disappointing result from Microsoft (MSFT) Azure cloud business, which decelerated over last quarter to 45% sales growth when excluding currency impacts, to focus on the software giant's overall estimates-topping revenue and profit quarterly results.
+The early move higher in shares of Google's parent-company Alphabet (GOOGL) also tracked the strong beat in quarterly sales and profits. A rebound in travel-related advertising spending and continued growth in YouTube ads helped power revenue, excluding traffic-acquisition costs, to $51 billion, for a surge of 61% over last year.
+Earnings are set to continue on Wednesday, with major names including Facebook (FB) and PayPal (PYPL) reporting after the close.
+Investors are also set to closely monitor the Federal Open Market Committee's July monetary policy decision and Federal Reserve Chair Jerome Powell's latest public remarks Wednesday afternoon. In the weeks since the Fed's June meeting, concerns over the Delta variant have brought about additional concerns over the economic outlook. However, inflation prints have also been coming in hotter-than-expected both at the consumer and producer level, challenging the Fed's ability to keep its ultra-accommodative monetary policy in place. And inflation mentions during corporate earnings calls this season have already risen by a staggering 1,000% over last year, according to Bank of America.
+Story continues
+"Since the June meeting, job growth has strengthened more than anticipated and inflation continued to coming much hotter. No doubt, that will keep eyes and ears keenly attuned to signs that the FOMC may pull forward the eventual tapering of asset purchases, a topic it has already confirmed will be on the table," Wells Fargo senior economist Sam Bullard wrote in a note.
+"Discussions around the pace and composition of tapering will deepen at this week’s meeting, as the split in officials’ views is still there and it will take some time to build a consensus," he said. "Most Fed officials view the recent rise in inflation as largely 'transitory,' though it will be interesting to see if Chair Powell expresses any additional awareness/cautiousness to upside inflation risk."
+—
+7:20 a.m. ET Wednesday: Stock futures mixed ahead of more earnings, Fed decision
+Here's where markets were trading Wednesday morning:
+S&P 500 futures ( ES=F ) : +3.25 points (+0.07%) at 4,397.75
+Dow futures ( YM=F ) : -46 points (-0.13%) to 34,907.00
+Nasdaq futures ( NQ=F ): +36.25 points (+0.24%) to 14,984.00
+Crude ( CL=F ) : +$0.27 (+0.38%) to $71.92 a barrel
+Gold ( GC=F ) : -$2.10 (-0.12%) to $1,797.70 per ounce
+10-year Treasury (^TNX): +1.9 bps yielding 1.253%
+—
+6:06 p.m. ET Tuesday: Stock futures add to losses
+Here were the main moves in markets as the overnight session kicked off on Tuesday:
+S&P 500 futures ( ES=F ) : -13 points (-0.3%) at 4,381.50
+Dow futures ( YM=F ) : -95 points (-0.27%) to 34,858.00
+Nasdaq futures ( NQ=F ): -70.25 points (-0.47%) to 14,877.5
+Crude ( CL=F ) : +$0.24 (+0.33%) to $72.15 a barrel
+Gold ( GC=F ) : -$1.80 (-0.1%) to $1,797.40 per ounce
+10-year Treasury (^TNX): unchanged, yielding 1.295%
+NEW YORK , NY - JUNE 02: Exterior view of the New York Stock Exchange and Wall St. as new company Organon start trading next thursday in New York on June 02 2021. Organon look to expand to provide treatments for other conditions unique to women, about 80% of the new company's revenues will come from outside the U.S (Photo by Kena Betancur/VIEWpress)
+—
+Emily McCormick is a reporter for Yahoo Finance. Follow her on Twitter: @emily_mcck
+Read more from Emily:
+Follow Yahoo Finance on Twitter, Facebook, Instagram, Flipboard, LinkedIn, YouTube, and reddit
+
+
+Gold prices held steady near the key $1,800 per ounce level on Wednesday as investors held back from making large bets ahead of a U.S. Federal Reserve policy decision due later in the day.
+* Fed policy statement due at 1800 GMT
+* Dollar rises 0.1% against its rivals
+* Gold prices fell 7% in June (Updates prices)
+July 28 (Reuters) - Gold prices held steady near the key $1,800 per ounce level on Wednesday as investors held back from making large bets ahead of a U.S. Federal Reserve policy decision due later in the day.
+The Fed’s policy statement is due at 1800 GMT on Wednesday, followed by a news conference by Chairman Jerome Powell.
+Spot gold was flat at $1,798.70 per ounce, as of 1103 GMT. U.S. gold futures eased 0.1% to $1,798.30.
+“Gold prices continue their slow dance around $1,800 mark. It seems the market is unable to find a clear direction either way, and investors are awaiting the Federal Open Market Committee meeting ... there is very little volatility,” Carlo Alberto De Casa, market analyst at Kinesis, said.
+Gold prices fell 7% last month to register their biggest monthly decline since November 2016, following a hawkish tilt from the U.S. central bank.
+Investors now will be looking out for cues on when the central bank will begin to taper its monetary support amid fast-rising prices and any view on the looming threat from the Delta coronavirus variant.
+“The majority of Fed representatives, including Fed Chair Powell, still regard this (inflation) as a transitory development,” Commerzbank analysts said in a note.
+“This means that hawkish surprises are not particularly likely today, especially as there will be no new projections for growth, inflation or the dot plot envisaged by the FOMC members this time.”
+The dollar, meanwhile, edged 0.1% higher, making gold more expensive for holders of other currencies.
+Elsewhere, silver rose 0.4% to $24.77 per ounce, after having hit its lowest level in nearly four months at $24.46 on Tuesday.
+Palladium fell 0.2% to $2,603.76 per ounce, and platinum rose 0.2% to $1,052.43. (Reporting by Brijesh Patel in Bengaluru; Editing by Ramakrishnan M. and David Evans)
+
+
+U.S. stock index futures were muted on Wednesday after mixed results from large technology and internet giants, with investors awaiting the Federal Reserve's monetary policy decision later in the day.
+(For a Reuters live blog on U.S., UK and European stock markets, click LIVE/ or type LIVE/ in a news window.)
+* Futures: Dow off 0.11%, S&P up 0.05%, Nasdaq climbs 0.14%
+July 28 (Reuters) - U.S. stock index futures were muted on Wednesday after mixed results from large technology and internet giants, with investors awaiting the Federal Reserve’s monetary policy decision later in the day.
+Apple Inc slipped 1.1% in premarket trading after it forecast slowing revenue growth, as global chip shortage bit into its ability to sell Macs and iPads.
+Shares of Google parent Alphabet Inc jumped 3.8% after a surge in advertising spending powered its record revenue and profit.
+Microsoft Corp gained too, up 0.5%, as a boom in cloud services helped it beat Wall Street expectations for revenue and earnings.
+Worries around China’s regulatory crackdown across multiple sectors, including heavyweight technology companies, have weighed on investors’ mood this week. However, anticipation of stellar results from Wall Street’s technology majors had sent the three major indexes to record highs on Monday.
+The Fed’s policy-meeting outcome is in focus as investors seek hints on the central bank’s plan to taper its large asset purchases programme, amid risks of a COVID-19 resurgence in the United States and rising inflation.
+Fed Chairman Jerome Powell will hold a news conference following the 2 p.m. EDT (1800 GMT) release of the central bank’s latest policy statement.
+At 6:48 a.m. ET, Dow e-minis were down 39 points, or 0.11%, S&P 500 e-minis were up 2.25 points, or 0.05%, and Nasdaq 100 e-minis were up 21.25 points, or 0.14%.
+Among other companies that reported earnings, Starbucks Corp fell 2.8% after it lowered its fiscal 2021 forecast for China sales growth as COVID-19-related restrictions loom longer than expected.
+Payment company Visa Inc slipped 1.6% despite beating estimates for quarterly profit. (Reporting by Sruthi Shankar in Bengaluru; editing by Uttaresh.V)
+
+
+Copper prices sat near six-week highs on Wednesday as investors waited for details from a Federal Reserve meeting that could shift expectations for U.S. monetary policy.
+(Updates throughout, adds LONDON dateline)
+July 28 (Reuters) - Copper prices sat near six-week highs on Wednesday as investors waited for details from a Federal Reserve meeting that could shift expectations for U.S. monetary policy.
+Wider markets meanwhile calmed after days of turmoil emanating from China, with global stock markets, the dollar and the yuan steadying.
+Benchmark copper on the London Metal Exchange (LME) was down 0.3% at $9,728 a tonne by 1048 GMT after reaching $9,924 on Tuesday, its highest since June 15.
+Used in power and construction, copper rose to a record high of $10,747.50 in May. It is up around 25% this year after rising 26% in 2020, with many analysts saying strong demand and tight supply could push prices still higher.
+“The supercycle is alive and kicking, hasn’t gone away, isn’t dead, and therefore you want to buy the dips,” said Robin Bhar, an independent analyst.
+“The fly in the ointment is if the Fed starts talking about tapering to begin next year,” he said. “But the underlying themes are bullish.”
+FED: A statement is due at 1800 GMT with a news conference by Chairman Jerome Powell expected half an hour later.
+CHINA DEMAND: Demand for commodities in China, the biggest consumer of raw materials, will likely slow in the second half of 2021 but copper demand should remain strong due to subsidies for offshore wind projects, consultants Wood Mackenzie said.
+CHINA STOCKS/PREMIUM: Copper stocks in Shanghai Futures Exchange (ShFE) warehouses are below 100,000 tonnes from almost 230,000 tonnes in May, and Yangshan copper import premiums have doubled since the start of July, pointing to rising demand for overseas metal. CU-STX-SGHSMM-CUYP-CN
+LME STOCKS: However, inventories in LME-registered warehouses, at 230,225 tonnes, are the highest since June 2020. MCUSTX-TOTAL
+ALUMINIUM: Cash aluminium on the LME has flipped to a $9.50 premium against the three-month contract from a $20 discount two weeks ago, pointing to tighter supply of quickly deliverable metal. MAL0-3
+PRICES: Aluminium was up 0.5% at $2,503 a tonne, zinc fell 0.5% to $2,968.50, lead slipped 0.2% to $2,335, tin added 0.5% to $34,535 and nickel was 1.2% higher at $19,580. (Reporting by Peter Hobson; Additional reporting by Mai Nguyen; Editing by Jan Harvey)
+
+
+The dollar stood firm on Wednesday after being pinned down earlier, with investors holding off on placing major bets ahead of the outcome of a U.S. Federal Reserve meeting.
+LONDON (Reuters) - The dollar stood firm on Wednesday after being pinned down earlier, with investors holding off on placing major bets ahead of the outcome of a U.S. Federal Reserve meeting.
+FILE PHOTO: A picture illustration shows U.S. 100 dollar bank notes taken in Tokyo August 2, 2011. REUTERS/Yuriko Nakao
+The U.S. dollar index moved into positive territory after trading lower in Asian hours. The greenback was last up a sliver at 92.474.
+The Japanese yen, Swiss franc and the euro held onto the previous day’s gains in Asian trading hours, with the safe-haven yen trading at 109.93 per dollar and the euro at $1.1812.
+The dollar has enjoyed a month-long rally after a hawkish shift from the Fed in June. Markets are waiting to see whether it will provide any clues on the timing of tapering later in the day amid surging U.S. inflation.
+The Fed publishes a statement at 1800 GMT followed by a news conference from Chair Jerome Powell at 1830 GMT.
+Still, foreign exchange analysts said the chances were high that the Fed would not shift policy, given its view that the recent spike in inflation will likely be transitory and worries that growing COVID-19 cases could derail the global recovery.
+“We go into the meeting with positive dollar bias,” said Adam Cole, chief currency strategist at RBC Capital Markets.
+“The hurdle is quite low for the Fed to be perceived to be erring on the hawkish side, and that’s my bias going in.”
+Declining U.S. bond yields, fuelled by concerns about high inflation and the economic outlook, also cast a shadow over the dollar earlier. The 10-year inflation-linked bond yield hit a record low overnight. [US/]
+YUAN CONTAGION?
+The Chinese yuan pulled away from three-month lows hit on Tuesday, when it saw its biggest daily losses since October, after the country’s stock market stabilised following a bruising couple of days.
+The yuan’s bounce was modest, however, and the risk-sensitive Australian and New Zealand dollars were both subdued as sentiment remained fragile. [AUD/]
+“The Chinese currency has seen some contagious effects,” of the market turbulence, Commerzbank analysts wrote in a note. “All these point to a panic mood in the market and Beijing’s new policy approach seems to be tough and long-lived.”
+The Aussie was last down 0.2% at $0.7344, not far from last week’s eight-month low of $0.7289.
+Elsewhere, the British pound traded close to its highest in 13 days and was steady against the euro, with analysts attributing its gains to COVID-19 cases in Britain declining over the last seven days.
+
+
+The dollar stood firm on Wednesday after being pinned down earlier, with investors holding off on placing major bets ahead of the outcome of a U.S. Federal Reserve meeting. The dollar has enjoyed a month-long rally after a hawkish shift from the Fed in June. The Fed publishes a statement at 1800 GMT followed by a news conference from Chair Jerome Powell at 1830 GMT.
+* Dollar gains 0.1% ahead of Fed
+* Policy statement due at 1800 GMT
+* Analysts expect no major policy shift
+* Safe-haven yen, euro, Swiss franc also stable
+By Tom Wilson
+LONDON, July 28 (Reuters) - The dollar stood firm on Wednesday after being pinned down earlier, with investors holding off on placing major bets ahead of the outcome of a U.S. Federal Reserve meeting.
+The U.S. dollar index moved into positive territory after trading lower in Asian hours. The greenback was last up a sliver at 92.474.
+The Japanese yen, Swiss franc and the euro held onto the previous day's gains in Asian trading hours, with the safe-haven yen trading at 109.93 per dollar and the euro at $1.1812.
+The dollar has enjoyed a month-long rally after a hawkish shift from the Fed in June. Markets are waiting to see whether it will provide any clues on the timing of tapering later in the day amid surging U.S. inflation.
+The Fed publishes a statement at 1800 GMT followed by a news conference from Chair Jerome Powell at 1830 GMT.
+Still, foreign exchange analysts said the chances were high that the Fed would not shift policy, given its view that the recent spike in inflation will likely be transitory and worries that growing COVID-19 cases could derail the global recovery.
+"We go into the meeting with positive dollar bias," said Adam Cole, chief currency strategist at RBC Capital Markets.
+"The hurdle is quite low for the Fed to be perceived to be erring on the hawkish side, and that's my bias going in."
+Declining U.S. bond yields, fuelled by concerns about high inflation and the economic outlook, also cast a shadow over the dollar earlier. The 10-year inflation-linked bond yield hit a record low overnight.
+YUAN CONTAGION?
+The Chinese yuan pulled away from three-month lows hit on Tuesday, when it saw its biggest daily losses since October, after the country's stock market stabilised following a bruising couple of days.
+The yuan's bounce was modest, however, and the risk-sensitive Australian and New Zealand dollars were both subdued as sentiment remained fragile.
+Story continues
+"The Chinese currency has seen some contagious effects," of the market turbulence, Commerzbank analysts wrote in a note. "All these point to a panic mood in the market and Beijing's new policy approach seems to be tough and long-lived."
+The Aussie was last down 0.2% at $0.7344, not far from last week's eight-month low of $0.7289.
+Elsewhere, the British pound traded close to its highest in 13 days and was steady against the euro, with analysts attributing its gains to COVID-19 cases in Britain declining over the last seven days.
+(Reporting by Tom Wilson in London; Additional Reporting by Tom Westbrook in Singapore; Editing by Ana Nicolaci da Costa and Catherine Evans)
+
+
+Indian shares closed down on Wednesday as pharma stocks slipped for the second straight session, while investors waited for the outcome of a U.S. Federal Reserve meeting.
+BENGALURU (Reuters) - Indian shares closed down on Wednesday as pharma stocks slipped for the second straight session, while investors waited for the outcome of a U.S. Federal Reserve meeting.
+FILE PHOTO: People walk past the Bombay Stock Exchange (BSE) building in Mumbai, India, November 4, 2020. REUTERS/Francis Mascarenhas/File photo
+The blue-chip NSE Nifty 50 index ended down 0.24% at 15,709.40 and the benchmark S&P BSE Sensex was 0.22% lower at 52,462.42.
+“The markets slipped below the crucial 15,600 level but was swift to recover, an indication that the market is still range-bound,” Manish Hathiramani, proprietary index trader and technical analyst at Deen Dayal Investments, said in a note.
+Shares of India’s Bharti Airtel gained as much as 5.9% after the telecom services provider said it was scrapping its entry-level prepaid recharge of 49 rupees ($0.6587).
+Private sector lender IndusInd Bank rose as much as 3.5% after it reported on Tuesday June-quarter net profit more than doubled to 9.75 bln rupees and provisions slid 18%.
+The bank index, however, ended 0.76% lower, dragged by shares of Canara Bank, Karnataka Bank and Central Bank of India following their quarterly results this week.
+Shares of Maruti Suzuki ended down about 1.04%. The country’s top carmaker reported a profit for the first quarter just minutes before the markets closed.
+Phillips Carbon and Welspun India were the other top gainers.
+Shares of Tata Coffee tumbled as much as 8.1% — their biggest percentage loss since Dec. 21 - after the coffee and tea producer posted a 20.3% fall in quarterly profit.
+Pharma stocks were 0.42% lower, weighed down by a 2.3% fall in Dr Reddy’s Lab. The stock fell as much as 11.7% on Tuesday.
+Global equities regained some poise on Wednesday as a storm in Chinese stocks showed signs of easing, while the dollar made modest gains as investors awaited a Federal Reserve meeting and any fresh insight into its views on inflation and economic growth.
+
+
+Big tech earnings trounce Wall Street estimates, air travel has recovered more quickly than expected, all eyes on Federal Reserve as it wraps up its meeting, and other news to start your day.
+Text size
+Apple delivered another stunning quarter, crushing earnings estimates across the board. Apple registered nearly $40 billion of iPhone sales in its fiscal third quarter, beating Wall Street expectations by an eye-watering $5 billion.
+Yet the euphoria quickly turned to disappointment for investors as Chief Financial Officer Luca Maestri said revenue growth would slow in the September quarter. The “very strong double-digit” growth, Maestri said, won’t match the 36% growth in the June quarter.
+A less favorable foreign exchange impact, normalizing services growth, and supply constraints from the global chip shortage were the culprits, Apple’s finance chief said. The stock took a few bumps in after-hours trading on Wednesday as investors digested those comments.
+Newsletter Sign-up The Barron's Daily A morning briefing on what you need to know in the day ahead, including exclusive commentary from Barron's and MarketWatch writers. PREVIEW
+Renowned Wedbush tech analyst Dan Ives sees it differently and said Apple’s “drop the mic” quarter was the next step in driving the stock to a $3 trillion market cap. China was the star of the show, he said, where sales grew 58% in a region key to the Apple bull thesis. The impact of the chip shortage was neutralized by iPhone and services strength, he added.
+But it’s the 5G supercycle that could be key to the continuing demand story. A significant proportion of iPhone users have not upgraded their phones in recent years, and the iPhone 13 isn’t far away.
+While Apple’s supply warning must not be ignored, it’s worth remembering that the company warned in April that it could take a $3 billion to $4 billion hit from the semiconductor crisis in the third quarter. Look how that turned out.
+—Callum Keown
+*** Join Barron’s senior managing editor Lauren R. Rublin and deputy editor Alex Eule Thursday at noon to discuss the outlook for tech companies and individual stocks. Sign up here.
+***
+Big Tech Earnings Trounce Wall Street Estimates
+The first leg of big tech earnings are in. Apple, Google’s parent Alphabet and Microsoft all crushed expectations.
+From iPhones and iPads to Macs, Apple’s results beat estimates in every product category, while earnings of $1.30 a share sailed over consensus estimates at $1. The company’s increasingly important services business jumped 33% to $17.5 billion.
+jumped 33% to $17.5 billion. Alphabet finance chief Ruth Porat pointed to elevated consumer online activity and strength in advertiser spending that helped drive a blowout quarter. Net income of $18.5 billion, or $27.26 a share, soared past analyst estimates of $19.35 a share.
+and strength in advertiser spending that helped drive a blowout quarter. Net income of $18.5 billion, or $27.26 a share, soared past analyst estimates of $19.35 a share. Microsoft’s sales jumped 21% year-over-year to $46.2 billion, while earnings hit $2.17 a share. The company’s cloud computing sales, which include Azure, grew 30% to $17.4 billion.
+What’s Next: The impressive results are a positive sign for Facebook and Amazon.com when they report results on Wednesday and Thursday, respectively.
+—Connor Smith
+***
+Vaccinated Americans Should Resume Wearing Masks Indoors, CDC Says
+The Centers for Disease Control and Prevention, reversing prior guidelines, now recommends that everyone resumes wearing masks indoors in areas of the U.S. with high Covid-19 transmission rates, including universal masking in K-12 schools, regardless of an individual’s vaccination status.
+CDC Director Dr. Rochelle Walensky said the update was necessary because on rare occasions, some vaccinated people infected with the Delta variant of the coronavirus that causes Covid-19 could spread the virus to others.
+because on rare occasions, some vaccinated people infected with the Delta variant of the coronavirus that causes Covid-19 could spread the virus to others. President Joe Biden is considering requiring federal employees to be vaccinated against Covid or submit to testing, masking, and other restrictions, media reports said. Biden said Tuesday that getting vaccines and wearing masks help “avoid the kind of lockdowns, shutdowns, school closures, and disruptions we faced in 2020.”
+to be vaccinated against Covid or submit to testing, masking, and other restrictions, media reports said. Biden said Tuesday that getting vaccines and wearing masks help “avoid the kind of lockdowns, shutdowns, school closures, and disruptions we faced in 2020.” The average number of daily cases has jumped 144% in the past two weeks, per the New York Times. Cases are rising in Florida, Louisiana, Missouri and Alabama, where less than half of residents are fully vaccinated.
+in the past two weeks, per the New York Times. Cases are rising in Florida, Louisiana, Missouri and Alabama, where less than half of residents are fully vaccinated. The U.S. reported 89,418 new cases on Monday, according to Johns Hopkins University. As of Tuesday, 163.3 million Americans are fully vaccinated, or 49.2% of the total population, according to the CDC.
+What’s Next: The International Monetary Fund on Tuesday raised its economic outlook for the U.S. and the U.K., both projected to grow 7% this year, but lowered it to 6.3% for developing economies like India that are struggling with Covid surges and access to vaccines.
+—Janet H. Cho
+***
+All Eyes on Federal Reserve as It Wraps Up Its Meeting
+The Federal Reserve will conclude its latest two-day policy meeting today, but investors might not get concrete answers about when the central bank will start to reduce its monthly bond purchases to take some of the steam out of the economy.
+The fast spread of the Delta variant in recent weeks, and the surge in new infections, has fanned fears about a disruption to global economic growth, which could take some of the pressure off the Fed to clarify its plans, economists told MarketWatch.
+to clarify its plans, economists told MarketWatch. “The drumbeat [for the Fed] to provide hard evidence they are on the way to slowing asset purchases will be a little less intense ,” said Vince Reinhart, Mellon’s chief economist, in an interview with MarketWatch.
+,” said Vince Reinhart, Mellon’s chief economist, in an interview with MarketWatch. The Fed has been buying $120 billion of bonds monthly since last summer and said in December it wouldn’t take its foot off the brake until “substantial” progress in its twin goals of achieving a healthy labor market and stable 2% inflation.
+monthly since last summer and said in December it wouldn’t take its foot off the brake until “substantial” progress in its twin goals of achieving a healthy labor market and stable 2% inflation. Some want to know when the Fed will back off its monthly buying of $40 billion in mortgage securities given a red-hot housing market that has seen sales prices for existing homes soar 23% amid material, land and labor shortages in the construction industry.
+What’s Next: The earliest Federal Reserve Chair Jerome Powell might substantively address bond purchase tapering is the Fed’s annual meeting in Jackson Hole, Wyo., in late August, some economists said, but others are expecting it closer to the Fed’s September meeting.
+—Liz Moyer
+***
+Air Travel Has Recovered More Quickly Than Expected, Despite Challenges
+JetBlue Airways CEO Robin Hayes told investors on Tuesday that air travel has recovered “more quickly than we expected,” with widespread vaccinations encouraging more people to fly, and a boost in corporate customers in New York and Boston from an alliance with American Airlines.
+JetBlue posted a second-quarter profit of $64 million , swinging from a net loss of $320 million in the same period last year. Hayes acknowledged “cost headwinds” in the near term, including maintenance, rents, landing fees, and the pressure of getting back to normal. JetBlue shares dropped 6.9% on Tuesday.
+, swinging from a net loss of $320 million in the same period last year. Hayes acknowledged “cost headwinds” in the near term, including maintenance, rents, landing fees, and the pressure of getting back to normal. JetBlue shares dropped 6.9% on Tuesday. American Airlines asked its pilots to save fuel when possible , warning them about fuel delivery delays at certain airports that could last through mid-August. Jet fuel shortages at some western U.S. airports resulted from a lack of truck drivers, logistical issues and insufficient supplies.
+, warning them about fuel delivery delays at certain airports that could last through mid-August. Jet fuel shortages at some western U.S. airports resulted from a lack of truck drivers, logistical issues and insufficient supplies. The airline industry is coping with labor shortages, volatile weather, and surging jet fuel prices, which meant Southwest Airlines water and fire retardant on raging wildfires .
+. The White House said Monday that the U.S. won’t lift its restrictions on nonessential international travel, citing concerns over the highly transmissible Delta variant and rising coronavirus cases.
+What’s Next: General Electric CEO Larry Culp told CNBC on Tuesday he is optimistic and confident about its aviation business and believes global air travel will continue to recover. “It looks like the leisure traveler is back and business travelers are not that far behind, hopefully,” he said.
+—Janet H. Cho
+***
+Quarantine-Free Travel From New York to London Is on the Horizon
+The air link between New York and London—critical for tourism and business travel alike—may soon return in force. Prime Minister Boris Johnson’s government could allow fully vaccinated travelers from the U.S. and European Union to cross the border without quarantining as soon as next week, according to reports.
+But easing restrictions for American travelers could be a one-way ticket. The CDC last week issued its highest level of warning against travel to the U.K. amid a new peak in Covid-19 cases. Infections have since dropped, but the White House affirmed on Tuesday that it wouldn’t ease strict border controls for non-Americans.
+amid a new peak in Covid-19 cases. Infections have since dropped, but the White House affirmed on Tuesday that it wouldn’t ease strict border controls for non-Americans. The inclination from the U.K. to loosen rules comes amid an expected boom in European travel. Budget airline Wizz Air 90% to 100% of 2019 capacity in July and August, marking a full recovery to precoronavirus capacity.
+Budget airline 90% to 100% of 2019 capacity in July and August, marking a full recovery to precoronavirus capacity. Sentiment on European airlines has lifted off following the news, with shares in IAG Ryanair attractive investment opportunities, Barron’s has reported.
+What’s Next: Reopening the New York to London corridor doesn’t mark a full return to trans-Atlantic travel, especially as London to New York remains troubled by U.S. border rules. But it has boosted sentiment among carriers and travelers amid hopes that the recovery is on the right flight path.
+—Jack Denton
+***
+Dear Quentin,
+I am a 40-year-old woman with a 14-year-old child. I am happily “common-law” married to my man of steel for almost six years now.
+He’s 18 years older and he’s a wonderful man. He has provided a house for me and my daughter, and purchased a new vehicle for me. This one has air conditioning!
+I was working at a grocery store and living with my mother when we met. He was ending his 30-year miserable marriage during our first year together. Meanwhile, he also has paid for many things for me.
+I’ve had some pretty extensive dental work throughout the years, and he even funded a trip for me and my daughter alone to go to New York.
+I always intended to pay him back with my tax refund, but it never came. He paid for the attorney I needed to acquire child support and full custody of my daughter.
+I don’t really have anything to my name to speak of—except the $600 a month I get for child support. That mostly pays for my daughter’s braces and a dermatologist.
+I was in an 18-wheeler accident about a year and a half ago. The time for settlement is drawing near, and the expected settlement will be worth anywhere up to $800,000.
+This is more money than I’ve ever seen in my life. It scares me. While I plan on having major dental work again, that is really the only thing I have committed to using my settlement money.
+I want to pay my partner back. But I also would like to remodel and update our house. Of course, it’s his house and he paid cash for it so there is no monthly mortgage.
+In four years, once my daughter graduates high school, I dream of selling this house and building my dream house in the country.
+I’m at a crossroads as to what to do with this settlement money, so it will last. I would like to pay for college for my daughter, and also make a wise investment in our current and future homes.
+—Unsettled in Texas
+Read The Moneyist’s response here.
+—Quentin Fottrell
+***
+—Newsletter edited by Liz Moyer, Mary Romano, Camilla Imperiali, Steve Goldstein, Callum Keown
+
+
+The Federal Reserve will conclude its latest policy meeting on Wednesday weighing the risks of a COVID-19 resurgence in the United States and a potentially slower economic recovery against a developing inflation threat that had been its main focus.
+* Fed to release policy statement at 2 p.m. EDT (1800 GMT)
+* Officials expected to continue bond-buying taper debate
+* Fed’s Powell scheduled to hold news briefing
+WASHINGTON, July 28 (Reuters) - The Federal Reserve will conclude its latest policy meeting on Wednesday weighing the risks of a COVID-19 resurgence in the United States and a potentially slower economic recovery against a developing inflation threat that had been its main focus.
+Fed officials are expected to continue their debate over when to wean the economy from the measures put in place more than a year ago to fight the pandemic’s economic aftershock, and in particular to discuss when to reduce the $120 billion in Treasury bonds and mortgage-backed securities the U.S. central bank is buying each month to hold down long-term interest rates.
+But that discussion, begun in earnest just six weeks ago when U.S. cases of COVID-19 were falling under the influence of vaccinations, has been complicated by the rapid spread of the more infectious Delta variant of the virus, the renewal of crisis conditions in some hospitals, and reinstated mask mandates in some cities.
+Though focused mostly on the 40% of the adult U.S. population that remains unvaccinated, the current outbreak nevertheless raises fresh tensions for the Fed over whether planning to fend off inflation should be the top concern at a time when the health crisis may yet curb an otherwise ebullient recovery.
+“Sadly, (Fed Chair Jerome) Powell will have to acknowledge the downside risks that are beginning to emerge,” Diane Swonk, chief economist at Grant Thornton, wrote ahead of the Fed’s two-day policy meeting this week. “The question mark is how spread of the Delta variant affects the return to work and whether it dampens some of the demand for services” that had begun to lead the recovery and pull millions of sidelined people back into jobs.
+The economy still is 6.8 million jobs short of where it was before the pandemic’s onset in early 2020, and Powell has said the country remains “a ways off” from the progress he wants to see before changing any of the Fed’s efforts at encouraging job growth. Powell will hold a news conference following the 2 p.m. EDT (1800 GMT) release of the Fed’s latest policy statement.
+INFECTIONS AND INFLATION
+The Fed remains in full crisis-fighting mode more than 16 months into a national state of emergency, continuing to hold its benchmark overnight interest rate near zero and buying bonds at a pace some policymakers have begun to question openly as too aggressive. Inflation is taking off, they note, and housing prices have hit record highs thanks in part to the relatively low interest rates on home mortgages.
+To avoid bigger problems down the road the Fed should pull back “sooner rather than later,” Dallas Fed President Robert Kaplan said after the June 15-16 policy meeting. St. Louis Fed President James Bullard has voiced similar sentiments - only to see Missouri’s second-biggest city reimpose an indoor mask mandate amid a rapid coronavirus outbreak in the state.
+Nationally, daily infections have risen about fourfold since the Fed met in June, making what had seemed a straightforward process - a turn from fighting recession to managing the rising prices and other risks of a strong recovery - into a more nuanced debate over how to continue planning for the pandemic’s end while also acknowledging its persistence.
+A new Reuters poll showed 160 of 202 economists, or about 80%, said the spread of new coronavirus variants was the biggest risk to the recovery.
+The latest surge in cases has not shown up clearly yet in the economic data. Consumer confidence remains high and people are still boarding planes and heading to restaurants.
+Still, Bank of America analysts recently drew a cautionary tale from Michigan, where a wave of infections in February appeared to dent hiring and consumer spending.
+“So far we have seen little evidence of the Delta variant significantly affecting economic activity or spending on services,” those analysts wrote. But “we have good reason to be concerned about the current outbreak and what it means.”
+TAPER TALK CONTINUES
+Amid those risks, there’s also no guarantee that inflation will fade on a timetable within the Fed’s comfort zone - possibly leaving the central caught between slower growth and rising prices, the worst of both worlds.
+A new Fed framework ostensibly allows inflation to run above the central bank’s formal 2% target to give the economy more room to generate jobs.
+That approach, however, was designed after a decade of low inflation, and on an expectation the chief challenge would be raising the weak pace of price increases. Yet as of May, with the world economy beset by supply-chain problems and other challenges tied to the economic reopening, the Fed’s preferred inflation measure was nearly twice the target rate.
+If that trend continues “they would have to say at some point ‘we do have to remove accommodation’ ... and they could not wait for maximum employment” before raising interest rates, as their current policy pledges to do, said Bill English, a Yale School of Management professor and former head of the Fed’s monetary affairs division.
+For that reason alone, Fed planning over how to reduce its bond-buying program is expected to continue. The central bank wants the monthly purchases to end before considering an interest rate increase, and the process of tapering them could take perhaps a year to complete - a lengthy runway if inflation persists and rate increases become more urgent.
+Officials have also promised ample advance notice before actually making any change, adding more months to the timetable.
+So far, officials are not foreclosing any option. Market analysts say they expect the Fed to clarify its plans for ending the bond-buying in the fall, and perhaps begin reducing purchases early next year.
+That presumes U.S. hiring continues, and that travel, dining out, and other close-contact social activities also recover.
+In an update to its World Economic Outlook, the International Monetary Fund on Tuesday raised its forecast for U.S. growth in 2021 to a torrid 7%. But in a related blog, Gita Gopinath, the IMF’s chief economist, cautioned central banks not to be distracted into “prematurely tightening policies” by a rise in inflation that was expected to fade on its own.
+“The recovery is not assured until the pandemic is beaten back globally,” she wrote.
+
+
+Federal Reserve officials are set to resume deliberations Wednesday about how and when to begin paring their asset purchases amid an economic rebound clouded by supply-chain bottlenecks and rising Covid-19 cases.
+Federal Reserve officials are set to resume deliberations Wednesday about how and when to begin paring their asset purchases amid an economic rebound clouded by supply-chain bottlenecks and rising Covid-19 cases.
+The central bank at the end of last year said it would continue to purchase $120 billion in Treasurys and mortgage-backed securities monthly until officials deemed they had achieved “substantial further progress” toward their goals of low unemployment and inflation reaching their 2% goal.
+The Fed will release its policy statement at 2 p.m. EDT. Most of the focus is likely to center on Chairman Jerome Powell’s news conference at 2:30 p.m. Here’s what to watch:
+Taper timing
+Officials are likely to receive a formal staff briefing around when to start paring their monthly purchases of $80 billion in Treasury securities and $40 billion in mortgage securities, and how quickly to reduce, or taper, them.
+
+
+Global equities regained some poise on Wednesday as a storm in Chinese stocks showed signs of easing, while the dollar made modest gains as investors awaited a Federal Reserve meeting.
+LONDON/HONG KONG (Reuters) - Global equities regained some poise on Wednesday as a storm in Chinese stocks showed signs of easing, while the dollar made modest gains as investors awaited a Federal Reserve meeting.
+FILE PHOTO: Investors stand in front of an electronic board showing stock information on the first trading day after the week-long Lunar New Year holiday at a brokerage house in Shanghai, China, February 15, 2016. REUTERS/Aly Song
+After a wave of heavy selling in recent days on the back of broadening regulatory crackdowns in China, Chinese blue chips closed up 0.2%, but the Shanghai Composite Index ended 0.6% down, its lowest close since March 10.
+Hong Kong’s benchmark added 1.5%, but remained near nine-month lows.
+Chinese state-run financial media urged calm on Wednesday after a roiling of stocks in the technology, property and education sectors in recent days.
+MSCI’s broadest index of Asia-Pacific shares outside Japan was 0.3% firmer after three straight sessions of losses.
+In Europe, the pan-continent STOXX 600 index added 0.2%, helped by encouraging earnings reports.
+German lender Deutsche Bank gained 3.9% after delivering a better-than-expected quarterly profit. Britain’s Barclays jumped 4.0% as it announced resumption of shareholder payouts after beating first-half profit expectations.
+In U.S. stock futures, the S&P 500 e-minis, were 0.1% lower.
+Market movements were small ahead of the Fed meeting. Investors are primed for any hints on when the central bank will start reducing its purchases of government bonds and any fresh insight into its views on inflation and economic growth.
+“In the background, you have the ripple effect of the Chinese crackdown and a lot of companies reporting today, but the Fed is the major event,” said Francois Savary, chief investment officer at Swiss wealth manager Prime Partners.
+“Are we going to get a timetable on tapering? Is it going to be clearly announced?”
+The statement from the Fed policy meeting is due at 2 p.m. EDT (1800 GMT), with a news conference by Chairman Jerome Powell expected half an hour later.
+With investors holding off on major bets ahead of the meeting, the dollar made marginal gains after earlier being pinned down by demand for safe-haven currencies.
+The U.S. dollar index moved into positive territory after trading lower in Asian hours, with the greenback last up 0.1% at 92.534.
+The Chinese yuan edged back from three-month lows and its worst day since October on Tuesday.
+The yield on benchmark 10-year Treasury notes strengthened to 1.2590%, up from the U.S. close of 1.234%.
+Oil prices rose as industry data showed U.S. crude and product inventories fell more sharply than expected last week, outweighing worries that surging COVID-19 cases would curb fuel demand.
+U.S. crude rose 0.29% to $71.86 a barrel and Brent crude rose 0.15% to $74.61 per barrel. Gold drew support from fragile equities and a subdued dollar, with spot prices above the key psychological level of $1,800, while Bitcoin rose around 0.8%, trading just below $40,000.
+
+
+Emerging market equities gained ground on Wednesday, after logging a 5% drop over the previous three sessions, as a rout in China shares showed signs of easing, while investors focused on the U.S. Federal Reserve for hints on stimulus tapering. Although most Asian stock indices extended declines, Chinese blue-chip shares edged 0.2% higher, while Hong Kong's main index climbed 1.5%.
+Emerging market equities gained ground on Wednesday, after logging a 5% drop over the previous three sessions, as a rout in China shares showed signs of easing, while investors focused on the U.S. Federal Reserve for hints on stimulus tapering.
+Although most Asian stock indices extended declines, Chinese blue-chip shares edged 0.2% higher, while Hong Kong's main index climbed 1.5%. Tough regulatory measures in China's education, property and technology sectors have weighed heavily on those indexes, pushing them firmly into the negative territory for the year.
+MSCI's China-heavy index of EM shares rose 0.5%, helped also by gains of between 0.4% and 0.6% in Turkey , Russia and most of emerging eastern Europe . Most market experts expect more regulations in China.
+"There is sufficient uncertainty at this time to be cautious on ... China in general. We have cut our exposure since the beginning of the year, going from very overweight to somewhat underweight," said Nicholas McConway, head of Asia ex-Japan equities at Amundi. Invesco's Golden Dragon China ETF has lost almost 50% since February.
+But, this phase of market correction will create interesting investment opportunities in the longer term as valuations become more compelling and as the market becomes more comfortable with the Chinese regulatory regime, McConway said. The International Monetary Fund on Tuesday lowered its outlook for developing economies, citing their difficulties in accessing COVID-19 vaccines and lesser fiscal support than in advanced economies. It reduced its 2021 forecast for China by 0.3 percentage point.
+With the dollar trading in a tight range ahead of the Fed outcome, most EM currencies firmed. The Chinese yuan rose for the first time in five sessions. A dovish stance by the U.S. central bank so far has helped riskier assets this year.
+Rising oil prices bolstered crude exporter Russia's rouble , approaching highs hit three-week ago. Turkey's lira rose around 0.3% against both the greenback and the euro, while Hungary's forint moved further away from three-month lows as it extended Tuesday's rally when the central bank delivered a 30 basis point rate hike to 1.2%, higher than expected.
+Nigeria's central bank on Tuesday said it was halting dollar sales to exchange bureaus. The decision came after rising World Bank pressure on Nigeria to provide a clearer foreign exchange management system - and converge its multiple exchange rates. South Africa's rand lost 0.2%, with losses since last week pushing it into the red for the year.
+For GRAPHIC on emerging market FX performance in 2021, see http://tmsnrt.rs/2egbfVh For GRAPHIC on MSCI emerging index performance in 2021, see https://tmsnrt.rs/2OusNdX For TOP NEWS across emerging markets
+For CENTRAL EUROPE market report, see For TURKISH market report, see
+For RUSSIAN market report, see
+
+
+Emerging market equities gained ground on Wednesday, after logging a 5% drop over the previous three sessions, as a rout in China shares showed signs of easing, while investors focused on the U.S. Federal Reserve for hints on stimulus tapering.
+* HK shares end 1.5% higher
+* IMF lowers expectations for developing economies
+* Forint extends rally spurred by hawkish cenbank
+* Nigeria ends dollar sales to exchange bureaus
+July 28 (Reuters) - Emerging market equities gained ground on Wednesday, after logging a 5% drop over the previous three sessions, as a rout in China shares showed signs of easing, while investors focused on the U.S. Federal Reserve for hints on stimulus tapering.
+Although most Asian stock indices extended declines, Chinese blue-chip shares edged 0.2% higher, while Hong Kong’s main index climbed 1.5%.
+Tough regulatory measures in China’s education, property and technology sectors have weighed heavily on those indexes, pushing them firmly into the negative territory for the year.
+MSCI’s China-heavy index of EM shares rose 0.5%, helped also by gains of between 0.4% and 0.6% in Turkey , Russia and most of emerging eastern Europe .
+Most market experts expect more regulations in China.
+“There is sufficient uncertainty at this time to be cautious on ... China in general. We have cut our exposure since the beginning of the year, going from very overweight to somewhat underweight,” said Nicholas McConway, head of Asia ex-Japan equities at Amundi.
+Invesco’s Golden Dragon China ETF has lost almost 50% since February.
+But, this phase of market correction will create interesting investment opportunities in the longer term as valuations become more compelling and as the market becomes more comfortable with the Chinese regulatory regime, McConway said.
+The International Monetary Fund on Tuesday lowered its outlook for developing economies, citing their difficulties in accessing COVID-19 vaccines and lesser fiscal support than in advanced economies. It reduced its 2021 forecast for China by 0.3 percentage point.
+With the dollar trading in a tight range ahead of the Fed outcome, most EM currencies firmed. The Chinese yuan rose for the first time in five sessions.
+A dovish stance by the U.S. central bank so far has helped riskier assets this year.
+Rising oil prices bolstered crude exporter Russia’s rouble , approaching highs hit three-week ago.
+Turkey’s lira rose around 0.3% against both the greenback and the euro, while Hungary’s forint moved further away from three-month lows as it extended Tuesday’s rally when the central bank delivered a 30 basis point rate hike to 1.2%, higher than expected.
+Nigeria’s central bank on Tuesday said it was halting dollar sales to exchange bureaus. The decision came after rising World Bank pressure on Nigeria to provide a clearer foreign exchange management system - and converge its multiple exchange rates.
+South Africa’s rand lost 0.2%, with losses since last week pushing it into the red for the year.
+For GRAPHIC on emerging market FX performance in 2021, see tmsnrt.rs/2egbfVh For GRAPHIC on MSCI emerging index performance in 2021, see tmsnrt.rs/2OusNdX
+For TOP NEWS across emerging markets
+For CENTRAL EUROPE market report, see
+For TURKISH market report, see
+For RUSSIAN market report, see
+
+
+Federal Reserve officials conclude a two-day meeting in Washington on Wednesday. The focus will be on laying the groundwork for less supportive policy.
+Federal Reserve officials conclude a two-day meeting in Washington on Wednesday. The focus will be on laying the groundwork for less supportive policy.
+Central bankers have been clear that tapering off bond purchases is the first step toward moving policy away from an emergency setting. Increases in the funds rate remain off in the distant future.
+Bond-buying is just one of the Fed’s policy tools, and is used to lower longer-term interest rates and to get money chugging around the economy. The Fed also sets a policy interest rate, the federal funds rate , to keep borrowing costs low. It has been near zero since March 2020.
+The Fed is moving cautiously, and for a reason: Back in 2013, markets convulsed when investors realized that a similar bond-buying program after the financial crisis would slow soon. Mr. Powell and crew do not want to stage a rerun.
+There’s a hot debate among policymakers about how that taper should play out. Some officials think the Fed should slow mortgage debt buying first because the housing market is booming. Others have said mortgage security buying has little special effect on the housing market. They have hinted or said they would favor tapering both types of purchases at the same speed.
+Economists mostly expect the central bank to announce plans to slow those purchases this year, perhaps as soon as August, before actually dialing them back late this year or early next. That slowdown is what Wall Street refers to as a “taper.”
+The Fed is buying $120 billion in government backed bonds each month — $80 billion in Treasury debt and $40 billion in mortgage-backed securities.
+Here are a few key things to know about the bond-buying, and key details that Wall Street will be watching:
+The Federal Reserve has swollen its balance sheet by buying bonds to bolster the economy during the pandemic, making it a bigger player in markets.
+Big and often conflicting considerations loom over the taper debate. Inflation has picked up more sharply than many Fed officials expected. Those price pressures are expected to fade, but the risk that they will linger is a source of discomfort, ramping up the urgency to create some sort of exit plan. At the same time, the job market is far from healed, and the surging Delta coronavirus variant means that the pandemic remains a real risk. Policy missteps could prove costly.
+That’s because Fed policymakers are debating their plans for future “tapering,” the widely used term for slowing down monthly purchases of government-backed debt. The bond purchases are meant to keep money chugging through the economy by encouraging lending and spending, and slowing them would be the first step in moving policy toward a more normal setting.
+Economists expect the central bank’s postmeeting statement at 2 p.m. Wednesday to leave policy unchanged, but investors will keenly watch a subsequent news conference with the Fed chair, Jerome H. Powell, for any hints at when — and how — officials might begin to pull back their economic support.
+Federal Reserve officials are gathering in Washington this week with monetary policy still set to emergency mode, even as the economy rebounds and inflation accelerates.
+The Federal Reserve is debating when and how to slow its huge bond purchases, the first step in moving away from its emergency stance as the economy rebounds from the pandemic. As it does, the hole that the coronavirus blew through the labor market looms large.
+The reasons to withdraw support soon are obvious. Growth is coming in strong, bolstered by vast government spending. Inflation has heated up, and while that is expected to be a temporary situation, the increase in prices is surprisingly strong.
+But the jobs situation is another story. About 6.8 million jobs are missing from employer payrolls compared with February 2020.
+The central bank has every reason to expect the economy to continue healing once it slows (or even stops) the bond buying. Asset prices may fall a little bit, and longer-term interest rates might rise slightly, but the Fed’s policy rate is still set at rock bottom, which should keep borrowing costs relatively low. Government spending continues to trickle out into the economy. Many consumers are flush with savings, and eagerly spending them.
+The key for Jerome H. Powell, the Fed chair, and his colleagues is to avoid tanking the economy by surprising investors and causing markets to gyrate, credit to dry up and growth to pull back more abruptly than planned.
+The state of the job market is a particularly good reason to proceed carefully. If the Fed accidentally sends an overly aggressive signal to markets, causing financial conditions to become too restrictive when millions are still in need of new positions, it could make for a long road back to full employment.
+The risk looms especially large as a coronavirus variant causes cases to surge in many countries, including the United States. While it is still unclear how much of a hurdle the Delta variant poses to growth, it has underlined that the pandemic is a persistent threat.
+For now, the Fed is being careful to broadcast every incremental step as it debates when and how to begin tiptoeing away from its policy support, something it wants to do only after the economy has made “substantial” further progress. The idea is that a constant drip of communication will prevent any market-rocking surprises. And the central bank has set out an even more ambitious, and more patient, goal when it comes to interest rates. Barring some big surprise in which financial risks or inflation bubble up dangerously, officials want to see the job market return to maximum employment before lifting borrowing costs. “They’d like to wait,” said Kathy Bostjancic, chief U.S. financial economist at Oxford Economics. She explained that officials were weighing the need to keep longer-run inflation under wraps against the many jobs still missing — and hoping that price pressures proved short-lived. “They’re banking on the T-word,” Ms. Bostjancic said. “Transient.” Yet when that “full employment” goal will be met is a major unknown. Many workers have retired since the start of the pandemic, and it is not clear whether they will return to work even if opportunities are plentiful. But the participation rate for prime-age workers — the share of people between the ages of 25 and 54 who are working or actively looking for jobs — has fallen precipitously since last year, and Fed officials are hoping to see that figure recover. Lingering child care issues and pandemic nervousness may be keeping would-be workers at home. The Fed is trying to wait and see what the job market can do. “It would be a mistake to act prematurely,” Mr. Powell told lawmakers recently. “At a certain point the risks may flip, but right now the risks to me are clear.”
+Read more
+
+
+U.S. Treasury yields climbed on Wednesday morning, ahead of Federal Reserve's latest monetary policy decision.
+The yield on the benchmark 10-year Treasury note rose 2 basis points to 1.254% at 4:20 a.m. ET. The yield on the 30-year Treasury bond added 2 basis points, advancing to 1.911%. Yields move inversely to prices and 1 basis point equals 0.01 percentage points.
+The Fed will issue a statement at 2 p.m. ET on Wednesday, following a two-day meeting of the Federal Open Market Committee. Fed Chairman Jerome Powell will then speak to the media at 2:30 p.m. ET.
+Many investors have been focused on when the Fed will start to talk about tightening its ultra-easy monetary policy, amid concerns about rising inflation. However, it looks likely that Fed officials will also express concerns about the rapid spread of the delta variant.
+Scott Ruesterholz, a portfolio manager at Insight Investment, said on Wednesday that his firm expected the Fed to announce no change in policy, nor to give any formal guidance on tapering asset purchases.
+"Chairman Jay Powell will likely seek to use his press conference to emphasize the Fed's data dependence as well as its patience while reiterating the view that elevated inflation is transitory," he said.
+Ruesterholz said that while the delta variant is unlikely to see new lockdowns implemented in the U.S. given the level of vaccinations, it may slow economic growth.
+
+
+The dollar made marginal gains on Wednesday after being pinned down earlier, with investors holding off on placing major bets ahead of the outcome of a U.S. Federal Reserve meeting.
+LONDON (Reuters) - The dollar made marginal gains on Wednesday after being pinned down earlier, with investors holding off on placing major bets ahead of the outcome of a U.S. Federal Reserve meeting.
+FILE PHOTO: A picture illustration shows U.S. 100 dollar bank notes taken in Tokyo August 2, 2011. REUTERS/Yuriko Nakao
+The U.S. dollar index moved into positive territory after trading lower in Asian hours. The greenback was last up 0.1% at 92.534.
+The Japanese yen, Swiss franc and the euro held onto the previous day’s gains in Asian trading hours, with the safe-haven yen trading at 109.80 per dollar and the euro at $1.1809.
+The dollar has enjoyed a month-long rally after a hawkish shift from the Fed in June. Markets are waiting to see whether the Fed will provide any clues on the timing of tapering later in the day amid surging U.S. inflation.
+The Fed publishes a statement at 1800 GMT followed by a news conference from Chair Jerome Powell at 1830 GMT.
+Still, foreign exchange analysts said the chances were high that the Fed would not shift policy, given its view that the recent spike in inflation will likely be transitory and worries that growing COVID-19 cases could derail the global economy’s recovery.
+“The spread of the Delta Variant may have provided a good reason to remain cautious and to postpone any important tapering announcement to the Jackson Hole Symposium in late August,” ING analysts wrote in a note.
+Declining U.S. real yields, fuelled by concerns about high inflation and the economic outlook, also cast a shadow over the dollar earlier. The 10-year inflation-linked bond yield hit a record low overnight.
+The Chinese yuan pulled away from three-month lows hit on Tuesday, when it saw its biggest daily losses since October, after the country’s stock market stabilised following a bruising couple of days.
+Still, the yuan’s bounce was modest and the risk-sensitive Australian and New Zealand dollars both fell around 0.3% as sentiment remained fragile.
+“Many people’s constructive view on the renminbi ... was partly premised on continued foreign capital flows into the domestic financial markets,” RBC Capital Markets analysts wrote.
+“The risk from equity outflows will dominate in the near term.”
+
+

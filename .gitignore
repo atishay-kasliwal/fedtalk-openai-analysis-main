@@ -1,0 +1,8 @@
+data_5Min/video/*
+data_5Min/audio/*
+data_1Min/video/*
+data_1Min/audio/*
+data_10Min/video/*
+data_10Min/audio/*
+scripts/api_keys.py
+scripts/__pycache__

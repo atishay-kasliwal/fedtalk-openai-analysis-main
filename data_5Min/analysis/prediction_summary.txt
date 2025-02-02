@@ -1,0 +1,101 @@
+PREDICTION SUMMARY REPORT
+==========================
+
+Statement Similarity Score Predictions:
+-----------------------------------------
+At 18:30:00, for ID 269: Predicted = Positive, Actual = Negative.
+  Insight: After Statement Release: The economic outlook being characterized as expanding at a solid pace, along with strong job gains and low unemployment creates a backdrop suggesting robust economic health, positively influencing market sentiment. | Mid-Conference: As the tone shifts towards acknowledging elevated inflation and the need for greater confidence before reducing the target rates, concerns arise, leading to a slight pullback in market enthusiasm.
+At 18:30:00, for ID 270: Predicted = Positive, Actual = Negative.
+  Insight: After Statement Release: The affirmation that risks to the employment and inflation goals are becoming more balanced bolsters confidence in the economic stability, signaling that the Fed is responsive to economic conditions. | Mid-Conference: The balanced risks portrayed initially stabilize market responses, causing indifference as investors weigh additional details without substantial new concerns.
+At 18:30:00, for ID 271: Predicted = Positive, Actual = Negative.
+  Insight: After Statement Release: The indications of solid economic activity and ongoing commitment to inflation targets establish a favorable outlook, encouraging investor buying. | Mid-Conference: Concerns regarding the uncertainty in the economic outlook and the necessity of careful consideration for future adjustments create nervousness, leading to caution in the markets.
+At 18:30:00, for ID 272: Predicted = Positive, Actual = Negative.
+  Insight: After Statement Release: A solid pace in economic expansion coupled with a commitment to managing inflation improves sentiment, showcasing resilience overall. | Mid-Conference: The tone emphasizes the risks linked to inflation which could deteriorate previously perceived stability, causing a shift in sentiment among market participants.
+At 18:30:00, for ID 273: Predicted = Positive, Actual = Negative.
+  Insight: After Statement Release: Strong job gains and a growing economy create a favorable atmosphere, leading to positive investments as the statement reinforces confidence. | Mid-Conference: As inflation concerns are discussed, investors may retreat, worried about the implications of prolonged inflation on future monetary policy.
+At 18:30:00, for ID 274: Predicted = Positive, Actual = Negative.
+  Insight: After Statement Release: The acknowledgment of balanced risks and a solid economic outlook triggers positive momentum, attracting investments. | Mid-Conference: Market participants stabilize their views without any drastic changes in available information or sentiment, resulting in a period of stability.
+At 18:30:00, for ID 275: Predicted = Positive, Actual = Negative.
+  Insight: After Statement Release: Positive indicators regarding employment and a commitment to inflation control inspire confidence, leading to bullish market activity. | Mid-Conference: A shift towards acknowledging potential obstacles with inflation dampens sentiment, causing a realignment in market expectations.
+At 18:30:00, for ID 276: Predicted = Positive, Actual = Negative.
+  Insight: After Statement Release: A view of balanced risks and a solid economic foundation enhances investor confidence, promoting buying initiatives. | Mid-Conference: Rising concerns about inflation stability introduce apprehension among investors, resulting in a pullback in market enthusiasm.
+At 18:30:00, for ID 277: Predicted = Positive, Actual = Negative.
+  Insight: After Statement Release: Strong indicators of economic activity boost confidence, leading to a positive market reaction. | Mid-Conference: The uncertainty mentioned and the caution advised for potential target rate adjustments create a downturn in market sentiment.
+At 18:30:00, for ID 278: Predicted = Positive, Actual = Negative.
+  Insight: After Statement Release: The analysis of economic performance suggests strength which typically influences market participants to act positively. | Mid-Conference: Acknowledgments of inflation risks and the careful consideration of adjustments create concern, leading to hesitance in market activities.
+At 18:30:00, for ID 279: Predicted = Negative, Actual = Negative.
+  Insight: Initial Statement: The tone of the statement suggests that inflation remains elevated, and there is no clear indication of easing monetary policy, indicating uncertainty in addressing inflation. This could lead to a negative reaction as participants may worry about persistent inflation. | Mid-Conference: As the discussion continues and the Committee maintains a consistent stance on inflation and employment, the market may stabilize. Without new negative information, traders might refrain from significant trades.
+At 18:30:00, for ID 280: Predicted = Negative, Actual = Negative.
+  Insight: Initial Statement: The mention of uncertainty in the economic outlook and the decision to maintain current rate levels might raise concerns about future economic conditions, causing a negative initial reaction. | Mid-Conference: The focus on reassessing the balance of risks and the commitment to closely monitor market conditions can imply stability. If the discussion indicates potential for future policy actions, it might lead to a positive outlook.
+At 18:30:00, for ID 281: Predicted = Negative, Actual = Negative.
+  Insight: Initial Statement: Emphasis on elevated inflation and no clear path to reducing rates may foster concern within the market, leading to a negative response based on expectations of continued tight monetary policy. | Mid-Conference: Reiteration of the balance of risks and aim towards the 2% inflation target without significant changes may cause the market to hold steady, resulting in no significant movement.
+At 18:30:00, for ID 282: Predicted = Negative, Actual = Negative.
+  Insight: Initial Statement: The statement signals ongoing inflation concerns without a clear easing path, creating fears of maintained high rates, prompting a negative reaction from the market. | Mid-Conference: Discussion about the potential adjustments in the securities holdings and managing the balance of risk suggests proactive measures that could positively influence market sentiment.
+At 18:30:00, for ID 283: Predicted = Negative, Actual = Negative.
+  Insight: Initial Statement: The reiteration of elevated inflation and current rate maintenance may unsettle market participants, triggering a negative reaction due to fears of prolonged economic stress. | Mid-Conference: The Committee's commitment to adjusting policies based on incoming data may provide reassurance to the market, leading to a more optimistic sentiment moving forward.
+At 18:30:00, for ID 284: Predicted = Negative, Actual = Negative.
+  Insight: Initial Statement: The highlighted economic uncertainties and elevated inflation expectations can lead to a pessimistic market sentiment, which initially results in a negative reaction. | Mid-Conference: As the conversation stabilizes around the potential impacts of current policies, the market may find a steady ground, leading to no significant movement in trading.
+At 18:30:00, for ID 285: Predicted = Negative, Actual = Negative.
+  Insight: Initial Statement: The statement's focus on inflation challenges without a clear easing policy could initially frighten investors, pairing negative sentiment with market volatility. | Mid-Conference: If the discussion emphasizes potential future adaptability of policies based on changing economic conditions, this may help foster positive sentiments among investors.
+At 18:30:00, for ID 286: Predicted = Negative, Actual = Negative.
+  Insight: Initial Statement: Indications of persistent inflation alongside a steady rates policy may lead to concerns over economic resilience, driving the market to react negatively. | Mid-Conference: Suggestions about monitoring economic indicators and the possibility of adapting strategies may provide reassurance, instilling a sense of optimism in the market.
+At 18:30:00, for ID 287: Predicted = Negative, Actual = Negative.
+  Insight: Initial Statement: The focus on inflation levels remaining elevated might lead market participants to express concern over future rate increases, causing a negative reaction. | Mid-Conference: The continuation of solid tone and focus on adapting to incoming data might stabilize sentiment, leading to a period of no market movement post-initial reaction.
+At 18:30:00, for ID 288: Predicted = Negative, Actual = Negative.
+  Insight: Initial Statement: Reiteration of risks related to inflation without a clear easing path likely causes initial concerns among investors, prompting a negative response. | Mid-Conference: As the dialogue progresses towards future adaptability and considerations of economic conditions, optimism may rise, resulting in a positive reaction.
+
+Metrics for Statements:
+  Accuracy : 0.50
+  F1 Score : 0.67
+  Precision: 1.00
+  Recall   : 0.50
+
+
+News Similarity Score Predictions:
+------------------------------------
+At 18:30:00, for ID 269: Predicted = No Movement, Actual = Negative.
+  Insight: Initial Statement: While Powell indicates confidence in reaching the 2% inflation target, it does not yet signal any changes to interest rates, leading to stable market expectations. | Mid-conference: As inflation persists and there are suggestions of potential rate cuts being delayed, uncertainty increases among investors, leading to negative sentiment.
+At 18:30:00, for ID 270: Predicted = No Movement, Actual = Negative.
+  Insight: Initial Statement: The Fed maintains a steady position on interest rates, which keeps the market in a wait-and-see stance. | Mid-conference: The mention of stronger inflation reduces the likelihood of aggressive interest rate cuts, dampening market enthusiasm.
+At 18:30:00, for ID 271: Predicted = Negative, Actual = Negative.
+  Insight: Initial Statement: The discussion of potential rate cuts indicates uncertainty in the Fed's approach, prompting negative market sentiment. | Mid-conference: Powell reassures that inflation is being managed but does not provide any immediate policy changes to boost confidence.
+At 18:30:00, for ID 272: Predicted = Negative, Actual = Negative.
+  Insight: Initial Statement: Concerns of inflation not being fully tamed lead to cautious investor sentiment. | Mid-conference: As Powell discusses the labor market maintaining strength, it stabilizes sentiments despite persistent inflation.
+At 18:30:00, for ID 273: Predicted = No Movement, Actual = Negative.
+  Insight: Initial Statement: The Fed's cautious approach avoids drastic measures, leading to stable market expectations. | Mid-conference: Concerns regarding inflation pressures and the potential for delayed cuts dampen market optimism.
+At 18:30:00, for ID 274: Predicted = No Movement, Actual = Negative.
+  Insight: Initial Statement: Remarks about inflation indicate a steady approach from the Fed, preventing market fluctuations. | Mid-conference: Increased inflation concerns stifle the market's positive outlook, inducing a more cautious response.
+At 18:30:00, for ID 275: Predicted = Negative, Actual = Negative.
+  Insight: Initial Statement: The hawkish tone indicating potential inflation issues contributes to negative market reactions. | Mid-conference: Despite inflation discussions, the absence of immediate changes allows the market to stabilize.
+At 18:30:00, for ID 276: Predicted = Negative, Actual = Negative.
+  Insight: Initial Statement: The Fed's reluctance to discuss rate cuts leads to apprehensive market participants. | Mid-conference: Continued discussions on economic growth provide reassurance without any policy shifts.
+At 18:30:00, for ID 277: Predicted = Negative, Actual = Negative.
+  Insight: Initial Statement: References to inflation suggest challenges ahead for policy, forming negative expectations. | Mid-conference: The Fed's consistent messaging about economic outlook prevents further market declines.
+At 18:30:00, for ID 278: Predicted = Negative, Actual = Negative.
+  Insight: Initial Statement: Warnings regarding the economy and inflation lead to increased market unease. | Mid-conference: Reassurances about gradual progress stabilize the market, preventing drastic movements.
+At 18:30:00, for ID 279: Predicted = Negative, Actual = Negative.
+  Insight: Pre-Press Conference: The sentiment leading into the press conference is cautious due to recent inflation data that has come in above expectations, which may imply continued aggressive rate holding. | During the Conference: Chair Powell's comments suggesting a reluctance to ease rates and acknowledging persistent inflation will likely reinforce negative sentiment in the market.
+At 18:30:00, for ID 280: Predicted = Negative, Actual = Negative.
+  Insight: Pre-Press Conference: Anticipation of a hawkish message has led to a negative outlook as inflation concerns loom. | During the Conference: Reassurances about not rushing into rate cuts, coupled with inflation being described as sticky, fuels negative sentiment.
+At 18:30:00, for ID 281: Predicted = Negative, Actual = Negative.
+  Insight: Pre-Press Conference: Expectations of a hawkish tone from Fed Chair Powell about inflation likely prompt a cautious market response. | During the Conference: The focus on holding rates steady amidst sticky inflation can be interpreted as a signal that investors should brace for longer-term high rates.
+At 18:30:00, for ID 282: Predicted = Negative, Actual = Negative.
+  Insight: Pre-Press Conference: Pre-press conference sentiment is pulled down by hawkish anticipations regarding interest rate discussions. | During the Conference: Emerging views from Powell suggesting the persistence of sticky inflation aligns with a bearish outlook.
+At 18:30:00, for ID 283: Predicted = Negative, Actual = Negative.
+  Insight: Pre-Press Conference: An expectation of no immediate rate decreases fosters negative market sentiment. | During the Conference: Confirmation that inflation might remain a concern with no immediate cuts can impact market confidence negatively.
+At 18:30:00, for ID 284: Predicted = Negative, Actual = Negative.
+  Insight: Pre-Press Conference: The prospect of continued high rates due to inflation fears leads to a bearish market sentiment. | During the Conference: The notion of protracted rate stability, despite inflation issues, contributes to a declining market tone.
+At 18:30:00, for ID 285: Predicted = Negative, Actual = Negative.
+  Insight: Pre-Press Conference: Investors expect continued high rates, leading to cautious pre-conference trading. | During the Conference: Indications that inflation remains a priority over easing monetary policy can lead to further negative sentiment.
+At 18:30:00, for ID 286: Predicted = Negative, Actual = Negative.
+  Insight: Pre-Press Conference: Anticipation that the Fed will continue its hawkish stance contributes to a bearish outlook. | During the Conference: Chair Powell's statements regarding ongoing inflationary concerns will likely solidify existing fears and market negative reactions.
+At 18:30:00, for ID 287: Predicted = Negative, Actual = Negative.
+  Insight: Pre-Press Conference: Market sentiment turns negative expecting cautious guidance on rate cuts in light of persistent inflation. | During the Conference: The emphasis on controlling inflation while avoiding immediate policy shifts solidifies a pessimistic market environment.
+At 18:30:00, for ID 288: Predicted = Negative, Actual = Negative.
+  Insight: Pre-Press Conference: Prospects of sticky inflation are discussed, leading to a negative outlook even before the conference starts. | During the Conference: Persistent inflation concerns and implications for a slower approach to rate easing contribute to overall market negativity.
+
+Metrics for News:
+  Accuracy : 0.80
+  F1 Score : 0.89
+  Precision: 1.00
+  Recall   : 0.80
