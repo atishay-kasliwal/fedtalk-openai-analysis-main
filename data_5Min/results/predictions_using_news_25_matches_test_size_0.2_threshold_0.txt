@@ -1,0 +1,5 @@
+[{'Id': 4, 'Price Movement': 'Positive'}, {'Id': 5, 'Price Movement': 'Negative'}, {'Id': 11, 'Price Movement': 'Negative'}, {'Id': 18, 'Price Movement': 'Negative'}, {'Id': 19, 'Price Movement': 'Negative'}, {'Id': 27, 'Price Movement': 'Negative'}, {'Id': 32, 'Price Movement': 'Negative'}, {'Id': 34, 'Price Movement': 'Negative'}, {'Id': 35, 'Price Movement': 'Positive'}, {'Id': 41, 'Price Movement': 'Positive'}]
+Accuracy: 0.6
+F1 Score: 0.5
+Precision: 0.6666666666666666
+Recall: 0.4

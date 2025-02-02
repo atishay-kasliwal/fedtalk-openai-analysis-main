@@ -1,0 +1,40 @@
+2025-02-01 12:35:50,186 - WARNING - /Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+2025-02-01 12:36:12,903 - WARNING - /Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+2025-02-01 12:36:34,938 - WARNING - /Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+2025-02-01 12:36:56,996 - WARNING - /Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+2025-02-01 12:37:19,427 - WARNING - /Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+2025-02-01 12:40:07,129 - WARNING - /Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+2025-02-01 12:40:31,317 - WARNING - /Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+2025-02-01 12:40:52,736 - WARNING - /Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+2025-02-01 12:41:15,797 - WARNING - /Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+2025-02-01 12:41:38,978 - WARNING - /Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+2025-02-01 12:42:00,137 - WARNING - /Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
+  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
+
+2025-02-01 12:42:39,470 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 12:43:05,119 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 12:43:34,899 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 12:43:59,980 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-02-01 12:44:00,009 - INFO - Predictions and insights saved to data_5Min/analysis/predictions_insights.csv
+2025-02-01 12:44:00,010 - INFO - Metrics summary saved to data_5Min/analysis/metrics_summary.csv
+2025-02-01 12:44:00,013 - ERROR - Error loading dataset: [Errno 2] No such file or directory: 'data_5Min/combined_filtered_negativeß.csv'

@@ -1,0 +1,5 @@
+[{'Id': 7, 'Price Movement': 'Positive'}, {'Id': 8, 'Price Movement': 'Positive'}, {'Id': 9, 'Price Movement': 'Negative'}, {'Id': 10, 'Price Movement': 'Negative'}, {'Id': 13, 'Price Movement': 'Positive'}, {'Id': 14, 'Price Movement': 'Positive'}, {'Id': 18, 'Price Movement': 'Negative'}, {'Id': 19, 'Price Movement': 'Positive'}, {'Id': 21, 'Price Movement': 'Positive'}, {'Id': 23, 'Price Movement': 'Negative'}, {'Id': 24, 'Price Movement': 'Negative'}, {'Id': 25, 'Price Movement': 'Negative'}, {'Id': 33, 'Price Movement': 'Positive'}, {'Id': 37, 'Price Movement': 'Negative'}, {'Id': 38, 'Price Movement': 'Positive'}, {'Id': 42, 'Price Movement': 'Positive'}, {'Id': 47, 'Price Movement': 'Positive'}]
+Accuracy: 0.7058823529411765
+F1 Score: 0.7368421052631579
+Precision: 0.7
+Recall: 0.7777777777777778
