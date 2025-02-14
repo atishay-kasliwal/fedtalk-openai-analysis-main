@@ -12,7 +12,7 @@ AUDIO_FILE_NAME = "full_audio.wav"
 
 SHOULD_COMPRESS = True
 # Divide into 30secs, 1 min, 
-SPLIT_LENGTH_SECONDS = 10 * 60 # 0.5 minutes in seconds
+SPLIT_LENGTH_SECONDS = 1 * 60
 
 MILLISECOND_CONVERT = 1000
 

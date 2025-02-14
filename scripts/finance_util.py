@@ -16,14 +16,24 @@ DATETIME_FORMAT = "%Y-%m-%d %H:%M:%S"
 def get_price_change(start_time: datetime, end_time: datetime):
     start_date = datetime.datetime.strftime(start_time.date(), DATE_FORMAT)
     end_date = datetime.datetime.strftime(end_time.date(), DATE_FORMAT)
+    
     price_data = get_price_data(start_date)
     if start_date != end_date:
-        price_data = pd.concat([price_data, get_price_data(start_date)])
-    price_data['timestamp'] = pd.to_datetime(price_data['timestamp'], format = DATETIME_FORMAT)
-    price_data_filtered = price_data[price_data['timestamp'] == start_time]
-    # print(f'{start_time} {end_time} {price_data_filtered}')
-    price_data_max = price_data_filtered[price_data_filtered['calculated_percentage'].abs() == price_data_filtered['calculated_percentage'].abs().max()]
-    return price_data_max['calculated_percentage'].values[0] if not price_data_max.empty else 0
+        price_data = pd.concat([price_data, get_price_data(end_date)])  # Fix: use end_date instead of start_date again
+
+    price_data['timestamp'] = pd.to_datetime(price_data['timestamp'], format=DATETIME_FORMAT)
+    
+    # Ensure we get the closest timestamps
+    start_price = price_data.iloc[(price_data['timestamp'] - start_time).abs().argsort()[:1]]
+    end_price = price_data.iloc[(price_data['timestamp'] - end_time).abs().argsort()[:1]]
+
+    if start_price.empty or end_price.empty:
+        return 0  # No valid data points found
+
+    # Compute price change
+    price_change = end_price['calculated_percentage'].values[0] - start_price['calculated_percentage'].values[0]
+
+    return price_change
 
 def get_price_volatility(start_time: datetime, end_time: datetime):
     start_date = datetime.datetime.strftime(start_time.date(), DATE_FORMAT)

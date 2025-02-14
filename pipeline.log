@@ -1,40 +1,86 @@
-2025-02-01 12:35:50,186 - WARNING - /Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
-  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
-
-2025-02-01 12:36:12,903 - WARNING - /Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
-  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
-
-2025-02-01 12:36:34,938 - WARNING - /Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
-  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
-
-2025-02-01 12:36:56,996 - WARNING - /Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
-  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
-
-2025-02-01 12:37:19,427 - WARNING - /Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
-  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
-
-2025-02-01 12:40:07,129 - WARNING - /Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
-  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
-
-2025-02-01 12:40:31,317 - WARNING - /Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
-  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
-
-2025-02-01 12:40:52,736 - WARNING - /Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
-  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
-
-2025-02-01 12:41:15,797 - WARNING - /Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
-  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
-
-2025-02-01 12:41:38,978 - WARNING - /Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
-  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
-
-2025-02-01 12:42:00,137 - WARNING - /Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/whisper/transcribe.py:126: UserWarning: FP16 is not supported on CPU; using FP32 instead
-  warnings.warn("FP16 is not supported on CPU; using FP32 instead")
-
-2025-02-01 12:42:39,470 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-2025-02-01 12:43:05,119 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-2025-02-01 12:43:34,899 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-2025-02-01 12:43:59,980 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-2025-02-01 12:44:00,009 - INFO - Predictions and insights saved to data_5Min/analysis/predictions_insights.csv
-2025-02-01 12:44:00,010 - INFO - Metrics summary saved to data_5Min/analysis/metrics_summary.csv
-2025-02-01 12:44:00,013 - ERROR - Error loading dataset: [Errno 2] No such file or directory: 'data_5Min/combined_filtered_negativeß.csv'
+2025-02-12 15:36:48,991 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-02-12 15:36:48,991 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-12 15:36:51,336 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-02-12 15:36:51,336 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-12 15:36:52,918 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-02-12 15:36:52,918 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-12 15:36:54,211 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-02-12 15:36:54,212 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-12 15:37:45,690 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-02-12 15:37:45,691 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-12 15:39:20,286 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-02-12 15:39:20,288 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-12 15:39:21,377 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-02-12 15:39:21,377 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-12 15:39:22,633 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-02-12 15:39:22,633 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-12 15:39:23,704 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-02-12 15:39:23,704 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-12 15:39:24,674 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-02-12 15:39:24,674 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-12 15:39:25,635 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-02-12 15:39:25,635 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-12 15:39:26,796 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-02-12 15:39:26,797 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-12 15:39:27,816 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-02-12 15:39:27,816 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-12 15:39:28,923 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-02-12 15:39:28,923 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-12 15:39:30,060 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-02-12 15:39:30,060 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-12 15:39:31,283 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-02-12 15:39:31,283 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-12 15:39:32,324 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-02-12 15:39:32,324 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-12 15:39:33,510 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-02-12 15:39:33,510 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-12 15:39:34,859 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-02-12 15:39:34,859 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-12 15:39:36,097 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-02-12 15:39:36,097 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-12 15:39:37,218 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-02-12 15:39:37,218 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-12 15:40:29,406 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-02-12 15:40:29,408 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-12 15:40:30,320 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-02-12 15:40:30,320 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-12 15:40:31,371 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-02-12 15:40:31,371 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-12 15:40:32,370 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-02-12 15:40:32,371 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-12 15:40:33,318 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-02-12 15:40:33,318 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-12 15:40:34,125 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-02-12 15:40:34,125 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-12 15:40:35,172 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-02-12 15:40:35,172 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-12 15:40:36,272 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-02-12 15:40:36,272 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-12 15:40:39,549 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-02-12 15:40:39,550 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-12 15:40:40,571 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-02-12 15:40:40,572 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-12 15:40:41,630 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-02-12 15:40:41,630 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-12 15:40:44,124 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-02-12 15:40:44,125 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-12 15:41:04,211 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-02-12 15:41:04,213 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-12 15:41:36,957 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-02-12 15:41:36,958 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-12 15:41:58,759 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-02-12 15:41:58,759 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-12 15:42:50,564 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-02-12 15:42:50,565 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-12 15:44:17,608 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-02-12 15:44:17,609 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-12 15:44:49,125 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-02-12 15:44:49,126 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-12 15:45:30,999 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-02-12 15:45:31,001 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-12 15:46:10,722 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-02-12 15:46:10,724 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-12 15:46:28,302 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-02-12 15:46:28,303 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-02-12 15:46:35,953 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-02-12 15:46:35,953 - INFO - Looking for plugins in pinecone_plugins.inference
