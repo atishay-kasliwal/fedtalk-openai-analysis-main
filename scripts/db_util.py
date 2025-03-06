@@ -103,3 +103,6 @@ def get_news_sentences(date: str, data_ids: set):
     news_data = pd.read_csv(news_data_file_name)
     news_data = news_data[news_data.id.map(str).isin(data_ids)]
     return ".".join(news_data['sentence'].tolist())
+
+
+
