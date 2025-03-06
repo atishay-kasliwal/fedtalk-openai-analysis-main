@@ -15,14 +15,18 @@ def read_file_content(file, encoding):
 
 import pandas as pd
 def csv():
-    df1 = pd.read_csv("/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/data_5Min/analysis/predictions_insights_combined11.csv")
+    df1 = pd.read_csv("Positive_Prediction.csv")
 
 # Load the second CSV (Source of additional columns)
-    df2 = pd.read_csv("/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/data_1Min/combined_filtered_negative.csv")
+    df2 = pd.read_csv("filtered_positive.csv", encoding="ISO-8859-1", low_memory=False)
+
+
+    df1['id'] = df1['id'].astype(str)  # Convert to string
+    df2['id'] = df2['id'].astype(str)  # Convert to string
+    merged_df = df1.merge(df2, on='id', how='inner')
 
 # Merge on a common column (e.g., 'id')
-    merged_df = df1.merge(df2[['id', 'price_change', 'volatility', "statement_price_movement"]], on='id', how='left')
-    merged_df = merged_df.drop('Combined_Actual', axis=1)
+    merged_df = df1.merge(df2[['id', 'price_change']], on='id', how='left')
 
 # Save the merged CSV
     ans  = merged_df.to_csv("Appendix_B_combined_filtered_positive.csv", index=False)

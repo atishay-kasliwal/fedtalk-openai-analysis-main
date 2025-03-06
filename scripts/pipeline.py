@@ -5,30 +5,28 @@ import finance_util
 import datetime
 import analysis_util
 import articles_util
-import db_util
+
 import numpy as np
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
 from nltk.tokenize import sent_tokenize
-import json
 import logging
 import datetime
-import math
-import math
+
 import matplotlib.pyplot as plt
-import ast
 from collections import Counter
+import db_util
 import nltk
 
-# nltk.download('punkt_tab')
+nltk.download('punkt_tab')
 
-# os.environ["TOKENIZERS_PARALLELISM"] = "false"
-# logging.basicConfig(xs
-#     filename="pipeline.log",
-#     filemode="w",
-#     format="%(asctime)s - %(levelname)s - %(message)s",
-#     level=logging.INFO
-# )
+os.environ["TOKENIZERS_PARALLELISM"] = "false"
+logging.basicConfig(
+    filename="pipeline.log",
+    filemode="w",
+    format="%(asctime)s - %(levelname)s - %(message)s",
+    level=logging.INFO
+)
     # Compute evaluation metrics for both statement and news predictions
 def compute_metrics(actual, predicted):
         if not predicted:
@@ -58,11 +56,41 @@ def aggregate_reactions(market_reactions):
 def create_insight(market_reactions):
         explanations = []
         for item in market_reactions:
-            # Concatenate time and explanation if available
-            if 'Time' in item and 'Explanation' in item:
-                explanations.append(f"{item['Time']}: {item['Explanation']}")
+            explanations.append(str(item['Explanation']))
         return " | ".join(explanations)
-    
+def create_s1(market_reactions):
+    explanations = []
+    for item in market_reactions:
+        # Only append 'Similarity 1' if it's available and convert it to string
+        if 'Similarity 1' in item:
+            explanations.append(str(item['Similarity 1']))
+    return " | ".join(explanations)
+
+def create_s2(market_reactions):
+    explanations = []
+    for item in market_reactions:
+        # Only append 'Similarity 2' if it's available and convert it to string
+        if 'Similarity 2' in item:
+            explanations.append(str(item['Similarity 2']))
+    return " | ".join(explanations)
+
+def create_s3(market_reactions):
+    explanations = []
+    for item in market_reactions:
+        # Only append 'Similarity 3' if it's available and convert it to string
+        if 'Similarity 3' in item:
+            explanations.append(str(item['Similarity 3']))
+    return " | ".join(explanations)
+
+def create_op3(market_reactions):
+    explanations = []
+    for item in market_reactions:
+        # Only append 'Similarity 3' if it's available and convert it to string
+        if 'Percent Change' in item:
+            explanations.append(str(item['Percent Change']))
+    return " | ".join(explanations)
+
+
 
 ANALYSIS_PATH = "data_1Min/analysis"
 THRESHOLD = 0.001
@@ -78,7 +106,8 @@ STATEMENTS_FILES_ENCODING = 'utf8'
 # def get_speech_and_price_data():
 #     # In UTC
 #     # start_ts = ["2024-01-31 19:30:00"]
-#     start_ts = [ "2023-02-01 18:30:00", "2023-03-22 18:30:00", "2023-05-03 18:30:00", "2023-06-14 18:30:00", "2023-07-26 18:30:00",
+#     start_ts = [ "2023-02-01 18:30:00", "2023-03-22 18:30:00", "2023-05-03 18:30:00", 
+#               "2023-06-14 18:30:00", "2023-07-26 18:30:00",
 #               "2023-09-20 18:30:00", "2023-11-01 18:30:00",
 #               "2023-12-13 18:30:00", "2022-01-26 18:30:00",
 #               "2022-03-16 18:30:00", 
@@ -149,237 +178,268 @@ STATEMENTS_FILES_ENCODING = 'utf8'
 #         sentence_data.to_csv(sentence_data_file, index = False)
 #         db_util.upsert_data(index_name = type, namespace = date, data_file = sentence_data_file)
 
-def compare_speech_with_statements_and_news(num_matching_statement_sentences, num_matching_news_sentences):
-    data = pd.read_csv('data_1Min/combined.csv', parse_dates = ['start_time', 'original_time', 'end_time'])
-    # data = data[data['price_change'].abs() >= THRESHOLD]
-    data['id'] = range(len(data))
-    data['start_date'] = data['start_time'].dt.date
-    data['threshold_0.1perc'] = data['price_change'].abs() >= 0.001
-    data['threshold_0.25perc'] = data['price_change'].abs() >= 0.0025
-    data['threshold_0.5perc'] = data['price_change'].abs() >= 0.005
-    data['threshold_0.75perc'] = data['price_change'].abs() >= 0.0075
-    data['statement_price_change'] = data.apply(lambda row: finance_util.get_price_change(row['original_time'] - datetime.timedelta(seconds = 5*60),
-                                                                                      row['original_time']), axis = 1)
-    data['statement_price_movement'] = np.where(data['statement_price_change'] > 0, 'Positive', 'Negative')
-    data['interval_price_movement'] = np.where(data['price_change'] > 0, 'Positive', 'Negative')
-    print(2)
-    for index in range(len(num_matching_statement_sentences)): 
-        data[['extracted_statement_text_' + str(num_matching_statement_sentences[index]), 'extracted_statement_text_' + str(num_matching_statement_sentences[index]) + '_score']] = data.apply(lambda row: db_util.query(index_name = "statement", date = row['start_date'], 
-                                                                                query_text = row['speech'], num_matches = num_matching_statement_sentences[index]), axis = 1, result_type='expand')
-        print(4)
-        data[['extracted_news_' + str(num_matching_news_sentences[index]), 'extracted_news_' + str(num_matching_news_sentences[index]) + '_score']] = data.apply(lambda row: db_util.query(index_name = "news", date = row['start_date'], 
-                                                                                query_text = row['speech'], num_matches = num_matching_news_sentences[index]), axis = 1, result_type='expand')
-        print(6)
-
-    # data['similarities_and_differences_with_statement_30_matching_sentences'] = data.apply(lambda row: analysis_util.get_similar_and_different_terms(row['speech'], row['extracted_statement_text_' + str(num_matching_statement_sentences[-1])]), axis = 1)
-    # data[['Topic', 'Keywords']] = pd.DataFrame(data['text'].apply(analysis_util.get_topic_and_keywords).tolist(), index = data.index)
-    # data[['Sentiment', 'Strength']] = pd.DataFrame(data['text'].apply(analysis_util.rate_news).tolist(), index = data.index)
-    # data['sentiment_comparison_with_statement'] =  data.apply(lambda row: analysis_util.compare_sentiment_and_certainity_level(row['speech'], row['extracted_statement_text_' + str(num_matching_statement_sentences[-1])]), axis = 1)
-    # data['similarities_and_differences_with_news_35_matching_sentences'] = data.apply(lambda row: analysis_util.get_similar_and_different_terms(row['speech'], row['extracted_news_' + str(num_matching_news_sentences[-1])]), axis = 1)
-    # data['sentiment_comparison_with_news'] =  data.apply(lambda row: analysis_util.compare_sentiment_and_certainity_level(row['speech'], row['extracted_news_' + str(num_matching_news_sentences[-1])]), axis = 1)
-    data_positive_statement = data[data['statement_price_movement'] == 'Positive']
-    data_negative_statement = data[data['statement_price_movement'] == 'Negative']
-    print(3)
-    data_positive_statement.sort_values(by = 'start_time').to_csv(f'data_1Min/combined_filtered_positive.csv', index = False)
-    data_negative_statement.sort_values(by = 'start_time').to_csv(f'data_1Min/combined_filtered_negative.csv', index = False)
 
 
-import pandas as pd
-import numpy as np
-import os
-import json
-from collections import Counter
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score
-import analysis_util  # Ensure this module is correctly implemented
+# def compare_speech_with_statements_and_news(num_matching_statement_sentences, num_matching_news_sentences):
+#     data = pd.read_csv('data_1Min/combined.csv', parse_dates = ['start_time', 'original_time', 'end_time'])
+#     # data = data[data['price_change'].abs() >= THRESHOLD]
+#     data['id'] = range(len(data))
+#     data['start_date'] = data['start_time'].dt.date
+#     data['threshold_0.1perc'] = data['price_change'].abs() >= 0.001
+#     data['threshold_0.25perc'] = data['price_change'].abs() >= 0.0025
+#     data['threshold_0.5perc'] = data['price_change'].abs() >= 0.005
+#     data['threshold_0.75perc'] = data['price_change'].abs() >= 0.0075
+#     data['statement_price_change'] = data.apply(lambda row: finance_util.get_price_change(row['original_time'] - datetime.timedelta(seconds = 60),
+#                                                                                       row['original_time']), axis = 1)
+#     data['statement_price_movement'] = np.where(data['statement_price_change'] > 0, 'Positive', 'Negative')
+#     data['interval_price_movement'] = np.where(data['price_change'] > 0, 'Positive', 'Negative')
+#     print(2)
+#     for index in range(len(num_matching_statement_sentences)): 
+#         data[['extracted_statement_text_' + str(num_matching_statement_sentences[index]), 'extracted_statement_text_' + str(num_matching_statement_sentences[index]) + '_score']] = data.apply(lambda row: db_util.query(index_name = "statement", date = row['start_date'], 
+#                                                                                 query_text = row['speech'], num_matches = num_matching_statement_sentences[index]), axis = 1, result_type='expand')
+#         print(4)
+#         data[['extracted_news_' + str(num_matching_news_sentences[index]), 'extracted_news_' + str(num_matching_news_sentences[index]) + '_score']] = data.apply(lambda row: db_util.query(index_name = "news", date = row['start_date'], 
+#                                                                                 query_text = row['speech'], num_matches = num_matching_news_sentences[index]), axis = 1, result_type='expand')
+#         print(6)
 
-# def predict_price_change_using_score(interval: str, statement_type: str, test_size: float, 
-#                                      price_change_threshold: float, num_statement_matches: str, 
-#                                      num_news_matches: str):
-#     # Load the data
-#     try:
-#         data = pd.read_csv(f'data_1Min/combined_filtered_{statement_type}.csv')
-#         print("Dataset loaded successfully.")
-#     except Exception as e:
-#         print(f"Error loading dataset: {e}")
-#         return
+#     # data['similarities_and_differences_with_statement_30_matching_sentences'] = data.apply(lambda row: analysis_util.get_similar_and_different_terms(row['speech'], row['extracted_statement_text_' + str(num_matching_statement_sentences[-1])]), axis = 1)
+#     # data[['Topic', 'Keywords']] = pd.DataFrame(data['text'].apply(analysis_util.get_topic_and_keywords).tolist(), index = data.index)
+#     # data[['Sentiment', 'Strength']] = pd.DataFrame(data['text'].apply(analysis_util.rate_news).tolist(), index = data.index)
+#     # data['sentiment_comparison_with_statement'] =  data.apply(lambda row: analysis_util.compare_sentiment_and_certainity_level(row['speech'], row['extracted_statement_text_' + str(num_matching_statement_sentences[-1])]), axis = 1)
+#     # data['similarities_and_differences_with_news_35_matching_sentences'] = data.apply(lambda row: analysis_util.get_similar_and_different_terms(row['speech'], row['extracted_news_' + str(num_matching_news_sentences[-1])]), axis = 1)
+#     # data['sentiment_comparison_with_news'] =  data.apply(lambda row: analysis_util.compare_sentiment_and_certainity_level(row['speech'], row['extracted_news_' + str(num_matching_news_sentences[-1])]), axis = 1)
+#     data_positive_statement = data[data['statement_price_movement'] == 'Positive']
+#     data_negative_statement = data[data['statement_price_movement'] == 'Negative']
+#     print(3)
+#     data_positive_statement.sort_values(by = 'start_time').to_csv(f'data_1Min/combined_filtered_positive.csv', index = False)
+#     data_negative_statement.sort_values(by = 'start_time').to_csv(f'data_1Min/combined_filtered_negative.csv', index = False)
 
-#     # Create binary labels
-#     data['price_movement'] = np.where(data['price_change'] > price_change_threshold, 'Positive', 'Negative')
-#     data = data.astype({"id": int})
+
+# import pandas as pd
+# import numpy as np
+# import os
+# import json
+# from collections import Counter
+# from sklearn.model_selection import train_test_split
+# from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score
+# import analysis_util  # Ensure this module is correctly implemented
+
+# # def predict_price_change_using_score(interval: str, statement_type: str, test_size: float, 
+# #                                      price_change_threshold: float, num_statement_matches: str, 
+# #                                      num_news_matches: str):
+# #     # Load the data
+# #     try:
+# #         data = pd.read_csv(f'data_1Min/combined_filtered_{statement_type}.csv')
+# #         print("Dataset loaded successfully.")
+# #     except Exception as e:
+# #         print(f"Error loading dataset: {e}")
+# #         return
+
+# #     # Create binary labels
+# #     data['price_movement'] = np.where(data['price_change'] > price_change_threshold, 'Positive', 'Negative')
+# #     data = data.astype({"id": int})
     
-#     # Split dataset
-#     X = data['id'].tolist()
-#     y = data['price_movement'].tolist()
-#     _, _ , _, _ = train_test_split(X, y, test_size=test_size, stratify=y)
+# #     # Split dataset
+# #     X = data['id'].tolist()
+# #     y = data['price_movement'].tolist()
+# #     _, _ , _, _ = train_test_split(X, y, test_size=test_size, stratify=y)
     
-#     # Convert time column to datetime
-#     data['start_time'] = pd.to_datetime(data['start_time'], errors='coerce')
+# #     # Convert time column to datetime
+# #     data['start_time'] = pd.to_datetime(data['start_time'], errors='coerce')
     
-#     # Filter training and testing data
-#     train_data = data[(data['start_time'] >= '2021-01-01') & (data['start_time'] <= '2023-12-31')]
-#     test_data = data[data['start_time'] >= '2024-01-01']
+# #     # Filter training and testing data
+# #     train_data = data[(data['start_time'] >= '2021-01-01') & (data['start_time'] <= '2023-12-31')]
+# #     test_data = data[data['start_time'] >= '2024-01-01']
     
-#     statement_column = f'extracted_statement_text_{num_statement_matches}'
-#     news_column = f'extracted_news_{num_news_matches}'
+# #     statement_column = f'extracted_statement_text_{num_statement_matches}'
+# #     news_column = f'extracted_news_{num_news_matches}'
     
-#     if statement_column not in data.columns or news_column not in data.columns:
-#         print(f"Missing required columns: {statement_column}, {news_column}")
-#         return
+# #     if statement_column not in data.columns or news_column not in data.columns:
+# #         print(f"Missing required columns: {statement_column}, {news_column}")
+# #         return
 
-#     # Prepare data for prompts
-#     train_prompt_statement = [{
-#         'Id': row['id'],
-#         'Average Similarity Score': row[statement_column],
-#         'Price Movement': row['price_movement']
-#     } for _, row in train_data.iterrows()]
+# #     # Prepare data for prompts
+# #     train_prompt_statement = [{
+# #         'Id': row['id'],
+# #         'Average Similarity Score': row[statement_column],
+# #         'Price Movement': row['price_movement']
+# #     } for _, row in train_data.iterrows()]
     
-#     train_prompt_news = [{
-#         'Id': row['id'],
-#         'Average Similarity Score': row[news_column],
-#         'Price Movement': row['price_movement']
-#     } for _, row in train_data.iterrows()]
+# #     train_prompt_news = [{
+# #         'Id': row['id'],
+# #         'Average Similarity Score': row[news_column],
+# #         'Price Movement': row['price_movement']
+# #     } for _, row in train_data.iterrows()]
     
-#     test_prompt_statement = [{
-#         'Id': row['id'],
-#         'Average Similarity Score': row[statement_column]
-#     } for _, row in test_data.iterrows()]
+# #     test_prompt_statement = [{
+# #         'Id': row['id'],
+# #         'Average Similarity Score': row[statement_column]
+# #     } for _, row in test_data.iterrows()]
     
-#     test_prompt_news = [{
-#         'Id': row['id'],
-#         'Average Similarity Score': row[news_column]
-#     } for _, row in test_data.iterrows()]
+# #     test_prompt_news = [{
+# #         'Id': row['id'],
+# #         'Average Similarity Score': row[news_column]
+# #     } for _, row in test_data.iterrows()]
     
-#     print("Prepared training and testing prompts.")
+# #     print("Prepared training and testing prompts.")
 
-#     # Helper: Chunk a list into batches
-#     def chunk_data(data_list, batch_size):
-#         for i in range(0, len(data_list), batch_size):
-#             yield data_list[i:i + batch_size]
+# #     # Helper: Chunk a list into batches
+# #     def chunk_data(data_list, batch_size):
+# #         for i in range(0, len(data_list), batch_size):
+# #             yield data_list[i:i + batch_size]
     
-#     batch_size = 10  
-#     train_batches_statement = list(chunk_data(train_prompt_statement, batch_size))
-#     test_batches_statement = list(chunk_data(test_prompt_statement, batch_size))
-#     train_batches_news = list(chunk_data(train_prompt_news, batch_size))
-#     test_batches_news = list(chunk_data(test_prompt_news, batch_size))
+# #     batch_size = 10  
+# #     train_batches_statement = list(chunk_data(train_prompt_statement, batch_size))
+# #     test_batches_statement = list(chunk_data(test_prompt_statement, batch_size))
+# #     train_batches_news = list(chunk_data(train_prompt_news, batch_size))
+# #     test_batches_news = list(chunk_data(test_prompt_news, batch_size))
     
-#     print("Data split into batches.")
+# #     print("Data split into batches.")
 
-#     # Helper: Aggregate market reactions via majority vote
-#     def aggregate_reactions(market_reactions):
-#         reactions = [item.get('Reaction') for item in market_reactions if isinstance(item, dict) and 'Reaction' in item]
-#         return Counter(reactions).most_common(1)[0][0] if reactions else "No Prediction"
+# #     # Helper: Aggregate market reactions via majority vote
+# #     def aggregate_reactions(market_reactions):
+# #         reactions = [item.get('Reaction') for item in market_reactions if isinstance(item, dict) and 'Reaction' in item]
+# #         return Counter(reactions).most_common(1)[0][0] if reactions else "No Prediction"
     
-#     # Helper: Create insight per test ID
-#     def create_insight(market_reactions):
-#         explanations = [item.get('Explanation', '') for item in market_reactions if isinstance(item, dict)]
-#         return " | ".join(explanations) if explanations else "No Insight"
+# #     # Helper: Create insight per test ID
+# #     def create_insight(market_reactions):
+# #         explanations = [item.get('Explanation', '') for item in market_reactions if isinstance(item, dict)]
+# #         return " | ".join(explanations) if explanations else "No Insight"
     
-#     # Process batches
-#     all_predictions_combined = []
-#     for train_batch_statement, test_batch_statement, train_batch_news, test_batch_news in zip(
-#             train_batches_statement, test_batches_statement, train_batches_news, test_batches_news):
-#         try:
-#             raw_response = analysis_util.get_market_reaction_predictions(
-#                 train_batch_statement + train_batch_news, 
-#                 test_batch_statement + test_batch_news
-#             )
+# #     # Process batches
+# #     all_predictions_combined = []
+# #     for train_batch_statement, test_batch_statement, train_batch_news, test_batch_news in zip(
+# #             train_batches_statement, test_batches_statement, train_batches_news, test_batches_news):
+# #         try:
+# #             raw_response = analysis_util.get_market_reaction_predictions(
+# #                 train_batch_statement + train_batch_news, 
+# #                 test_batch_statement + test_batch_news
+# #             )
 
-#             print(f"Raw response type: {type(raw_response)}")
-#             print(f"Raw response content: {raw_response}")
+# #             print(f"Raw response type: {type(raw_response)}")
+# #             print(f"Raw response content: {raw_response}")
 
-#             # Check if it's a tuple and extract the relevant part
-#             if isinstance(raw_response, tuple):
-#                 raw_response = raw_response[0]  # Assuming first element contains the JSON
+# #             # Check if it's a tuple and extract the relevant part
+# #             if isinstance(raw_response, tuple):
+# #                 raw_response = raw_response[0]  # Assuming first element contains the JSON
 
-#             # Ensure JSON format
-#             if isinstance(raw_response, str):  
-#                 try:
-#                     combined_predictions = json.loads(raw_response)
-#                 except json.JSONDecodeError as e:
-#                     print(f"JSON decoding error: {e}")
-#                     return
-#             else:
-#                 combined_predictions = raw_response
+# #             # Ensure JSON format
+# #             if isinstance(raw_response, str):  
+# #                 try:
+# #                     combined_predictions = json.loads(raw_response)
+# #                 except json.JSONDecodeError as e:
+# #                     print(f"JSON decoding error: {e}")
+# #                     return
+# #             else:
+# #                 combined_predictions = raw_response
 
-#             # Ensure combined_predictions is a list of dictionaries
-#             if not isinstance(combined_predictions, list) or not all(isinstance(i, dict) for i in combined_predictions):
-#                 print(f"Unexpected data format in predictions after processing: {type(combined_predictions)}")
-#                 return
+# #             # Ensure combined_predictions is a list of dictionaries
+# #             if not isinstance(combined_predictions, list) or not all(isinstance(i, dict) for i in combined_predictions):
+# #                 print(f"Unexpected data format in predictions after processing: {type(combined_predictions)}")
+# #                 return
 
-#             print(f"Processed a batch of {len(combined_predictions)} predictions.")
+# #             print(f"Processed a batch of {len(combined_predictions)} predictions.")
 
-#         except Exception as e:
-#             print(f"Error processing batch: {e}")
+# #         except Exception as e:
+# #             print(f"Error processing batch: {e}")
 
 
-#     # Build dictionaries for predictions and insights
-#     predictions_combined_dict = {pred['Id']: pred['Combined_Prediction'] for pred in all_predictions_combined}
-#     insights_combined_dict = {pred['Id']: pred['Combined_Insight'] for pred in all_predictions_combined}
+# #     # Build dictionaries for predictions and insights
+# #     predictions_combined_dict = {pred['Id']: pred['Combined_Prediction'] for pred in all_predictions_combined}
+# #     insights_combined_dict = {pred['Id']: pred['Combined_Insight'] for pred in all_predictions_combined}
 
-#     # Prepare results
-#     results_list = []
-#     pred_y_combined = []
-#     actual_y_combined = []
+# #     # Prepare results
+# #     results_list = []
+# #     pred_y_combined = []
+# #     actual_y_combined = []
 
-#     for _, row in test_data.iterrows():
-#         _id = row['id']
-#         actual = row['price_movement']
-#         time_str = row['start_time'].strftime("%Y-%m-%d %H:%M:%S") if pd.notnull(row['start_time']) else "N/A"
+# #     for _, row in test_data.iterrows():
+# #         _id = row['id']
+# #         actual = row['price_movement']
+# #         time_str = row['start_time'].strftime("%Y-%m-%d %H:%M:%S") if pd.notnull(row['start_time']) else "N/A"
         
-#         combined_pred = predictions_combined_dict.get(_id, "No Prediction")
-#         combined_insight = insights_combined_dict.get(_id, "No Insight")
+# #         combined_pred = predictions_combined_dict.get(_id, "No Prediction")
+# #         combined_insight = insights_combined_dict.get(_id, "No Insight")
         
-#         results_list.append({
-#             "ID": _id,
-#             "Time": time_str,
-#             "Combined_Prediction": combined_pred,
-#             "Combined_Actual": actual,
-#             "Combined_Insight": combined_insight
-#         })
+# #         results_list.append({
+# #             "ID": _id,
+# #             "Time": time_str,
+# #             "Combined_Prediction": combined_pred,
+# #             "Combined_Actual": actual,
+# #             "Combined_Insight": combined_insight
+# #         })
         
-#         if combined_pred != "No Prediction":
-#             pred_y_combined.append(combined_pred)
-#             actual_y_combined.append(actual)
+# #         if combined_pred != "No Prediction":
+# #             pred_y_combined.append(combined_pred)
+# #             actual_y_combined.append(actual)
 
-#     print("Compiled final predictions.")
+# #     print("Compiled final predictions.")
 
-#     # Compute evaluation metrics
-#     def compute_metrics(actual, predicted):
-#         if not predicted:
-#             return 0, 0, 0, 0
-#         return (
-#             accuracy_score(actual, predicted),
-#             f1_score(actual, predicted, average='weighted', zero_division=0),
-#             precision_score(actual, predicted, average='weighted', zero_division=0),
-#             recall_score(actual, predicted, average='weighted', zero_division=0)
-#         )
+# #     # Compute evaluation metrics
+# #     def compute_metrics(actual, predicted):
+# #         if not predicted:
+# #             return 0, 0, 0, 0
+# #         return (
+# #             accuracy_score(actual, predicted),
+# #             f1_score(actual, predicted, average='weighted', zero_division=0),
+# #             precision_score(actual, predicted, average='weighted', zero_division=0),
+# #             recall_score(actual, predicted, average='weighted', zero_division=0)
+# #         )
 
-#     metrics_combined = compute_metrics(actual_y_combined, pred_y_combined)
+# #     metrics_combined = compute_metrics(actual_y_combined, pred_y_combined)
 
-#     print(f"Metrics - Accuracy: {metrics_combined[0]:.4f}, F1 Score: {metrics_combined[1]:.4f}, "
-#           f"Precision: {metrics_combined[2]:.4f}, Recall: {metrics_combined[3]:.4f}")
+# #     print(f"Metrics - Accuracy: {metrics_combined[0]:.4f}, F1 Score: {metrics_combined[1]:.4f}, "
+# #           f"Precision: {metrics_combined[2]:.4f}, Recall: {metrics_combined[3]:.4f}")
 
-#     # Save results
-#     output_dir = "data_5Min/analysis"
-#     os.makedirs(output_dir, exist_ok=True)
+# #     # Save results
+# #     output_dir = "data_5Min/analysis"
+# #     os.makedirs(output_dir, exist_ok=True)
 
-#     results_df = pd.DataFrame(results_list)
-#     results_df.to_csv(os.path.join(output_dir, "predictions_insights_combined.csv"), index=False)
+# #     results_df = pd.DataFrame(results_list)
+# #     results_df.to_csv(os.path.join(output_dir, "predictions_insights_combined.csv"), index=False)
 
-#     metrics_df = pd.DataFrame([{
-#         "Model": "Combined",
-#         "Accuracy": metrics_combined[0],
-#         "F1_Score": metrics_combined[1],
-#         "Precision": metrics_combined[2],
-#         "Recall": metrics_combined[3]
-#     }])
-#     metrics_df.to_csv(os.path.join(output_dir, "metrics_summary_combined.csv"), index=False)
+# #     metrics_df = pd.DataFrame([{
+# #         "Model": "Combined",
+# #         "Accuracy": metrics_combined[0],
+# #         "F1_Score": metrics_combined[1],
+# #         "Precision": metrics_combined[2],
+# #         "Recall": metrics_combined[3]
+# #     }])
+# #     metrics_df.to_csv(os.path.join(output_dir, "metrics_summary_combined.csv"), index=False)
 
-#     print("Results and metrics saved successfully.")
+# #     print("Results and metrics saved successfully.")
     
-#     return results_df, metrics_df
+# #     return results_df, metrics_df
 
+
+
+# import logging
+# import pandas as pd
+# import numpy as np
+# from collections import Counter
+# from sklearn.model_selection import train_test_split
+# from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score
+# import os
+
+# # Function to predict price change using market data
+# import pandas as pd
+# import numpy as np
+# import logging
+# import os
+# from collections import Counter
+# from sklearn.model_selection import train_test_split
+# from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score
+
+# import pandas as pd
+# import numpy as np
+# import logging
+# import os
+# from sklearn.model_selection import train_test_split
+# from collections import Counter 
+# from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score
+
+# # Setup logging
+# logging.basicConfig(level=logging.INFO)
 
 
 def predict_price_change_using_score(interval: str, statement_type: str, test_size: float, 
@@ -420,23 +480,27 @@ def predict_price_change_using_score(interval: str, statement_type: str, test_si
     train_prompt_statement = [{
         'Id': row['id'],
         'Average Similarity Score': row[statement_column],
-        'Price Movement': row['price_movement']
+        'Price Movement': row['price_movement'],
+        'Percent Change': row['price_change']
     } for _, row in train_data.iterrows()]
     
     train_prompt_news = [{
         'Id': row['id'],
         'Average Similarity Score': row[news_column],
-        'Price Movement': row['price_movement']
+        'Price Movement': row['price_movement'],
+        'Percent Change': row['price_change']
     } for _, row in train_data.iterrows()]
     
     test_prompt_statement = [{
         'Id': row['id'],
-        'Average Similarity Score': row[statement_column]
+        'Average Similarity Score': row[statement_column],
+        'Percent Change': row['price_change']
     } for _, row in test_data.iterrows()]
     
     test_prompt_news = [{
         'Id': row['id'],
-        'Average Similarity Score': row[news_column]
+        'Average Similarity Score': row[news_column],
+        'Percent Change': row['price_change']
     } for _, row in test_data.iterrows()]
     
     # Helper: Chunk a list into batches
@@ -450,23 +514,6 @@ def predict_price_change_using_score(interval: str, statement_type: str, test_si
     train_batches_news = list(chunk_data(train_prompt_news, batch_size))
     test_batches_news = list(chunk_data(test_prompt_news, batch_size))
     
-    # Helper: Aggregate market reactions via majority vote
-    def aggregate_reactions(market_reactions):
-        reactions = [item.get('Reaction') for item in market_reactions if item.get('Reaction') is not None]
-        if not reactions:
-            return None  # or a default value
-        most_common = Counter(reactions).most_common(1)[0][0]
-        return most_common
-    
-    # Helper: Create a detailed insight per test ID by joining explanation texts
-    def create_insight(market_reactions):
-        explanations = []
-        for item in market_reactions:
-            # Only append the explanation if available
-            if 'Explanation' in item:
-                explanations.append(item['Explanation'])
-        return " | ".join(explanations)
-    
     # Process batches for both statement and news predictions in one go
     all_predictions_combined = []
     for train_batch_statement, test_batch_statement, train_batch_news, test_batch_news in zip(train_batches_statement, test_batches_statement, train_batches_news, test_batches_news):
@@ -476,101 +523,61 @@ def predict_price_change_using_score(interval: str, statement_type: str, test_si
                 train_batch_statement + train_batch_news, 
                 test_batch_statement + test_batch_news
             )
-            
+            print(combined_predictions)
             # Combine predictions and insights
             for pred in combined_predictions:
-                
                 _id = pred.get('Id')
                 combined_reaction = aggregate_reactions(pred['Market Reaction'])
                 combined_insight = create_insight(pred['Market Reaction'])
-                
+                s1 = create_s1(pred['Market Reaction'])
+                s2 = create_s2(pred['Market Reaction'])
+                s3 = create_s3(pred['Market Reaction'])
+                p = create_op3(pred['Market Reaction'])
                 # Store combined prediction and insight
                 all_predictions_combined.append({
                     'Id': _id,
                     'Combined_Prediction': combined_reaction,
-                    'Combined_Insight': combined_insight
+                    'Combined_Insight': combined_insight,
+                    'Similarity 1': s1,
+                    'Similarity 2': s2,
+                    'Similarity 3': s3,
+                    'Price Change': p
                 })
         except Exception as e:
             logging.error(f"Error processing a batch for statements and news: {e}")
-
-    # Build a dictionary for combined predictions and insights
-    predictions_combined_dict = {pred['Id']: pred['Combined_Prediction'] for pred in all_predictions_combined}
-    insights_combined_dict = {pred['Id']: pred['Combined_Insight'] for pred in all_predictions_combined}
-
-    # Prepare results and collect metrics
-    results_list = []
-    pred_y_combined = []
-    actual_y_combined = []
-
-    for _, row in test_data.iterrows():
-        _id = row['id']
-        actual = row['price_movement']
-        time_str = row['start_time'].strftime("%Y-%m-%d %H:%M:%S") if pd.notnull(row['start_time']) else "N/A"
-        
-        # Get combined prediction and insight
-        combined_pred = predictions_combined_dict.get(_id, "No Prediction")
-        combined_insight = insights_combined_dict.get(_id, "No Insight")
-        
-        # Append to results list
-        results_list.append({
-            "ID": _id,
-            "Time": time_str,
-            "Combined_Prediction": combined_pred,
-            "Combined_Actual": actual,
-            "Combined_Insight": combined_insight
-        })
-        
-        # Collect values for metric calculation
-        if combined_pred != "No Prediction":
-            pred_y_combined.append(combined_pred)
-            actual_y_combined.append(actual)
-
-    # Compute evaluation metrics for combined predictions
-    def compute_metrics(actual, predicted):
-        if not predicted:
-            return 0, 0, 0, 0
-        return (
-            accuracy_score(actual, predicted),
-            f1_score(actual, predicted, average='weighted', zero_division=0),
-            precision_score(actual, predicted, average='weighted', zero_division=0),
-            recall_score(actual, predicted, average='weighted', zero_division=0)
-        )
-
-    metrics_combined = compute_metrics(actual_y_combined, pred_y_combined)
-
-    # Create DataFrame for per-ID predictions and insights
-    results_df = pd.DataFrame(results_list, columns=["ID", "Time", "Combined_Prediction", "Combined_Actual", "Combined_Insight"])
-
-    # Create DataFrame for overall metrics
-    metrics_data = [{
-        "Model": "Combined",
-        "Accuracy": metrics_combined[0],
-        "F1_Score": metrics_combined[1],
-        "Precision": metrics_combined[2],
-        "Recall": metrics_combined[3]
-    }]
-    metrics_df = pd.DataFrame(metrics_data, columns=["Model", "Accuracy", "F1_Score", "Precision", "Recall"])
-    print(results_df)
-
-    # Save results and metrics to CSV
+    
+    results_df = pd.DataFrame(all_predictions_combined)
+    
+    # Compute evaluation metrics with consistent lengths
+    actuals = test_data['price_movement'].tolist()
+    predictions = results_df.set_index('Id').reindex(test_data['id'])['Combined_Prediction'].fillna("No Prediction").tolist()
+    
+    valid_indices = [i for i, pred in enumerate(predictions) if pred != "No Prediction"]
+    actuals_filtered = [actuals[i] for i in valid_indices]
+    predictions_filtered = [predictions[i] for i in valid_indices]
+    
+    if predictions_filtered:
+        metrics = {
+            "Accuracy": accuracy_score(actuals_filtered, predictions_filtered),
+            "F1_Score": f1_score(actuals_filtered, predictions_filtered, average='weighted', zero_division=0),
+            "Precision": precision_score(actuals_filtered, predictions_filtered, average='weighted', zero_division=0),
+            "Recall": recall_score(actuals_filtered, predictions_filtered, average='weighted', zero_division=0)
+        }
+    else:
+        metrics = {"Accuracy": 0, "F1_Score": 0, "Precision": 0, "Recall": 0}
+    
+    # Save results to CSV
     output_dir = "data_5Min/analysis"
     os.makedirs(output_dir, exist_ok=True)
-
-    # Save combined predictions and insights
     predictions_file = os.path.join(output_dir, "predictions_insights_combined.csv")
     results_df.to_csv(predictions_file, index=False)
     logging.info(f"Combined predictions and insights saved to {predictions_file}")
-
-    # Save combined metrics summary
+    
     metrics_file = os.path.join(output_dir, "metrics_summary_combined.csv")
-    metrics_df.to_csv(metrics_file, index=False)
+    pd.DataFrame([metrics]).to_csv(metrics_file, index=False)
     logging.info(f"Metrics summary saved to {metrics_file}")
-
-    # Print summary report
-    print("Combined predictions and insights have been saved to:", predictions_file)
-    print("Combined metrics summary has been saved to:", metrics_file)
-
-    return results_df, metrics_df
+    
+    return results_df, metrics
 
 
 
@@ -1843,8 +1850,8 @@ def predict_price_change_using_score(interval: str, statement_type: str, test_si
 # store_in_db("news")
 
 # # # Interval-Level Text and Similarity Score Extraction and Analysis
-# statement_matches = [5, 10, 15, 20, 25, 30]
-# news_matches = [5,10,15,20, 25, 30, 35]
+# statement_matches = [20, 25, 30]
+# news_matches = [20, 25, 30, 35]
 
 
 # compare_speech_with_statements_and_news(statement_matches, news_matches)
@@ -1862,8 +1869,6 @@ ans = predict_price_change_using_score(
     num_statement_matches="30",
     num_news_matches="30"
 )
-
-
 
 
 # predict_price_change_using_score(
@@ -2192,3 +2197,50 @@ ans = predict_price_change_using_score(
 #     """Yield successive chunks from data_list."""
 #     for i in range(0, len(data_list), batch_size):
 #         yield data_list[i:i + batch_size]
+        # Corrected access to the choices list and the message content
+
+
+
+
+
+# import json
+# import pandas as pd
+
+# def combine_json_to_csv(files, output_file='combined_market_reactions.csv'):
+#     # Create an empty list to store the rows of data
+#     all_rows = []
+
+#     # Loop through each file in the list of JSON files
+#     for file in files:
+#         with open(file, 'r') as f:
+#             # Load the JSON data
+#             json_data = json.load(f)
+
+#             # Loop through each prediction in the JSON data
+#             for prediction in json_data['predictions']:
+#                 prediction_id = prediction['Id']
+
+#                 # Loop through each market reaction in the prediction
+#                 for reaction in prediction['Market Reaction']:
+#                     # Create a row for each market reaction and append it to the list
+#                     row = {
+#                         'Id': prediction_id,
+#                         'Reaction': reaction['Reaction'],
+#                         'Percent change': reaction['Percent change'],
+#                         'Explanation': reaction['Explanation'],
+#                         'Similarity 1': reaction['Similarity 1'],
+#                         'Similarity 2': reaction['Similarity 2'],
+#                         'Similarity 3': reaction['Similarity 3']
+#                     }
+#                     all_rows.append(row)
+
+#     # Convert the list of rows into a pandas DataFrame
+#     df = pd.DataFrame(all_rows)
+
+#     # Write the combined data into a CSV file
+#     df.to_csv(output_file, index=False)
+
+# # Example usage:
+# # Assuming you have multiple JSON files like 'file1.json', 'file2.json'
+# files = ['response_output_20250215_172252.json','response_output_20250215_172312.json','response_output_20250215_172354.json','response_output_20250215_172542.json','response_output_20250215_172606.json', 'response_output_20250215_172611.json']  # List of your JSON file paths
+# combine_json_to_csv(files)

@@ -7,7 +7,7 @@ import os
 API_KEY = 'PKRABWZ5EFH71WFW8QHZ'
 SECRET_KEY = 'd23n7ugBMSVlLyXhmELq9OUj5FXXC8falJyLs7bR'
 BASE_URL = 'https://data.alpaca.markets'  # https://api.alpaca.markets
-PRICE_DATA_BASE_PATH = "data_5Min/price/"
+PRICE_DATA_BASE_PATH = "data_1Min/price/"
 PRICE_BARS_INTERVAL = '1Min'
 DATE_FORMAT = '%Y-%m-%d'
 DATETIME_FORMAT = "%Y-%m-%d %H:%M:%S"
