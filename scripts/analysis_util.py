@@ -670,9 +670,9 @@ def get_market_reaction_predictions(train_prompt: list, test_prompt: list):
                     "Reaction": [Positive/Negative],
                     "Percent Change": [percentage change],
                     "Explanation": [Key reasons why you predicted the direction and magnitude of market reaction occurred at this time],
-                    "Similarity 1": [Similarity Score between `Press Conference Statement` and `Earlier News Releases`],
-                    "Similarity 2": [Similarity Score between `Press Conference Statement` and `FOMC Statement`],
-                    "Similarity 3": [Similarity Score between `Earlier News Releases` and `FOMC Statement`]
+                    "Similarity 1": [Similarity Score between `Press Conference Statement` and `Earlier News Releases in integer format only, without the '%' sign. `],
+                    "Similarity 2": [Similarity Score between `Press Conference Statement` and `FOMC Statement in integer format only, without the '%' sign. `],
+                    "Similarity 3": [Similarity Score between `Earlier News Releases` and `FOMC Statement in integer format only, without the '%' sign. `]
                 }}
             ]
         }}

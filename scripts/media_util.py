@@ -90,3 +90,52 @@ def split_audio(input_file_path: str, split_length: str, compress: bool) -> None
         if compress:
             split = split.set_frame_rate(32000).set_channels(1).set_sample_width(1)
         last_split.export(f"{partitions_path}/{end_time//MILLISECOND_CONVERT}-{total_length_ms//MILLISECOND_CONVERT}.wav", format="wav")
+
+import pandas as pd
+def test():
+        
+    # Load the two metrics summary CSV files
+    negative_metrics_file = "data_1Min/analysis/same_minute_news_predictions_insights_minute55.csv"
+    news_metrics_file = "data_1Min/analysis/same_time_negative_predictions_insights_minute55.csv"
+    news_matrics = "data_1Min/analysis/same_time_negative_metrics_summary_minute55.csv"
+    neg_matrics = "data_1Min/analysis/same_minute_news_predictions_insights_minute55.csv"
+
+    df_negative_metrics = pd.read_csv(negative_metrics_file)
+    df_news_metrics = pd.read_csv(news_metrics_file)
+
+    df_news_metrics = df_news_metrics.dropna()
+    df_negative_metrics = df_negative_metrics.dropna()
+    df_cleaned_count = len(df_news_metrics)
+    df_neg_cleaned_count = len(df_negative_metrics)
+
+
+
+    # Set how many predictions each case contributed (you can change these if you know the real counts)
+    negative_case_count = df_cleaned_count
+    news_case_count = df_neg_cleaned_count
+
+    # Extract individual accuracies
+    accuracy_negative = df_negative_metrics.loc[0, "Accuracy"]
+    accuracy_news = df_news_metrics.loc[0, "Accuracy"]
+
+    # Compute weighted average accuracy
+    total_predictions = negative_case_count + news_case_count
+    combined_accuracy = (
+        (accuracy_negative * negative_case_count) +
+        (accuracy_news * news_case_count)
+    ) / total_predictions
+
+    # Create a DataFrame with all values for export
+    combined_df = pd.DataFrame({
+        "Case": ["Negative Case", "News Case", "Combined"],
+        "Accuracy": [accuracy_negative, accuracy_news, combined_accuracy],
+        "Predictions_Count": [negative_case_count, news_case_count, total_predictions]
+    })
+
+    # Export result to CSV
+    combined_df.to_csv("combined_accuracy_output.csv", index=False)
+
+    print("✅ Combined accuracy saved to 'combined_accuracy_output.csv'")
+
+
+test()

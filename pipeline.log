@@ -1,18 +1,124 @@
-2025-02-18 08:44:39,273 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-2025-02-18 08:45:11,099 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-2025-02-18 08:45:54,667 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-2025-02-18 08:46:45,457 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-2025-02-18 08:47:35,735 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-2025-02-18 08:48:05,535 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-2025-02-18 08:48:32,907 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-2025-02-18 08:49:04,805 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-2025-02-18 08:49:29,286 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-2025-02-18 08:49:56,224 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-2025-02-18 08:50:24,629 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-2025-02-18 08:50:54,138 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-2025-02-18 08:51:21,562 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-2025-02-18 08:51:58,615 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-2025-02-18 08:53:07,805 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-2025-02-18 08:53:29,802 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
-2025-02-18 08:53:29,834 - INFO - Combined predictions and insights saved to data_5Min/analysis/predictions_insights_combined.csv
-2025-02-18 08:53:29,835 - INFO - Metrics summary saved to data_5Min/analysis/metrics_summary_combined.csv
+2025-03-21 11:08:02,499 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:02,500 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:03,280 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:03,281 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:04,988 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:04,988 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:05,328 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:05,328 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:05,771 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:05,771 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:06,204 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:06,204 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:06,711 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:06,711 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:07,018 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:07,018 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:07,292 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:07,292 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:08,919 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:08,919 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:09,195 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:09,195 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:09,467 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:09,467 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:09,735 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:09,735 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:10,167 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:10,167 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:10,437 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:10,437 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:10,732 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:10,732 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:11,222 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:11,223 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:11,651 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:11,652 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:12,132 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:12,133 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:12,472 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:12,472 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:12,787 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:12,787 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:13,071 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:13,071 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:13,371 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:13,371 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:13,700 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:13,700 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:14,006 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:14,006 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:14,460 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:14,460 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:14,712 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:14,712 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:15,102 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:15,102 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:15,399 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:15,400 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:15,685 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:15,685 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:16,013 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:16,014 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:16,362 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:16,362 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:16,628 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:16,628 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:16,887 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:16,887 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:17,297 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:17,297 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:17,613 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:17,614 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:17,930 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:17,930 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:18,221 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:18,221 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:18,519 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:18,519 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:18,858 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:18,858 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:19,152 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:19,152 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:19,453 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:19,453 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:19,722 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:19,722 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:19,985 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:19,985 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:20,247 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:20,247 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:20,516 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:20,516 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:20,952 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:20,953 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:21,248 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:21,248 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:21,556 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:21,556 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:21,842 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:21,842 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:22,167 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:22,167 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:22,434 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:22,435 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:22,704 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:22,704 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:23,054 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:23,055 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:23,329 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:23,330 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:23,568 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:23,568 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:24,073 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:24,073 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:24,339 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:24,340 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:24,777 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:24,777 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:25,099 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:25,099 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:25,386 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:25,387 - INFO - Looking for plugins in pinecone_plugins.inference
+2025-03-21 11:08:25,687 - INFO - Discovering subpackages in _NamespacePath(['/Users/atishaykasliwal/Downloads/fedtalk-openai-analysis-main/.venv/lib/python3.9/site-packages/pinecone_plugins'])
+2025-03-21 11:08:25,688 - INFO - Looking for plugins in pinecone_plugins.inference

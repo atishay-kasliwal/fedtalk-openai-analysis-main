@@ -1,0 +1,357 @@
+Id,Combined_Prediction,Combined_Insight,Similarity 1,Similarity 2,Similarity 3,Price Change
+1254,Negative,"The market reacts negatively as the Fed signals that it is not yet ready to lower rates significantly despite signs of moderating inflation. The market prefer clarity on rate cuts but receives cautious guidance, leading to profit-taking.",75,80,70,-0.1
+1255,Negative,"Similar to the previous response, the market senses caution from the Fed about not rushing to cut rates despite improved consumer confidence. Investors may interpret this as the Fed lacking urgency, leading to market uncertainty and a sell-off.",78,82,75,-0.1
+1256,,,,,,
+1257,,,,,,
+1258,Positive,"Powell makes comments indicating potential for future rate cuts as inflation approaches targets, eliciting a positive response from investors who favor a more dovish approach. The expectations of easing monetary policy drive buying activity.",80,75,72,0.1
+1259,Negative,"Perceptions of persistent inflation and caution on rate cuts result in a negative market reaction. The market is concerned with the Fed's hesitancy to act decisively, indicating continued market volatility.",77,74,73,-0.1
+1260,Positive,"Comments from Powell hinting that the Fed may lower rates later in the year lead to optimism in the market. Investors respond positively to the shift in tone from the Fed, betting on easing monetary policies.",79,76,71,0.1
+1261,,,,,,
+1262,,,,,,
+1263,Negative,"The market faces a sell-off response to the Fed's confirmed high interest rates and tentative outlook on cuts, indicating investor hesitance about immediate economic recovery.",82,75,72,-0.1
+1264,Positive,"Optimism stems from indications of potential rate cuts down the road as inflation stabilizes, encouraging a bullish sentiment among traders and investors.",78,74,77,0.1
+1265,Negative,"Negative sentiment surfaces due to the Fed's signals about holding steady on rates, leading to a quick market reaction as investors digest the implications for economic growth.",76,75,72,-0.1
+1266,Positive,"Hints of a possible pivot towards rate cuts given the cooling inflation generate a positive market effect, fostering investor optimism about future monetary policy.",80,73,75,0.1
+1267,,,,,,
+1268,,,,,,
+1269,Negative,"Jerome Powell hinted at potential rate cuts but signaled no imminent changes. This cautious tone mixed with signs of slowing wage growth raises concerns about the Fed's confidence in cutting rates soon, leading to negative market sentiment.",70,65,72,-0.0615
+1270,Negative,"The Fed cautioned against premature rate cuts as inflation is still above target and economic growth remains steady, which dampens market enthusiasm and leads to a negative reaction.",60,67,63,-0.0205
+1271,Negative,"Despite hints at possible future rate cuts, Powell emphasized a cautious approach based on economic conditions, leading to uncertainty and a negative response from the market.",64,68,62,-0.0254
+1272,Negative,"Investors reacted negatively as the Fed’s hints at potential rate cuts were not definitive, sustaining fears about inflation and requiring stronger signals for action.",59,72,65,-0.0389
+1273,Negative,"The Fed's cautious language and lack of immediate cuts despite declining inflation led to disappointment in the market, anchoring a negative response.",62,70,66,-0.0249
+1274,Negative,"Slow wage growth data and indications of possible future rate cuts in mid-2024 create a sense of uncertainty in the market, resulting in a negative sentiment.",61,69,68,-0.0052
+1275,Negative,"While investors are anticipating rate cuts, the Fed’s overall cautiousness and lack of definitive timing regarding cuts foster a negative atmosphere in the market.",65,67,71,-0.038
+1276,Negative,"The use of cautious language on economic conditions by Powell diminishes market confidence ahead of potential cuts, invoking a negative response.",66,72,64,-0.033
+1277,Negative,Concerns around fragile job growth and the Fed's cautious approach towards rate cuts prompt negative sentiment as investors await more reassurance.,63,58,62,-0.024
+1278,Negative,"The tone of cautious optimism balanced with warnings about inflation persistence leads to market skepticism, manifesting as a negative reaction.",59,60,63,-0.0028
+1279,Negative,"The Fed's commitment to inflation targets keeps market expectations balanced towards caution, undermining investor enthusiasm and resulting in negativity.",61,65,66,-0.023
+1280,Negative,The focus on maintaining interest rates undermines positive sentiment and breeds uncertainty leading to a negative market reception.,64,68,70,-0.0033
+1284,,,,,,
+1285,Positive,"If Powell hints at near-future rate cuts, it would likely trigger a positive response as markets would react favorably to expectations of lower borrowing costs.",74,75,77,0.8
+1286,Negative,"If economic indicators mentioned are worse than anticipated, this could lead to a negative reaction, reflecting concerns about rate cuts being delayed.",72,70,73,-0.5
+1287,,,,,,
+1288,Negative,"If Powell reiterates inflation concerns, markets likely react negatively due to fears of prolonged high rates.",75,75,74,-1.0
+1289,Positive,"If Powell provides timelines for potential rate decreases, positive sentiment is expected as the market anticipates lower borrowing costs.",76,72,71,0.6
+1290,,,,,,
+1291,Negative,"A recap of ongoing uncertainties and caution may resonate negatively with investors, sustaining downward pressure.",72,71,78,-0.3
+1292,Positive,"If signals of confidence in dealing with inflation are well communicated, it can engender optimism about future economic stability.",75,73,76,0.4
+1293,Negative,A stringent stance on inflation management without immediate rate cuts may create worries of tightening conditions in a fragile economy.,74,72,75,-0.5
+1294,,,,,,
+1295,Negative,Highlighting risks without mitigating information would likely lead to bearish reactions in market sentiment.,74,75,78,-0.4
+1296,,,,,,
+1297,Negative,"Any reaffirmation of inflation concerns without actionable timelines may instill unease, prompting negative market shifts.",76,74,75,-0.7
+1298,Positive,"If the closing remarks affirm the Fed's control over inflation nearing 2%, it would evoke optimism leading to a small rise.",73,74,72,0.5
+1299,Negative,The cautious tone surrounding inflation and the potential for future rate cuts reflected in the statements may have led to negative market sentiment. Investors are concerned about higher future rates and the Fed's cautious approach could signal prolonged high rates.,75,72,70,-0.3
+1300,Negative,"Despite expectations for rate cuts, the stronger inflation data and Waller's cautious optimism led to concerns that rate cuts may be delayed, deterring investor confidence.",68,71,66,-0.4
+1301,Negative,"The lack of urgency for rate cuts and persistent inflation concerns dampened market enthusiasm, as investors processed data suggesting continued economic strength but potential delays in rate cuts.",70,74,73,-0.5
+1302,Negative,"Even with expectations for rate cuts, the uncertainty surrounding inflation forecasts led to market apprehension. The mixed signals from the Fed's recent data resulted in a cautious trading environment.",72,69,75,-0.3
+1303,Negative,"High inflation data and a cautious stance from the Fed created a negative outlook for investors, contributing to lower market confidence despite the economic outlook suggesting stability.",69,71,68,-0.6
+1304,Negative,"Investors reacted negatively due to hints of prolonged high rates and the necessity for the Fed to gather firmer data on inflation, indicating that market conditions might not improve soon.",65,67,64,-0.8
+1305,Negative,"The strong response of inflation reports and the cautious tone of the Fed likely led to concerns about cuts being further delayed, highlighting the complexity of current economic conditions.",74,73,71,-0.2
+1306,Negative,"Despite a robust economy, persistent fears of inflation and the Fed's potential for maintaining high rates caused market reactions indicative of investor concern.",70,68,72,-0.7
+1307,Negative,"The pressures from inflation alongside weak signals for rate cuts resulted in a cautious market, as investors reacted to the Fed's tempered outlook amid mixed data.",72,74,70,-0.5
+1308,Negative,Concerns regarding sustained inflation and its impact on potential rate cuts led to negative reactions in the market; investor sentiment was dampened by uncertainty.,69,71,73,-0.3
+1309,Negative,"The Fed's cautious view on future rate cuts and persistent inflation led to negative sentiment among investors, resulting in a downward market response.",71,70,69,-0.4
+1310,Negative,"Given the cautious tone and the Fed waiting for more data before acting on rate cuts, market sentiments shifted to a negative outlook amid inflation concerns.",68,66,65,-0.4
+1311,Negative,The reluctance of the Fed to commit to cuts amid improving but unstable inflation signals resulted in a negative market reaction due to uncertainty.,68,69,67,-0.3
+1312,Negative,"Inflation pressures remain a concern with the Fed maintaining a cautious approach to rate cuts despite the strong underlying economy, resulting in negative market reactions.",72,71,69,-0.4
+1313,Negative,"Investors reacted negatively due to the Fed's tempered outlook and need for confirming inflation data before making cuts, hinting at a prolonged high-rate scenario.",71,70,73,-0.5
+1314,Negative,The initial excitement over potential rate cuts dwindled as investors recalibrated their expectations given the recent inflation data and Powell's cautious comments about inflation being hard to control. This tempered optimism led to a negative market reaction as traders began to anticipate a less aggressive rate cut schedule.,62,71,55,-0.25
+1315,Negative,"The market was initially hopeful for rate cuts; however, Powell's reiteration that inflation is still a concern moderated expectations, causing a negative reaction as traders adjusted positions based on hawkish sentiments.",65,70,58,-0.15
+1316,Negative,"The anticipated rate cuts were overshadowed by new inflation reports and Powell's comments indicating caution about the economic outlook, leading to a cautious market outlook and subsequent declines.",67,72,60,-0.2
+1317,Negative,"Expectations for rate cuts not materializing in immediate action, in light of persistent inflation, led to disappointment in the market, reflecting the cautious approach articulated by Powell during the meeting.",68,69,55,-0.18
+1318,Negative,"Comments regarding ongoing inflation pressures tempered earlier excitement about rate cuts, causing market expectations to align with a more hawkish view, reflected in negative market movements.",66,60,66,-0.22
+1319,Negative,"Continued inflation concerns presented by Powell led to negative sentiment, with investors reacting to signals suggesting that monetary easing would take longer due to stubborn inflation levels.",65,61,57,-0.25
+1320,Negative,"The market reacted negatively to the lingering apprehensions regarding inflation, despite prior optimism about potential rate cuts. This led traders to reevaluate their positions.",70,66,59,-0.19
+1321,Negative,"Traders anticipated a second half rally powered by potential rate cuts, but disappointing inflation indicators and Powell's broad caution on monetary policy changes led to an unfavorable market shift.",67,64,58,-0.21
+1322,Negative,The discrepancy between earlier optimistic projections and the current economic situation indicated by Powell resulted in negative market adjustments as confidence faded regarding quick rate cuts.,75,73,69,-0.23
+1323,Negative,"The Fed's indications towards a more tempered approach concerning rate cuts in the face of inflation concerns led to a drop in market enthusiasm, triggering declines.",74,73,63,-0.2
+1324,Negative,Market analysts reacted negatively after Powell's mixed signals regarding the pace of inflation control and uncertainty around future rate cuts dampened hopes for immediate monetary policy easing.,70,74,61,-0.19
+1325,Negative,"Investors adjusted their expectations due to strong inflation data contradicting the Fed's appetite for cutting rates, leading to negative sentiment and market movements.",65,70,67,-0.22
+1326,Negative,"The persistent inflation data released together with Powell's cautious approach led the market to realize that rate cuts might not happen as early as previously hoped, leading to negative market adjustments.",61,68,60,-0.24
+1327,Negative,"Ongoing inflation pressures, coupled with Fed officials' comments about rate cuts being less imminent than anticipated, sparked a negative response from the market as investor confidence waned.",64,62,75,-0.2
+1328,Negative,"Negative market sentiment arose from Powell's comments, which highlighted inflation concerns that led to the belief that the Fed would not be keen on cutting rates soon.",63,66,72,-0.22
+1329,Negative,"Market reaction was negative because the Fed indicated they will maintain current rates with a cautious outlook on inflation, which led to disappointment among investors expecting rate cuts sooner. The lower forecast for rate cuts raised concerns about future economic growth.",67,70,65,-0.0015
+1330,Negative,"The Fed's decision to hold rates and signal fewer cuts led to a decline in market expectations, triggering negative sentiment among investors who anticipated more aggressive easing. The cautious statement about inflation control also contributed to uncertainty.",69,68,70,-0.0013
+1331,Negative,"The Fed maintained its stance on interest rates amidst mixed signals with inflation data, leading to a negative reaction from the market as investors adjusted expectations regarding future cuts. The caution shown by Powell did not instill confidence.",72,69,71,-0.0007
+1332,Negative,"The Fed's lack of definitive action regarding rate cuts combined with the indication that inflation pressures remain strong led to a negative market reaction, as investor confidence in economic growth waned.",65,66,70,-0.0005
+1333,Negative,"With inflation persisting and the Fed communicating caution around rate cuts, market optimism shifted to concern, causing negative movement in stock prices due to reduced growth expectations.",67,65,68,-0.0009
+1334,Negative,"Market sentiment turned negative as the Fed's comments on inflation and the likelihood of fewer rate cuts dampened investor expectations for economic recovery, resulting in stock sell-off.",66,64,69,-0.0006
+1335,Negative,The cautious tone of the Fed regarding interest rates and mixed inflation signals created uncertainty. Market participants reacted negatively to the Fed’s reluctance to ease monetary policy more aggressively.,68,66,70,-0.0008
+1336,Negative,"The Fed's communication maintained a strong stance on inflation risks and rate cuts, which created reluctance among investors, leading to cautious trading and a slight negative reaction.",70,69,71,-0.0002
+1337,Negative,"Hawkish signals from the Fed regarding inflation along with concerns about economic slowdown led investors to sell off, resulting in a pronounced negative market reaction.",72,68,70,-0.001
+1338,Negative,The Fed's signals on delaying rate cuts and persistent inflation worries led to a negative market reaction as investors adjusted their projections for economic growth downward.,71,65,69,-0.0004
+1339,Negative,The Fed's cautious stance on rate cuts against a backdrop of mixed inflation data led to a negative market response. Investors reacted to uncertainties surrounding borrowing costs and economic conditions.,69,67,68,-0.0003
+1340,Negative,"As the Fed's communication hinted at fewer rate cuts and called attention to inflation fears, a negative sentiment spread through the market, with investors reacting cautiously.",68,70,66,-0.0002
+1341,Negative,"The combination of maintained interest rates and expressed caution on inflation control led to disappointment among investors, prompting a negative reaction in the markets.",66,69,71,-0.0011
+1342,Negative,Indications of fewer expected rate cuts and continued inflation concerns led to a negative market correction as investor sentiment shifted toward caution.,65,68,70,-0.0003
+1343,Negative,"The Fed's articulation of their wait-and-see approach regarding rate adjustments in light of inflation oversaw a negative reaction, as investors adjusted their outlook negatively.",69,66,71,-0.0012
+1344,Negative,"The release of the FOMC Statement highlighted persistent inflation and a cautious stance towards rate cuts, dampening investor hopes for imminent monetary easing. | Chair Powell's press conference reiterated concerns over inflation, resulting in a market adjustment as expectations for rate cuts were further delayed.",75 75,80 80,70 70,-0.1 -0.2
+1345,Negative,"FOMC Statement confirmed rates would remain unchanged and hinted at potential delays in rate cuts due to recent inflation data, causing a decline in market enthusiasm. | Investors reacted negatively to Powell's emphasis on caution regarding inflation progression, leading to fears of prolonged high rates.",78 78,82 82,74 74,-0.15 -0.25
+1346,Negative,"The FOMC Statement portrayed a hawkish tone on inflation, creating uncertainty among investors and leading to a dip in market confidence. | Powell's statements reinforced caution regarding rate cuts despite a strong economy, disappointing market expectations.",80 80,81 81,75 75,-0.12 -0.22
+1347,Negative,"The FOMC Decision to hold rates steady amidst inflation concerns indicated a cautious stance, influencing the market negatively. | Chair Powell's emphasis on the uncertainty surrounding inflation led to further market sell-off as traders recalibrated expectations.",76 76,79 79,70 70,-0.08 -0.18
+1348,Negative,"The release of the FOMC Statement reflecting caution about inflation contributed to a negative market sentiment. | The press conference reinforced the cautious outlook, leading to an adjustment in investor expectations regarding rate cuts.",74 74,78 78,72 72,-0.11 -0.15
+1359,Negative,"Powell's comments on inflation being above target and the lack of further progress towards rate cuts caused disappointment. Coupled with expectations of a longer timeframe for easing, this led to negative sentiment in the market.",70,65,68,-0.001
+1360,Negative,Repeated emphasis on inflation being above target and significant caution about rate cuts dampened investor confidence leading to negative sentiment during the press conference.,68,75,72,-0.0006
+1361,Negative,Comments indicating a cautious approach towards rate cuts in light of persistent inflation led to market reactions reflecting investor disappointment. The overall cautious tone surprised many investors.,69,74,71,-0.0005
+1362,Negative,"Powell's hawkish tone combined with inflation concerns created negative investor outlook as they were hoping for more dovish indications, leading to a sell-off.",70,68,74,-0.0004
+1363,Negative,The lack of clear plans for rate cuts and acknowledgment of persistent inflation created a market that reacted negatively as investors were concerned about continued high rates.,75,72,70,-0.0003
+1364,Negative,Analysts expected firmer guidelines for rate cut timing but Powell's signals indicated otherwise leading to negative market reactions. Projections concerning inflation were sobering.,73,70,71,-0.0008
+1365,Negative,"Market sentiment turned negative due to the expressed caution about interest rates and inflation, reinforcing concerns investors had about the Fed's policy outlook.",71,69,67,-0.0008
+1366,Negative,"Investors were looking for dovish remarks but were met with a hawkish tone about inflation and rates, prompting a negative response.",70,72,69,-0.0006
+1367,Negative,Uncertainty about the timing and number of potential rate cuts generated a negative reaction among investors who were hoping for clearer guidance.,72,69,71,-0.0007
+1368,Negative,Disappointment in Powell's cautious tone regarding inflation and potential rate cuts led to an overall negative reaction in the markets.,70,73,71,-0.0005
+1369,Negative,Persistent inflation and a lack of assurance regarding future cuts prompted negative sentiment from investors despite earlier expectations of possible cuts.,68,71,69,-0.0009
+1370,Negative,"The Fed's steady rates amidst rising inflation direly impacted market optimism, causing a significant negative reaction as investors reassessed their expectations.",69,72,73,-0.001
+1371,Negative,"Similar to prior reactions, this unexpected acknowledgment about inflation dampening hopes for rate cuts sent shockwaves through investor sentiment.",70,65,68,-0.0008
+1372,Negative,"Market participants felt let down by Powell's acknowledgment of stubborn inflation, leading to downward adjustments in market expectations.",74,65,60,-0.0004
+1373,Negative,"Powell’s hawkish remarks plus ongoing inflation concerns overshadowed earlier positive sentiments, thus triggering negative market reactions.",66,65,70,-0.0006
+1374,Negative,"Market sentiments shifted as Powell indicated that inflation data has been disappointing, making a rate cut seem unlikely. Investors anticipated a more hawkish tone, which added to existing fears of prolonged high rates.",70,65,60,-0.3
+1375,Negative,"During the Q&A, Powell’s responses led to increased skepticism about the timing of rate cuts which was reflected in market turmoil as participants reacted negatively to the hawkish undertones.",68,62,58,-0.5
+1376,Negative,"As the press conference drew to a close, the reiteration of a cautious approach raised concerns about future economic performance, leading to further declines in investor confidence.",72,67,61,-0.7
+1377,Negative,"Market reactions were largely shaped by Powell's reassurances of no imminent rate cuts amidst surging inflation concerns, causing discontent among investors.",70,65,59,-0.4
+1378,Negative,"As Powell compared current market conditions to previous hawkish cycles, investors reacted negatively due to the implication of prolonged tight monetary policy.",66,64,58,-0.6
+1379,Negative,The ensuing dialogue regarding inflation stability led investors to anticipate tighter fiscal policies which adversely affected market sentiment.,71,63,59,-0.5
+1380,Negative,"By the conclusion, persistent inflation narratives overshadowed potential growth benefits, prompting selling pressure in equity markets.",69,66,60,-0.4
+1381,Negative,Signals of potential delays in rate cuts amidst strong inflation reaffirmed market fears of long-term high rates leading to a negative market reception.,70,67,61,-0.5
+1382,Negative,The leading up to the Q&A session saw investors concerned about Powell's commentary on inflation keeping rates higher for longer.,76,73,64,-0.3
+1383,Negative,"Powell’s comments hinted at a lack of confidence in imminent policy changes given inflation pressures, which negatively affected equities.",74,72,65,-0.5
+1384,Negative,"Provoked by Powell's confirmation of rates being held back, investor reactions reflected disappointment in imminent easing prospects.",73,69,63,-0.4
+1389,Negative,Chair Powell's acknowledgment that inflation is above target and that there might be a delay in rate cuts likely disappointed investors who were hoping for more dovish guidance. The hawkish undertone in his remarks caused the market to sell off.,75,85,70,-1.5
+1390,Negative,"Fed Chair Powell poured cold water on hopes for immediate rate cuts during the press conference, emphasizing high inflation and resilience in the economy, leading to market negativity.",80,90,75,-1.8
+1391,Negative,"The overall message from Powell indicating longer inflation pressures and fewer rate cuts made the market react negatively, reflecting investor uncertainty and concern about economic stability.",82,88,80,-2.0
+1392,Negative,"Powell's statements about another potential rate hike possibility if inflation remains elevated were contrary to market expectations, leading to a negative reaction.",78,83,77,-1.5
+1393,Negative,"The sentiment of Powell indicating a cautious approach regarding rate cuts and highlighting persistent inflation led investors to withdraw support, resulting in market declines.",74,86,79,-1.7
+1394,Negative,"Investors were concerned about the lack of clear pathways to rate cuts as Powell reiterated high inflation concerns, leading the market to react negatively.",76,89,72,-1.9
+1395,Negative,The Fed maintaining its rates and Powell emphasizing the need for more economic evidence led to a market decline due to disappointment over not meeting anticipated rate cuts.,81,87,85,-2.1
+1396,Negative,"Markets reacted negatively as Powell's cautious approach regarding inflation and rate cuts contradicted higher previous expectations, leading to a sell-off in anticipation of sustained high rates.",79,84,80,-2.3
+1397,Negative,The language used by Powell suggesting more caution in monetary policy fostered market declines as investors reacted to the implications of prolonged higher interest rates.,83,91,82,-2.0
+1398,Negative,"Market sentiment turned negative in response to Powell's indication that inflation remains a challenge, diminishing the likelihood of near-term rate cuts, which triggered selling.",75,89,79,-2.2
+1399,Negative,"The failure to signal rate cuts in response to stable inflation shocked the market, leading to negative price movement as investors positioned themselves for a longer wait for easing.",80,87,78,-1.8
+1400,Negative,"The overall tone of Powell's conference and the uncertainty surrounding future rate cuts contributed to negative market response, reflecting investor caution.",72,88,81,-1.6
+1401,Negative,"The emphasis on persistent inflation and delaying rate cuts led to further negative sentiment in the market, pushing investors to exit before clarifications from Powell.",74,85,78,-1.4
+1402,Negative,Statements around inflation remaining above target without immediate action from the Fed caused a sharp negative reaction in the market as expectations for rate cuts faltered.,82,90,76,-2.1
+1403,Negative,"Despite a positive inflation report, Powell's tone regarding future cuts created an atmosphere of uncertainty, leading to profit-taking and a market downturn.",78,81,74,-1.8
+1404,Negative,"Despite the improved inflation reading, the market responded negatively as investors adjusted their expectations for rate cuts downward, anticipating fewer cuts this year and a longer wait before easing. The cautious stance from Fed officials added to concerns that the Fed remains committed to a restrictive monetary policy.",85,80,75,-0.1
+1405,Negative,"Market expectations for rate cuts were tempered after the Fed meeting, despite a favorable inflation report. The Fed's focus on cautious policymaking created uncertainty among investors, leading to a sell-off in equities.",88,83,76,-0.1
+1406,Negative,"With market participants reacting to the Fed's steadfast position on interest rates and reluctance to commit to multiple rate cuts, the negative sentiment spread across the market despite initial optimism surrounding the inflation figures.",90,81,78,-0.15
+1407,Negative,"Investor sentiment turned negative as the Fed's message indicated a slower path towards rate cuts than previously anticipated due to ongoing inflationary pressures, unsettling the markets and leading to profit-taking.",87,82,74,-0.14
+1408,Negative,"The sell-off in equities was spurred by the Fed's firm commitment to maintain high interest rates based on stubborn inflation, causing investor confidence to wane amid fears of economic slowdown.",86,79,73,-0.12
+1409,Negative,"Despite the positive inflation data, the Fed's cautious stance implied that significant adjustments to monetary policy would not occur soon, prompting market participants to adjust their positions downward.",84,80,70,-0.13
+1410,Negative,"Markets reacted negatively as the Fed's commitment to a higher rate regime despite recent inflation data signaled prolonged borrowing costs, affecting investor confidence.",92,85,79,-0.16
+1411,Negative,"Though inflation readings showed signs of easing, the Fed's refusal to commit to imminent rate cuts led to market pessimism, stemming from fears of enduring high-interest environments.",89,82,76,-0.15
+1412,Negative,"The perceived hawkish tone from the Fed regarding interest rates led to a negative market reaction, overshadowing positive inflation data, as investors anticipated prolonged rate stability.",85,78,72,-0.12
+1413,Negative,"Following the Fed's announcement and its focus on inflation control, the market responded negatively as investors braced for sustained high borrowing costs amid uncertain economic signals.",90,82,77,-0.15
+1414,Negative,"The mixed signals regarding inflation and the Fed's intention to hold rates led to investor anxiety, causing wider selling across equities as confidence waned.",91,82,75,-0.18
+1415,Negative,"The Fed's decision to maintain high rates in light of cooling inflation was met with apprehension in the markets, contributing to negative sentiment and market declines.",90,80,74,-0.14
+1416,Negative,"While inflation eased, the Fed's persistent high-interest policy led investors to respond negatively, prompting a downward adjustment to equity valuations.",88,81,76,-0.13
+1417,Negative,"The Fed's cautious approach in light of inflation trends discouraged investors, leading to a negative market reaction as participants adjusted their outlook for the monetary policy trajectory.",87,83,77,-0.15
+1418,Negative,"Despite upper signals regarding inflation, the Fed's resistance to rate cuts pushed the market toward negativity as investors reassessed their positions amid cautious commentary.",86,82,75,-0.14
+1419,Positive,"The positive market reaction is attributed to the Fed signaling fewer rate cuts and showing confidence in controlling inflation, leading to a positive market sentiment. The market was anticipating these dovish moves, which align with investor expectations.",75,80,70,0.004
+1420,Positive,"Market participants reacted positively to the Fed's announcement of maintaining stable interest rates and a commitment to re-evaluate inflation data before making further cuts, reflecting a stabilization of economic outlook.",73,79,72,0.005
+1421,Negative,"The market responded negatively as Powell's cautious approach and hints of potential rate cuts were seen as inadequate to spur confidence in the market recovery, despite lower inflation readings.",72,75,68,-0.002
+1422,Negative,"Despite better inflation figures, the market's negative reaction stemmed from the Fed's reluctance to commit to a quick recovery and potential rate cuts, leading to uncertainty about future policy.",74,76,70,-0.0015
+1423,Negative,"The lukewarm guidance regarding interest rates and inflation control did not satisfy market expectations for a more aggressive approach from the Fed, leading to reduced investor confidence.",70,78,69,-0.0008
+1424,Positive,"Investors saw the Fed's continued control over inflation and positive economic indicators as hopeful signs, resulting in a positive market reaction despite previous concerns.",75,82,74,0.003
+1425,Positive,"The optimism from the Fed's projections and their cautious approach to rate cuts inspired confidence among investors, helping uplift market sentiment.",76,81,73,0.0045
+1426,Negative,"The negative response occurred because the market expected more aggressive action on rate cuts, but the Fed's cautious stance remained unchanged despite recent inflation data.",72,75,71,-0.0015
+1427,Negative,Mark normalization signals were interpreted with skepticism as investors anticipated a need for stronger economic indicators before the Fed adjusts monetary policy significantly.,71,77,69,-0.0021
+1428,Negative,The enhanced inflation concerns coupled with the Fed's refusal to quicken the pace of rate cuts led to a significant decline in market confidence.,72,78,70,-0.003
+1429,Positive,The combination of stabilizing inflation data and optimistic pricing for Fed’s future rate cuts contributed to a positive market environment.,74,79,67,0.002
+1430,,,,,,
+1431,,,,,,
+1432,Positive,The overall policy continuity combined with sustained investor confidence in economic recovery encouraged traders to favor a positive outlook.,75,79,73,0.0025
+1433,,,,,,
+1434,Negative,"The market reacted negatively due to a combination of the Fed's decision to maintain a cautious stance and the cooling inflation report, which, while positive for some, led to uncertainty around future rate cuts and overall economic health. The mixed signals from economic indicators resulted in market caution.",72,68,65,-0.0001
+1435,Negative,The market's negative reaction stemmed from the continued uncertainty about the Fed's commitment to tightening policy despite the slightly positive CPI data. Investors are concerned about how underlying inflation pressures could complicate future decisions.,70,66,64,-0.0003
+1436,Negative,"Market negativity was driven by mixed messages regarding inflation and unemployment. While some indicators improved, overarching concerns about a robust economic recovery with consistent inflation pressures led to a cautious market tone.",69,67,63,-0.0003
+1437,Negative,"Despite a positive CPI report, uncertainty about persistent inflation and its impact on Fed policy led to a negative market reaction. Investors are wary of rate hikes being delayed amid signs of economic pressure on households.",71,65,62,-0.0002
+1438,Negative,"The market response was negative, as the overall economic picture remained uncertain. While inflation showed signs of cooling, worries about future Fed actions amidst still-present inflation pressures caused a pullback in investor confidence.",72,69,66,-0.0004
+1439,Negative,"Uncertainty surrounding the Federal Reserve's future interest rate decisions, influenced by the mixed economic data, led to a cautious market mood, further aggravated by inflation persistence.",68,65,60,-0.0003
+1440,Negative,"The market's reaction was negative, driven by concerns that while inflation data improved, the overall economic context still pointed towards potential challenges, creating anxiety over the Fed's next moves.",70,68,65,-0.0004
+1441,Negative,"Despite progress on inflation, the atmosphere of uncertainty and skepticism about the Fed's capacity to cut rates soon led to market hesitance and resulted in a drop.",69,66,63,-0.0002
+1442,Negative,"The negative market reaction was mainly attributed to the continued inflation issues which conflicted with optimistic readings, making investors wary of significant changes in monetary policy.",71,68,65,-0.0001
+1443,Negative,"While there were positive developments in inflation, the overall market concerns regarding rate stability due to economic pressures led to a negative response.",70,67,64,-0.0003
+1444,Negative,The mixed signals regarding inflation and heightened caution from the Fed regarding future cuts contributed to a negative market sentiment.,72,69,66,-0.0002
+1445,Negative,"Anxiety blocks ahead of the Fed's decision amidst economic fluctuations and persistent inflation caused investors to react negatively, anticipating limited immediate actions.",71,68,65,-0.0005
+1446,Negative,"With inflation data providing a mixed message, investors remained cautious, leading to a negative market reaction as they await clearer signals from the Fed.",69,65,62,-0.0004
+1447,Negative,"Market participants' worries about inflation and uncertain Fed actions overshadowed positive aspects of the economic indicators, resulting in a negative reaction.",68,66,64,-0.0006
+1448,Negative,"Despite some positive economic signals, the apprehension regarding persisting inflation kept investor sentiment subdued, leading to a negative market impact.",70,67,65,-0.0004
+1449,Negative,"Investors reacted negatively to the uncertainty around potential rate cuts amid inflation concerns. Discussions of upcoming cuts shifted focus from inflation control to economic stability, indicating a potential softening in monetary policy. | As the statements pointed to persistent inflation yet impending measures being discussed, there were clear market jitters causing further declines. Investors anticipated more delays in rate cuts.",65 60,70 75,60 65,-0.0005 -0.0007
+1450,Positive,"The initial statements indicated a balance between maintaining rates and addressing inflation, which led to brief optimism among investors regarding economic stability. | As more details emerged on the economy being resilient yet inflation being too high, doubts crept back in. Investors started to adjust their expectations negatively in response to mixed signals.",68 60,72 78,66 64,0.0004 -0.0003
+1451,Negative,"The early market response to the press conference reflected skepticism regarding the Fed’s remarks on inflation, leading to market sell-offs. | As further statements rolled out, the lack of definitive changes in policy and the framing of inflation as a continued concern brought back fears of prolonged high rates.",66 64,74 80,61 68,-0.0002 -0.0005
+1452,Negative,"As the discussions progressed and the tone remained cautious regarding rate cuts, market sentiment shifted toward selling, reflecting concern over slowing growth.",61,75,66,-0.0002
+1453,Positive,"Initial responses indicated optimism as signs of potential cuts and easing inflation created a light bullish sentiment in the market. | Further scrutiny of the remarks indicated a mixed outlook, prompting analysts to reconsider their positions, leading to negative reactions from the market.",70 69,76 72,63 65,0.0003 -0.0006
+1454,Negative,"When specific concerns about the job market and inflation were emphasized, markets dipped as fears of potential recession increased among investors.",61,79,62,-0.0004
+1455,Negative,Market sentiment shifted as concerns grew over a lack of concrete guiding signals regarding rate cuts.,65,76,64,-0.0005
+1464,Positive,"The initial statement included progress toward the 2% inflation goal and a welcoming tone towards rate cuts, which generally adds to market optimism.",85,90,88,1.5
+1465,Positive,"The statement indicating progress towards the inflation target reassured investors, resulting in a positive reaction. | Conflicting signals about inflation stability and the job market moderation led to some profit-taking and caution among investors.",87 82,85 78,80 79,1.3 -0.1
+1466,Positive,"The statement highlighted the reduced inflation and progress towards targets, resulting in optimism in the markets.",84,89,91,1.5
+1467,Positive,"Statements regarding the progress towards inflation control sent positive signals to the market, boosting stock prices.",85,88,84,1.2
+1470,Positive,"The Fed's signaling of potential rate cuts provided reassurance for the market, driving positive equity movements.",83,90,89,1.4
+1471,Positive,"Market responded favorably to the Fed's acknowledgment of inflation improvements and potential future cuts. | Powell's cautious framing of job gains and inflation risks led to mixed feelings, resulting in slight profit-taking.",88 76,90 82,87 79,1.6 -0.2
+1479,Positive,"The FOMC statement indicated progress towards the 2% inflation target, which is seen as a positive signal for rate cuts in the near term. Traders had already priced in high expectations for a rate reduction, and this confirmation contributed to a market uptick.",80,75,70,0.5
+1480,Positive,"The statement showed a shift towards acknowledging inflation drops and suggested a readiness to cut rates, fueling optimism in the markets. This change was well-received as it indicates the Fed is responding to economic conditions positively.",82,78,72,0.6
+1481,,,,,,
+1482,,,,,,
+1483,Negative,"The market's initial optimism from the FOMC statement shifted to caution as concerns about the rising unemployment rate were also integrated into the conversation, dampening immediate positive sentiments.",80,74,69,-0.4
+1484,,,,,,
+1485,Positive,"The broad consensus indicators suggest better progress toward inflation targets, leading investors to react positively due to increased confidence in potential rate cuts, bolstering market growth.",82,79,72,0.7
+1486,Negative,"After a hopeful outlook from the FOMC statement, analysts expressed concerns about potential political backlash regarding rate cuts, creating uncertainty that pushed the market down slightly.",75,70,68,-0.3
+1487,,,,,,
+1488,Positive,"The Fed’s admission of progress toward its inflation target gave investors confidence that a rate cut could be on the horizon, fueling a more favorable market response in anticipation of the press conference.",78,74,66,0.4
+1489,,,,,,
+1490,Positive,"With signs of both inflation cooling and job market stabilization, the market reacted positively to the possibility of rate cuts, benefiting from improved economic outlook.",80,76,68,0.5
+1494,Positive,"The Fed signaled greater confidence in reducing inflation to the 2% target and indicated that a rate cut is likely, which reassures investors and improves market sentiment.",85,80,70,0.75
+1495,Positive,"The clear intent to cut rates and the reduction in inflation risk enhance market optimism, indicating a strong recovery.",85,78,69,0.8
+1496,Positive,"Announcing a rate cut creates an environment of optimism among investors, maintaining confidence in continued economic recovery.",86,81,72,0.79
+1497,Positive,"The focus on maintaining the labor market alongside inflation progress is perceived positively by markets, indicating a balanced approach.",85,82,73,0.76
+1498,Positive,The news of a significant rate cut coupled with maintained focus on inflation restoration boosts market confidence.,84,79,71,0.75
+1499,Positive,Acknowledgment of inflation progress and suggestions of future rate cuts lead to bullish market sentiment.,83,78,70,0.77
+1500,Positive,"Indications from the Fed create optimism around future rate cuts, driving confidence in the economic outlook.",82,77,68,0.78
+1501,Positive,The strong signal of commitment from the Fed towards manageable inflation and employment projections fosters a bullish sentiment.,82,80,69,0.85
+1502,Positive,"The Fed's shift towards easing pressure on the economy leads to confidence among investors, reflected in positive market movement.",81,79,67,0.82
+1503,Positive,Market strengths are reinforced by the Fed's proactive measures and balanced approach toward economic recovery.,83,81,70,0.83
+1504,Positive,Confidence expressed by the Fed regarding inflation stability while managing labor market risks positively influences market sentiment.,84,80,68,0.81
+1505,Positive,"The forward clarity on monetary policy aligns with market expectations, stimulating investor confidence.",80,76,65,0.79
+1506,Positive,Indications of a gradual reduction in rates combined with inflation progress leads to enhanced market confidence.,81,78,66,0.72
+1507,Positive,The commitment to handle inflation with supportive measures for the labor market encourages a positive market response.,82,79,69,0.88
+1508,Positive,The proactive indication of rate cuts and recognition of inflation's downtrend supports market optimism.,83,80,70,0.84
+1509,Negative,"The market reacted negatively as the half-point cut indicated deeper concerns regarding the economy's health than previously expected. The mixed signals about inflation remaining elevated contrasted against the Fed's confidence in its trajectory, causing investors to reassess their outlook.",75,80,70,-0.0018374429742485
+1510,Negative,"Although there was an initial positive reaction due to the rate cut, the lingering uncertainty and potential implications for job growth resulted in a subsequent downward adjustment of market sentiment.",80,78,75,0.0006886226668987
+1511,Negative,The reaction was negative as the rate cut suggested troubled economic indicators despite the Fed’s claims of confidence in inflation trends. Concerns about job growth slowing spurred market pessimism.,76,82,79,0.0003893410639619
+1512,Negative,"Traders reacted negatively due to fears of an overheated labor market combined with a half-point cut, indicating more systemic weaknesses than initially perceived in economic forecasts.",74,79,77,-0.0010541234830364
+1513,Negative,"Despite the interest rate cut aiming to support economic activity, the market perceived underlying weaknesses in employment data, leading to a cautious and negative outlook.",72,75,68,-0.0009918254961763
+1514,Negative,"The significant cut led to fears regarding the Fed's inability to manage inflation effectively, overshadowing its positive intentions, ultimately resulting in a markedly negative market response.",79,83,80,-0.0037182051740659
+1515,Negative,"The immediate market reaction was shaky, reflecting uncertainty about future rate cuts and confidence in economic stability, resulting in a negative adjustment for traders.",76,78,73,0.001221357528278
+1516,Negative,The market adjusted negatively as fears of a potential recession loomed larger with the cut and mixed signals related to employment trends persisted.,72,76,74,-0.0009373903795784
+1517,Negative,The cut signified potential weakness in the job market and inflation management that contributed to a downward market sentiment despite the overall confidence expressed by the Fed.,71,78,73,0.0003893410639619
+1518,Negative,"The reaction was predominantly negative, as the cut hinted at underlying weakness in economic health rather than strength, affecting market participants' confidence.",75,79,76,0.0004949228894828
+1519,Negative,"The overall market sentiment declined, influenced by fears of elevated unemployment and possible economic stagnation despite an alternative signal of confidence from the Fed.",74,77,72,-0.000846832794578
+1520,Negative,"The market's response turned negative following the cut, affected by lingering concerns over employment stability and inflation futility, leading to caution among investors.",76,72,71,0.0002942349914284
+1521,Negative,"After the rate reduction, the market's reaction was negatively influenced due to contradictions between the optimistic Fed narrative and the economic reality being faced, particularly in employment.",78,79,77,0.0002639569530274
+1522,Negative,The mixed signals about rate cuts and the Fed's ongoing concerns regarding inflation and the labor market contributed to a negative market reaction post-announcement.,75,80,78,-0.0001676349973993
+1523,Negative,"Although the rate cut was aimed at assuring economic stability, the persistent inflation concerns indicated broader economic issues, leading to a predominantly negative market reaction.",73,75,74,0.0003737635584521
+1524,Negative,"The language used in the Fed's statement indicated confidence in inflation being close to target, but the mention of risks to the labor market hints at economic uncertainty. Consequently, markets reacted negatively as they anticipated potential economic downturns.",80,75,70,-0.0006714136791701
+1525,Negative,"The Fed's cautious approach to cutting rates and the emphasis on potential unemployment issues likely triggered concerns in the market about subsequent economic performance, leading to a negative reaction.",75,70,65,-0.0001946353380976
+1526,Negative,"Despite the rate cut announcement, market sentiment turned negative as the details suggested an ongoing focus on unemployment and inflation risks, raising concerns about sustained economic strength.",78,76,72,-0.0005519926299477
+1527,Negative,"While the market anticipated rate cuts, the detailed commentary from the Fed pointing to potential unemployment issues and the ongoing focus on inflation created apprehensions, resulting in a negative market reaction.",79,75,73,-0.0004418475655493
+1528,Negative,"The mixed signals about the labor market and inflation provided by Powell contributed to market uncertainty, leading to a slight negative reaction as participants reassessed their expectations.",71,68,64,-0.0001063610096042
+1529,Negative,"The Fed’s acknowledgment of economic stress despite a rate cut indicated that confidence in future growth was waning, triggering a strong negative market reaction from investors.",74,70,66,-0.001791862124249
+1530,Negative,"The Fed’s shift toward potential future rate cuts without clear assurances regarding inflation created uncertainty in the market, leading to negative sentiment.",77,72,68,-0.0005519926299477
+1531,Negative,"The emphasis on labor market concerns amidst the rate cut reinforced investor fears regarding economic instability, resulting in a pronounced negative reaction.",80,76,73,-0.0011548969382432
+1532,Negative,"Despite market anticipation for the cut, the nuanced commentary from Powell suggesting ongoing challenges led to continued negative sentiment.",75,71,69,-0.0001946353380976
+1533,Negative,"The anticipated cut coupled with concerns over labor market dynamics caused a significant adverse market reaction, reflecting worries over economic sustainability.",79,74,70,-0.001791862124249
+1534,Negative,The Fed’s commitment to address inflation alongside noted hardships in the labor market produced a negative reaction as investors grew concerned about potential economic slowdowns.,76,72,69,-0.0004418475655493
+1535,Negative,Apprehension regarding ongoing inflation targets and labor market stability resulted in a negative market reaction following the announcement.,78,73,71,-0.0011548969382432
+1536,Negative,"Investors were unsettled by the Fed's acknowledgment of labor market vulnerabilities amidst the rate cut, which detracted from the initially positive sentiment.",75,71,68,-0.001791862124249
+1537,Negative,"The shift in focus from inflation success to labor market concerns contributed to market reservations, leading to another negative response.",76,73,71,-0.0005519926299477
+1538,Negative,"The market reaction reflected unease over sustained economic stability despite the rate cut, particularly with ongoing job market issues highlighted.",79,74,72,-0.001791862124249
+1539,Positive,"The announcement of a 0.5% cut in interest rates signals a strong commitment from the Fed to combat inflation and support the economy, which is positive for the markets. The positive commentary from Powell about maintaining a solid labor market reinforces confidence.",75,80,70,0.05
+1540,Negative,"Although there was initial positivity, the market reacted negatively as traders digested Powell's hints about being cautious with future rate cuts and the political implications of timing, indicating uncertainty.",78,72,65,-0.02
+1541,Positive,"As Powell reiterated confidence in inflation nearing its target and the balance of risks being manageable, markets reacted positively, suggesting increased investor confidence.",80,75,68,0.07
+1542,,,,,,
+1543,Negative,"Given Powell's statements about waiting for economic data before determining future cuts, fears about a slowing economy led to a slight downward movement in markets.",77,73,70,-0.03
+1544,Positive,"As markets reflect on Powell's overall positive outlook regarding inflation and the economy, investor sentiment turned positive again, leading to a slight bounce.",79,76,72,0.04
+1545,Negative,Concerns about the real effects of the cuts and potential recession due to ongoing high inflation led to a pullback in market sentiment as traders adjusted their expectations.,81,80,75,-0.05
+1546,Negative,"The uncertainty about future cuts and the political implications of the Fed's timing settled in, prompting cautiousness in the market as investors reassessed their positions.",84,82,78,-0.02
+1547,,,,,,
+1548,Positive,"Understanding that the Fed's policy outlook supports economic growth despite potential risks, traders felt encouraged, boosting market positions.",80,78,76,0.03
+1549,,,,,,
+1550,Positive,"Overall market optimism returned as Powell emphasized the Fed's commitment, leading to renewed investor enthusiasm.",83,81,75,0.06
+1551,,,,,,
+1552,Negative,"Realizing that despite cuts, inflation concerns lingered and that the labor market is weakening led to a slight downturn as traders reevaluated their positions.",74,73,76,-0.03
+1553,Negative,"The overarching concern about inflation re-accelerating and potential political implications created a selloff sentiment in the markets, ending on a negative note.",87,85,84,-0.01
+1554,Negative,"Anticipation of a rate cut, while pressures on inflation could raise concerns, leading to a negative response as investors brace for underlying economic challenges.",85,78,80,-0.000303
+1555,Negative,"The focus on potential inflation spikes due to election results may lead to caution among investors, negatively impacting market positioning.",88,79,81,-0.0001
+1556,Negative,"While anticipated cuts are expected to ease some pressure, concerns about Trump's future policies are magnified, clouding the economic outlook.",86,80,82,-0.000161
+1557,Negative,"Mounting worries about inflation due to policy changes may lead investors to react negatively, overriding any relief from rate cuts.",87,78,79,-0.000429
+1558,Negative,The uncertainty stemming from political influences and potential inflation increases dampens market confidence despite the expected rate cuts.,89,81,80,-0.000563
+1559,Negative,Investor fears about impulsive policy decisions resulting from recent election outcomes overshadow the benefits of the anticipated rate cuts.,84,77,82,-0.000471
+1560,Negative,Concerns about inflation pressures and uncertainty relating to new fiscal policies lead to a cautious reaction from investors ahead of the announcement.,85,78,81,-0.000305
+1561,Negative,Higher uncertainty about future policy under Trump coupled with potential inflation spikes leads to negative market sentiment despite rate cuts.,86,79,80,-0.000785
+1562,Negative,"Despite expected rate relief, underlying concerns about rising inflation and policy uncertainties significantly dampen investor confidence.",88,79,82,-0.000305
+1563,Negative,"Rising bond yields alongside fears of inflation drive a negative reaction, overshadowing the anticipated benefits from rate cuts.",87,80,79,-0.0002
+1564,Negative,Ongoing inflation concerns tied to fiscal policies discourage positive sentiment despite expected rate alterations.,89,81,80,-0.000161
+1565,Negative,"The challenging economic landscape shaped by recent election views pushes investors to respond cautiously, despite rate adjustments.",88,79,81,-0.00013
+1566,Negative,"Ongoing concerns regarding inflation alongside global economic uncertainties propel a negative market reaction, impacting investor confidence.",86,80,81,-0.00064
+1567,Negative,"The intersection of anticipated inflation pressures and rising costs creates a negative outlook, outweighing the comfort from rate cuts.",87,79,80,-0.0002
+1568,Negative,"Concerns rising from political upheaval and inflationary policies lead to caution in the market, overshadowing expected rate cuts.",86,79,81,-0.00024
+1569,Negative,Market reaction is bearish due to uncertainty surrounding Trump's policies which could derail current inflation trends. The commentary on future rate cuts raises concerns about the financial market's resilience under new economic strategies.,75,83,77,-0.5
+1570,Positive,"Investors are optimistic about potential rate cuts, viewing these as positive for economic growth. The commentary surrounding positive productivity growth supports a bullish sentiment.",70,75,80,0.25
+1571,Negative,"The announcement of a rate cut becomes overshadowed by fears regarding Trump's potential impact on inflation and fiscal policy, leading investors to reassess their outlook.",80,85,78,-0.6
+1572,Positive,"Initial reactions to the rate cut are positive; however, the market starts factoring in future uncertainties which may dilute the optimism.",76,82,75,0.3
+1573,,,,,,
+1574,Negative,The bearish market response stems from fears generated by Trump's proposals which may counteract anticipated benefits from rate cuts.,74,80,81,-0.55
+1575,Positive,"Positive sentiment prevails during the announcement phase due to rate cuts which are seen favorably, yet concerns linger leading to minor bullish strides.",75,84,79,0.2
+1576,,,,,,
+1577,Negative,"Post-announcement fear surfaces regarding inflationary shifts expected from Trump's policies, leading to a sell-off based on fear of market volatility.",78,88,70,-0.45
+1578,Negative,The market downturn correlates with rising uncertainties post-announcement about economic policies shaping inflation under Trump.,77,81,74,-0.5
+1579,,,,,,
+1580,Positive,Optimism surrounding proactive moves by the Fed leads to a mild increase leading into the announcement period.,74,77,80,0.15
+1581,,,,,,
+1582,Negative,Investor sentiment sours post-announcement as concerns over inflation return to the forefront amid new fiscal strategies from the new administration.,76,84,78,-0.35
+1583,Negative,"During the announcement, rising concerns regarding future inflation due to Trump's policies mar the optimism surrounding rate cuts.",71,79,77,-0.25
+1584,Negative,"Market concerns were heightened due to uncertainty about how Trump's presidency might influence Fed policies, especially regarding interest rates and inflation. The discussion about potential inflationary pressures from Trump's policies led to hesitance in market participation.",70,60,55,-0.02
+1585,Negative,"The Fed's anticipated rate cut prompted uncertainty. Investors began reassessing the implications of Trump's policies on inflation, causing downward pressure on market sentiment.",68,58,57,-0.03
+1586,Negative,"Despite expectations of a rate cut, market responses indicated concerns over potential inflationary effects of Trump's proposals, dampening investor enthusiasm.",72,65,60,-0.01
+1587,Negative,"The conversation about Trump's election influencing economic policies raised concerns of instability. Hence, markets reacted negatively to perceived risks of inflation outpacing growth.",75,62,64,-0.015
+1588,Negative,Market fears regarding potential rate hikes to combat inflation caused by Trump’s plans shifted investor sentiment negatively as uncertainty loomed.,71,67,59,-0.02
+1589,Negative,"Concerns about Trump's policies creating inflationary pressure weighed heavily on market sentiment, contributing to a negative reaction as investors sought stability.",74,63,61,-0.025
+1590,Negative,"Ongoing inflationary concerns related to Trump's proposed policies kept market reactions bearish, impacting confidence across sectors.",78,62,60,-0.022
+1591,Negative,"The combination of uncertain domestic economic policy post-election and the Fed's rate cut created apprehension in markets, prompting a retreat.",70,61,62,-0.019
+1592,Negative,"Trump's re-election increased tensions regarding future Fed policy, influencing market participants to react negatively even to the anticipated rate cuts.",72,64,65,-0.024
+1593,Negative,"With potential inflation from Trump’s economic plans, uncertainty prevailed in the markets, leading to notable negative reactions as traders adjusted expectations.",71,68,63,-0.026
+1594,Negative,The increased expectations around inflation and mixed signals in economic health post-election fueled negative market sentiment.,73,60,58,-0.027
+1595,Negative,"Trump's election raised fiscal concerns that could outweigh potential benefits of Fed's decisions, resulting in a negative market reaction.",76,59,61,-0.028
+1596,Negative,The expectations of inflation driven by Trump's policies led to fears and consequently a negative market reaction as uncertainty loomed.,74,65,64,-0.021
+1597,Negative,"Reactions stem from worries about Trump's policies increasing inflation, steering markets downward despite rate cuts.",77,62,60,-0.018
+1598,Negative,"With Trump's economic approach causing inflation worries, market sentiments remained bearish, resulting in downward pressure.",72,64,59,-0.02
+1599,Negative,The anticipation of inflationary pressures and the possibility of delayed rate cuts by the Fed likely created a negative market sentiment. This pessimism may reflect concerns over higher borrowing costs affecting economic growth.,40,35,38,-0.01486077654377
+1600,Negative,"Despite a broadly positive market environment, the concern over persistent inflation projected to rise above the Fed's 2% target dampened enthusiasm, leading to cautious trading; traders adjusted expectations for future Fed actions.",38,32,30,3.302019130690908e-05
+1601,Negative,"The Federal Reserve’s indications of possible inflation moderation coupled with an unwillingness to cut rates quickly may lead to a reduction in risk appetite, impacting market dynamics negatively.",42,34,36,-3.302905296978407e-05
+1602,Negative,"Events leading to speculation about future rate increases due to inflationary pressures prompted trader nervousness, resulting in a decline in stock prices despite a generally positive overall economic outlook.",39,37,35,0.0002643459294893
+1603,Negative,"Concerns over the Fed's cautious stance on rate cuts, amidst rising inflation, likely weighed down market sentiment, leading investors to retreat from riskier assets.",40,33,36,-0.0001983099293645
+1604,Negative,"Investor anxiety around potential inflation and the tightening of monetary policy increased following comments from the Fed, fueling a negative reaction from the market as uncertainty grew.",41,39,37,-0.0001817436276192
+1605,Negative,"Despite short-term gains, the acknowledgment of sustained inflation pressures from the Fed may have caused a cooling effect on markets as caution dominated trader sentiment.",43,36,35,-4.95654757500525e-05
+1606,Negative,Positive short-term momentum was overshadowed by the Fed's approach to inflation and potential rate hikes; investor sentiment shifted toward caution as uncertainty prevailed.,44,35,39,-0.0007473617400486
+1607,Negative,"The market's reaction to the Fed's perceived hesitance in easing monetary policy, set against a backdrop of rising inflation, culminated in a negative sentiment that led equities to retreat.",40,36,38,-0.0003302902604628
+1608,Negative,"An overall strong market was challenged by concerns regarding inflation and the Fed's future policy directions, resulting in a slight negative reaction as traders maneuvered around risky assets.",41,34,37,0.0001321756947673
+1609,Negative,"As the Fed's communications hinted at inflation persistence, market confidence waned, leading to a subdued response with a slight decline in securities' value.",38,35,36,6.607420132803136e-05
+1610,Negative,"Market sentiment soured due to fears of persistent inflation in the face of potential policy tightening by the Fed, prompting investors to reassess risk exposure.",40,39,32,-0.0001816470426867
+1611,Negative,"Market participants reacted negatively as concerns of inflation overshadowed any positive growth indicators, impacting trading strategies towards a more cautious approach.",39,36,34,-0.000132127530864
+1612,Negative,"Concerns around the Fed's inflation outlook coupled with reduced rate cuts expectations shifted market tone negatively, triggering defensive trading behavior among investors.",42,36,33,-0.0001983099293645
+1613,Negative,"Although the bullish trend continued, inflation uncertainty prompted a sell-off as analysts recalibrated their expectations on Fed policies, leading to market declines.",40,35,37,-0.0003302902604628
+1614,Positive,"The announcement of rate cuts alongside robust economic growth signals a positive outlook for markets, enhancing investor confidence.",65,72,70,1.15
+1615,Positive,"With consistent rate cuts and strengthening market conditions following Trump's reelection, optimism remains high.",60,68,69,0.37
+1616,Positive,The market reacts positively to insights on future rate cuts paired with economic resilience.,61,67,66,0.2
+1617,Positive,"Rate cuts alongside a strong job market provide reassurance to investors, leading to bullish reactions.",64,70,71,0.73
+1618,Positive,Confident economic recovery coupled with anticipated rate cuts supports market growth.,63,69,68,0.71
+1619,Positive,Positive sentiment stems from economic policies that are likely to stimulate growth alongside rate cuts.,62,87,89,0.512
+1620,Negative,"Concerns of inflation related to Trump's policies may unsettle investors, impacting market performance negatively.",61,67,69,-0.0019
+1621,Negative,"Rising inflation concerns, despite positive initial perception, bring about a negative reevaluation from investors.",65,72,70,-0.0025
+1622,Negative,"The potential for aggressive inflation due to Trump's policies creates apprehension in the markets, leading to negative reactions.",67,70,68,-0.0026
+1623,Negative,"Predictions of increased inflation from new policies cause concern on market stability, resulting in a negative reaction.",66,83,89,-0.0027
+1624,Positive,Moderate optimism persists despite inflationary warnings as the Fed signals continued support for economic growth.,62,68,70,0.0004
+1625,Positive,The more positive outlook may drive markets upward as fears are temporarily alleviated by Federal Reserve's statements.,61,63,65,0.0002
+1626,Negative,"As inflation risks loom larger, investors may retreat into caution despite initial optimism.",64,75,74,-0.0013
+1627,Negative,Concerns about the Fed's ability to manage inflation in response to political shifts lead to a cautious market.,62,71,72,-0.0014
+1628,Negative,"As the prospect of increasing inflation solidifies, the market reacts negatively despite initial upticks.",60,66,65,-0.0026
+1629,Positive,"Wall Street responded positively to the easing of inflation concerns, alongside Fed rate cuts that support economic growth, boosting confidence in equities.",78,85,80,0.67
+1630,Positive,"The expectation of rate cuts drove market optimism, enhancing the appeal of equities and boosting confidence in sectors like technology.",68,75,72,0.29
+1631,Positive,"The prospect of lower borrowing costs and a continuation of economic growth fueled market confidence, resulting in a marked increase in stock valuations.",70,82,78,1.4
+1632,Positive,"Increased expectations for Fed's accommodative stance helped accelerate market gains, particularly in growth sectors driven by innovations.",73,80,77,0.67
+1633,Positive,"The announcement about maintaining a favorable economic environment supported risk-taking sentiment among investors, contributing to market stability.",74,79,75,0.19
+1634,Positive,"Market optimism surged as Fed rate cuts were confirmed, alleviating fears of rising inflation and promoting investment in equities.",82,87,80,0.67
+1635,Positive,Investors reacted favorably to the Fed's anticipated dovish policies aimed at stimulating economic activity and managing inflation.,69,81,76,0.18
+1636,Positive,Confidence in the Fed's strategy to navigate inflation while fostering growth led to a bullish sentiment across markets.,74,80,78,0.42
+1637,Positive,"The Fed's commitment to maintaining low rates and supporting the economy resonated well with investors, leading to a favorable market response.",71,83,77,0.22
+1638,Positive,"Market reassurance from Fed rate cuts and favorable economic indicators encouraged a broad-based rally, enhancing investor confidence.",79,85,82,0.67
+1639,Positive,"Tensions are elevated, but the underlying sentiment remains positive as market participants expect the Fed to act favorably amidst inflation concerns.",75,81,76,0.17
+1640,Positive,"Expectations around stimulative policies and a supportive monetary environment fueled bullish market trends, even amidst pressure from inflation.",73,82,79,0.15
+1641,Positive,"Investor confidence was bolstered by Fed signals of continued economic support, leading to robust market performances.",70,78,73,0.19
+1642,Positive,"The firm stance of the Fed on rate cuts and managing inflation lead to favorable market conditions, fostering a bullish sentiment.",76,85,81,0.67
+1643,Positive,"Market sentiment thrived on news of rate cuts and the Fed’s pledge to supportive policies, strengthening stock valuations.",79,83,78,0.38
+1644,Positive,"The initial market reaction may be buoyed by optimism surrounding Federal Reserve rate cuts and strong economic indicators leading to record highs in major indexes, signaling confidence among investors.",40,50,45,0.5
+1645,Negative,"As discussions on potential impacts of inflation and geopolitical uncertainties, including possible tensions between Trump and Powell, arise, market confidence may wane.",42,48,43,-0.2
+1646,Negative,"The conclusion of the press conference may highlight ongoing inflationary pressures and uncertainties regarding rate decisions, causing a risk-off sentiment in the markets.",41,49,44,-0.3
