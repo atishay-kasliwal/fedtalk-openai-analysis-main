@@ -1,5 +1,10 @@
-from openai import OpenAI
-from api_keys import openai_api_key
+try:
+    from openai import OpenAI
+    from ..api_keys import openai_api_key
+    OPENAI_AVAILABLE = True
+except ImportError:
+    OPENAI_AVAILABLE = False
+    print("Warning: OpenAI not available. Some functions will be disabled.")
 import numpy as np
 from sklearn.model_selection import train_test_split
 import pandas as pd
@@ -9,6 +14,10 @@ client = OpenAI(api_key=openai_api_key)
 
 
 def rate_news(news):
+    if not OPENAI_AVAILABLE:
+        print("OpenAI not available. Returning default values.")
+        return "neutral", "moderate"
+        
     system_prompt = """
     Suppose you are an analyst, and you need to classify the content of a speech in a certain society and determine the emotional bias of the speech.
     Categories:

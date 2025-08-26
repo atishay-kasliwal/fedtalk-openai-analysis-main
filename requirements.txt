@@ -19,6 +19,9 @@ nltk>=3.7
 textblob>=0.17.1
 spacy>=3.4.0
 
+# AI and OpenAI
+openai>=1.0.0
+
 # Media processing
 opencv-python>=4.6.0
 moviepy>=1.0.3
