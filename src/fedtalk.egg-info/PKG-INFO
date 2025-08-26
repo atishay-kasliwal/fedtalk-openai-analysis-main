@@ -1,0 +1,183 @@
+Metadata-Version: 2.4
+Name: fedtalk
+Version: 1.0.0
+Summary: Analysis of Federal Reserve Announcements Impact on Stock Markets
+Home-page: https://github.com/atishaykasliwal/fedtalk-openai-analysis
+Author: Atishay Kasliwal
+Author-email: atishay.kasliwal@example.com
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Financial and Insurance Industry
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Topic :: Office/Business :: Financial :: Investment
+Classifier: Topic :: Scientific/Engineering :: Information Analysis
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: pandas>=1.5.0
+Requires-Dist: numpy>=1.21.0
+Requires-Dist: scipy>=1.9.0
+Requires-Dist: scikit-learn>=1.1.0
+Requires-Dist: yfinance>=0.1.87
+Requires-Dist: pandas-datareader>=0.10.0
+Requires-Dist: ta-lib>=0.4.24
+Requires-Dist: matplotlib>=3.5.0
+Requires-Dist: seaborn>=0.11.0
+Requires-Dist: plotly>=5.10.0
+Requires-Dist: nltk>=3.7
+Requires-Dist: textblob>=0.17.1
+Requires-Dist: spacy>=3.4.0
+Requires-Dist: opencv-python>=4.6.0
+Requires-Dist: moviepy>=1.0.3
+Requires-Dist: librosa>=0.9.0
+Requires-Dist: sqlalchemy>=1.4.0
+Requires-Dist: pymongo>=4.0.0
+Requires-Dist: requests>=2.28.0
+Requires-Dist: beautifulsoup4>=4.11.0
+Requires-Dist: lxml>=4.9.0
+Requires-Dist: openpyxl>=3.0.0
+Requires-Dist: xlrd>=2.0.0
+Requires-Dist: pytest>=7.0.0
+Requires-Dist: black>=22.0.0
+Requires-Dist: flake8>=5.0.0
+Provides-Extra: dev
+Requires-Dist: pytest>=7.0.0; extra == "dev"
+Requires-Dist: black>=22.0.0; extra == "dev"
+Requires-Dist: flake8>=5.0.0; extra == "dev"
+Requires-Dist: mypy>=0.991; extra == "dev"
+Provides-Extra: notebooks
+Requires-Dist: jupyter>=1.0.0; extra == "notebooks"
+Requires-Dist: ipykernel>=6.0.0; extra == "notebooks"
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: provides-extra
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+# FedTalk: Federal Reserve Announcements Impact Analysis
+
+A comprehensive toolkit for analyzing the relationship between Federal Open Market Committee (FOMC) announcements and stock market reactions using various time intervals and data sources.
+
+## 🏗️ Project Structure
+
+```
+fedtalk-openai-analysis-main/
+├── README.md                 # This file
+├── requirements.txt          # Python dependencies
+├── setup.py                 # Package installation script
+├── src/                     # Source code
+│   └── fedtalk/            # Main package
+│       ├── __init__.py      # Package initialization
+│       ├── analysis/        # Analysis utilities
+│       ├── data/            # Data management
+│       ├── utils/           # Helper utilities
+│       └── pipeline/        # Data processing pipeline
+├── data/                    # Data files
+│   ├── raw/                 # Raw data files
+│   ├── processed/           # Processed data files
+│   └── results/             # Analysis results
+├── docs/                    # Documentation
+├── notebooks/               # Jupyter notebooks
+├── tests/                   # Test files
+├── config/                  # Configuration files
+└── outputs/                 # Generated outputs
+```
+
+## 🚀 Features
+
+- **Multi-timeframe Analysis**: Analyze market reactions at 1-minute, 5-minute, and 10-minute intervals
+- **Sentiment Analysis**: Process news articles and statements for sentiment scoring
+- **Market Data Integration**: Combine price data with news sentiment
+- **Visualization Tools**: Generate charts and graphs for analysis
+- **Pipeline Automation**: Automated data processing workflows
+
+## 📦 Installation
+
+1. Clone the repository:
+```bash
+git clone <repository-url>
+cd fedtalk-openai-analysis-main
+```
+
+2. Create a virtual environment:
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
+
+3. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+## 🔧 Usage
+
+### Basic Analysis
+```python
+from fedtalk.analysis import analysis_util
+from fedtalk.pipeline import pipeline
+
+# Run the main analysis pipeline
+pipeline.run_analysis()
+```
+
+### Custom Analysis
+```python
+from fedtalk.utils import finance_util, media_util
+
+# Analyze specific time periods
+results = finance_util.analyze_market_reactions(
+    start_date="2024-07-31",
+    end_date="2024-12-31"
+)
+```
+
+## 📊 Data Sources
+
+- **FOMC Statements**: Official Federal Reserve announcements
+- **News Articles**: Financial news coverage
+- **Market Data**: Stock price movements and volatility
+- **Sentiment Scores**: NLP-based sentiment analysis
+
+## 🧪 Testing
+
+Run the test suite:
+```bash
+pytest tests/
+```
+
+## 📝 Contributing
+
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Add tests if applicable
+5. Submit a pull request
+
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## 👨‍💻 Author
+
+**Atishay Kasliwal** - Financial Data Analyst and Researcher
+
+## 🤝 Acknowledgments
+
+- Federal Reserve Economic Data (FRED)
+- Financial news sources
+- Open-source data science community
+
+---
+
+For questions or support, please open an issue in the repository.
