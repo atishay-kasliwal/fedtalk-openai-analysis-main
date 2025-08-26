@@ -1,0 +1,38 @@
+# FedTalk Configuration File
+
+# Data Sources
+data:
+  raw_data_path: "data/raw"
+  processed_data_path: "data/processed"
+  results_path: "data/results"
+  
+# Analysis Settings
+analysis:
+  timeframes: [1, 5, 10]  # minutes
+  sentiment_threshold: 0.1
+  volatility_window: 30  # minutes
+  
+# Market Data
+market:
+  symbols: ["SPY", "QQQ", "IWM", "TLT"]
+  start_date: "2024-01-01"
+  end_date: "2024-12-31"
+  
+# News Processing
+news:
+  sources: ["reuters", "bloomberg", "cnbc", "wsj"]
+  max_articles_per_day: 100
+  sentiment_model: "textblob"
+  
+# Output Settings
+output:
+  format: "csv"
+  charts_format: "png"
+  save_intermediate: true
+  
+# Logging
+logging:
+  level: "INFO"
+  file: "pipeline.log"
+  max_size: "10MB"
+  backup_count: 5
