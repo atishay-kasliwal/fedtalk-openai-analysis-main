@@ -1,0 +1,13 @@
+Interval,Statement Price Movement,Interval Price Movement,Volatility (Standard Deviation)
+1Min,positive,positive,0.0371775357090383
+1Min,positive,negative,0.036960484152619134
+1Min,negative,positive,0.03808259096308692
+1Min,negative,negative,0.03233238805258221
+5Min,positive,positive,0.036186213731931385
+5Min,positive,negative,0.040601035351254124
+5Min,negative,positive,0.04028033605823974
+5Min,negative,negative,0.03525045254394794
+10Min,positive,positive,0.035862287247787644
+10Min,positive,negative,0.04282306462421906
+10Min,negative,positive,0.04446380359461612
+10Min,negative,negative,0.027063497566981638

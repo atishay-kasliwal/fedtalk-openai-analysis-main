@@ -1,0 +1,12 @@
+"""
+API Keys configuration for FedTalk
+
+Copy this file to api_keys.py (in the same directory) and fill in your
+actual keys. api_keys.py is gitignored and must never be committed.
+"""
+
+openai_api_key = "your-openai-api-key-here"
+pinecone_api_key = "your-pinecone-api-key-here"
+
+# Alpaca and other keys are read from environment variables instead
+# (see ALPACA_API_KEY / ALPACA_SECRET_KEY in fedtalk.utils.finance_util)

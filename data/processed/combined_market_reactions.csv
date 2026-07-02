@@ -1,0 +1,51 @@
+Id,Reaction,Percent change,Explanation,Similarity 1,Similarity 2,Similarity 3
+1463,Positive,1.5,"The Fed hinted at potential rate cuts if inflation continues to reduce, which buoyed market confidence.",0.88,0.85,0.87
+1464,Positive,1.3,"The Fed characterized inflation as 'somewhat elevated' but showed willingness to cut rates, encouraging traders.",0.86,0.84,0.83
+1465,Positive,1.5,"Market optimism boosted by Fed's confidence in inflation reduction, suggesting possible rate cuts.",0.85,0.83,0.84
+1466,Positive,1.2,"Fed shows readiness to examine rate cuts more closely as inflation falls, leading to increased market confidence.",0.87,0.85,0.88
+1467,Positive,1.4,The Fed's cautious optimism about inflation gives markets hope for stimulus through rate cuts.,0.86,0.84,0.85
+1468,Positive,1.3,The Fed's strong communication about monitoring inflation and labor market gives confidence for upcoming growth.,0.88,0.87,0.89
+1469,Positive,1.6,Indications of potential rate cuts lead to improved market sentiment and willingness to invest.,0.85,0.84,0.86
+1470,Positive,1.4,"The Fed's balanced assessment of inflation and employment signals room for cuts, enhancing market trust.",0.87,0.86,0.88
+1471,Positive,1.5,Further progress in inflation management suggests the Fed may be moving towards supportive policies.,0.86,0.85,0.87
+1472,Positive,1.3,Confidence in the Fed's ability to manage inflation effectively reassures investors of economic stability.,0.88,0.87,0.89
+1473,Positive,0.75,"The Fed signaled greater progress toward the inflation target, stirring investor optimism about a potential rate cut as inflation cools.",0.88,0.85,0.9
+1474,Positive,0.7,Hints of a rate cut and acknowledgment of better balance in economic risks lead to positive sentiment among investors.,0.85,0.84,0.89
+1475,Positive,0.6,"The Fed's cautious optimism regarding inflation and employment opens the door for possible rate cuts, boosting market confidence.",0.87,0.83,0.91
+1476,Positive,0.65,"Favorable inflation data hints at potential rate cuts, leading to increased market optimism.",0.9,0.86,0.92
+1477,Positive,0.8,Market enthusiasm for a possible rate cut increases after the Fed demonstrates greater confidence in achieving its inflation target.,0.89,0.86,0.88
+1478,Positive,0.77,The Fed's closer confidence toward rate cuts amid cooling inflation enhances investor sentiment.,0.88,0.84,0.89
+1479,Positive,0.75,The market expects a rate cut as signs of balancing inflation and labor risks bolster investor outlook.,0.9,0.88,0.91
+1480,Positive,0.72,Expectations of rate cuts based on recent inflation data drive positive market reactions.,0.87,0.83,0.9
+1481,Positive,0.76,"Investors react positively to the Fed's considerations of rate cuts, given easing inflation.",0.88,0.85,0.89
+1482,Positive,0.74,The prospect of rate cuts amid improved inflation metrics elicits positive market reactions.,0.89,0.82,0.9
+1493,Positive,1.5,"Confidence in Fed's commitment to reducing inflation suggests lower rates in near future, prompting optimism in the market.",0.85,0.8,0.75
+1494,Positive,1.3,Fed's acknowledgment of economic progress and potential rate cuts indicates a favorable environment for investment.,0.8,0.82,0.78
+1495,Positive,1.5,Expectation of rate cuts feeds market optimism as economic data trends are favorable for investors.,0.87,0.83,0.79
+1496,Positive,1.4,Signs of reduced inflation alongside job gains create a conducive environment for continued stock market growth.,0.84,0.81,0.76
+1497,Positive,1.3,A signal of potential further rate cuts alongside a more favorable inflation outlook uplifts market sentiment.,0.86,0.8,0.74
+1498,Positive,1.4,Increased confidence to lower rates based on inflation trends effectively galvanizes positive market movements.,0.85,0.82,0.77
+1499,Positive,1.5,Recognition of improving inflation metrics alongside anticipated rate cuts fosters optimism among investors.,0.88,0.8,0.76
+1500,Positive,1.3,"Communicating confidence in inflation reduction gives implicit support for economic growth, boosting market morale.",0.87,0.83,0.75
+1626,Positive,1.5,"The anticipation of Federal Reserve interest rate cuts and a bullish market due to technology and energy stock gains, driven by post-pandemic resilience, are likely to stimulate market enthusiasm.",0.85,0.78,0.82
+1627,Positive,1.7,Continued optimism from lower borrowing costs and significant gains in technology and energy sectors indicate further upward movement in the major indexes.,0.87,0.8,0.83
+1628,Positive,1.6,"The strong performance of small-cap and crypto stocks, along with the positive economic outlook from Federal Reserve policies, suggests a robust market reaction.",0.84,0.79,0.81
+1629,Positive,1.8,"The market is buoyed by Trump’s victory, fostering market confidence and risk-taking behaviors that could lead to higher stock prices.",0.86,0.77,0.8
+1630,Positive,1.9,The announcement of Federal Reserve rate cuts coupled with a strong showing from technology stocks bolsters investor sentiment.,0.85,0.76,0.79
+1631,Positive,1.4,"A favorable economic outlook, combined with technological advancements and signs of market resilience, leads to increased investor optimism.",0.88,0.78,0.82
+1632,Positive,1.6,Investor expectation of sustained economic growth from lower borrowing costs and Federal Reserve support contributes to positive market movement.,0.89,0.81,0.84
+1633,Positive,1.5,"A combination of tariff changes and fiscal policies under Trump promise to enhance economic activities, increasing market optimism.",0.9,0.8,0.83
+1634,Positive,1.6,"The overall improvement in market conditions, including rate cuts and resilient economic indicators, supports a growth-centric market reaction.",0.91,0.82,0.85
+1635,Positive,1.8,Confident market sentiment is sustained by constructive macroeconomic developments and anticipated monetary policy easing.,0.91,0.83,0.87
+1636,Negative,-0.5,"Market interpretation suggests that the Fed's rate cuts may not be sufficient to alleviate inflationary pressures, leading to a lack of investor confidence.",0.75,0.82,0.78
+1637,Negative,-0.4,"Despite robust economic signals, concerns about potential inflation due to upcoming policy changes undermine market enthusiasm.",0.76,0.81,0.79
+1638,Negative,-0.6,"The optimistic market gains are tempered by inflation fears, leading to cautious investor sentiment.",0.77,0.83,0.77
+1639,Negative,-0.5,"Investor concerns regarding inflation overshadow the positive economic outlook, prompting a sell-off.",0.74,0.8,0.76
+1640,Negative,-0.3,The optimism surrounding lower interest rates is limited by inflationary concerns which could impact future policy.,0.75,0.79,0.78
+1641,Negative,-0.5,"The combination of strong economic indicators paired with inflation concerns creates uncertainty, resulting in negative market movement.",0.76,0.82,0.75
+1642,Negative,-0.4,"More aggressive inflation forecasts lead to cautious investor behavior, countering the previous market highs.",0.78,0.81,0.76
+1643,Negative,-0.6,"Investors pull back in response to rising inflation worries, despite earlier market euphoria.",0.77,0.83,0.78
+1644,Negative,-0.5,"The potential for inflation raises questions about the sustainability of market gains, causing declines.",0.75,0.8,0.77
+1645,Negative,-0.5,Inflation fears in light of policy changes lead to market corrections despite initial optimism.,0.76,0.82,0.79
+1646,Positive,1.5,"The market responded positively due to the bullish trend in major indexes, supported by rate cuts and advances in tech stocks, signaling continued economic resilience.",0.85,0.75,0.7
+1646,Neutral,0.0,"Despite a bullish trend, inflationary concerns may lead to cautious sentiments, containing broader market movements.",0.8,0.76,0.68
